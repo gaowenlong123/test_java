@@ -13,8 +13,8 @@ public class varargs_test {
 
     public static void main(String[] args) {
 
-        a();
-        a(1,4,5,6);
+//        a();
+//        a(1,4,5,6);
 
     }
 
