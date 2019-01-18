@@ -2,10 +2,7 @@ package day13;
 
 import com.mysql.jdbc.Driver;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 
 /**
  * 1：注册驱动  ： 告诉虚拟机，是哪个数据库的驱动
@@ -49,11 +46,32 @@ public class JDBC_test {
         //执行sql语句
         // int executeUpdate()  insert ,delete ,update 只能三个操作，因为返回的是int ，为了验证成功修改几行
         int row = stat.executeUpdate("INSERT INTO tb_info(id,sname ,age )VALUES (6,'gao' ,20)");
-
         System.out.println(row);
 
         //释放资源
         stat.close();
+        con.close();
+
+
+        String sql = "SELECT * FROM users WHERE username=? AND PASSWORD=?";
+        PreparedStatement pst = con.prepareStatement(sql);  ///方法中的参数，全用问号占位符
+        String user = "";
+        String password = "";
+
+        //调用方法，将问号替换
+        pst.setObject(1 ,user);
+        pst.setObject(2,password);
+
+        //执行sql，获得结果集
+        ResultSet rs = pst.executeQuery();
+
+        System.out.println(rs);
+
+
+
+        //释放资源
+        rs.close();
+        pst.close();
         con.close();
     }
 }
