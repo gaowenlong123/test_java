@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+
+<!-- frameset 框架
+     rows 代表垂直空间分布
+	 cols代表水平空间分布
+	 
+	 frame用来显示html
+	 
+	 注意：frameset不能与body一起使用
+
+-->
+<!--上面站60空间，多余的给下面-->
+<frameset rows="60,*">
+	<frameset>
+		<frame src="top.html">
+	</frameset>
+
+	<!--左边占160，多余的给右边-->
+	<frameset cols="150,*">
+		<frame src="left.html">
+		<!-- 默认显示会员管理内容 -->
+		<frame src="vip.html" name="contentFrm">
+	</frameset>
+</frameset>
+</html>
