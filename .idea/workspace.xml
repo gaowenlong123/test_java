@@ -2,95 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24a3ba4e-dd78-4b12-90dc-e860a7f18294" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/103.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/TS9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/bookcover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/code.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/dayongxiaohua.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/dulala.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/euro.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/fish.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/java2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/ngcn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/oneplant.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/photog.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/subwayinshanghai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/think.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/travelbook.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/bookcover/tripcn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/IconTexto_WebDev_009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/billboard.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/bottomlogo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/botton_gif_025.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/buy.bmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/buy.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/buy1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/buy2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/buy3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/buybutton.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/car_step8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/cart.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/check_use.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/finalbutton.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/gif53_029.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/gwc_buy.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/gwc_jx.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/hottitle.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/index.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/info.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/infobg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/loginbg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/loginbutton.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/loginline.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/logintitle.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/menubg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/miniicon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/miniicon2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/miniicon3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/orderbutton.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/productlist.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/productlist.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/serchbutton.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/signup.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/signupbutton.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/bookstore/images/success.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/signup.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/frameset/finance.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/frameset/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/frameset/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/frameset/left.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/frameset/order.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/frameset/top.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/frameset/vip.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/HTML/test01.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/CSS/CSS_test01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/CSS/CSS_test02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/CSS/CSS_test03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_Web/CSS/myCSS.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_basic_knowledge/day1/abstract_class.java" afterPath="$PROJECT_DIR$/learn_basic_knowledge/day1/abstract_class.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_basic_knowledge/day1/test3.java" afterPath="$PROJECT_DIR$/learn_basic_knowledge/day1/test3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_basic_knowledge/day1/test5.java" afterPath="$PROJECT_DIR$/learn_basic_knowledge/day1/test5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_java.iml" afterPath="$PROJECT_DIR$/test_java.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring01/target/" />
@@ -104,103 +20,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_Web/HTML/form.html">
+      <file leaf-file-name="CSS_test02.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_Web/CSS/CSS_test02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="51" column="24" lean-forward="false" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+            <state relative-caret-position="174">
+              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_Web/HTML/frameset/index.html">
+      <file leaf-file-name="CSS_test03.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_Web/CSS/CSS_test03.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-41">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vip.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_Web/HTML/frameset/vip.html">
+      <file leaf-file-name="CSS_test04.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn_Web/CSS/CSS_test04.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-87">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="173">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="finance.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_Web/HTML/frameset/finance.html">
+      <file leaf-file-name="myCSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_Web/CSS/myCSS.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_Web/HTML/frameset/index2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/test2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/test4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-              <folding>
-                <element signature="e#361#369#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inter_face.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/inter_face.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/test6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="87">
+              <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -212,6 +66,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -232,11 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learn_basic_knowledge/day10/Sub_Callable.java" />
-        <option value="$PROJECT_DIR$/learn_basic_knowledge/day10/Callable_test.java" />
-        <option value="$PROJECT_DIR$/learn_basic_knowledge/day10/Synchronized_test.java" />
-        <option value="$PROJECT_DIR$/learn_basic_knowledge/day10/lock_test.java" />
-        <option value="$PROJECT_DIR$/learn_basic_knowledge/day10/Resource_test.java" />
         <option value="$PROJECT_DIR$/learn_basic_knowledge/day11/Resource_test.java" />
         <option value="$PROJECT_DIR$/learn_basic_knowledge/day11/Resource.java" />
         <option value="$PROJECT_DIR$/learn_basic_knowledge/day11/input.java" />
@@ -283,6 +133,11 @@
         <option value="$PROJECT_DIR$/learn_Web/Html/frameset/index.html" />
         <option value="$PROJECT_DIR$/learn_Web/Html/frameset/index2.html" />
         <option value="$PROJECT_DIR$/learn_basic_knowledge/day1/test1.java" />
+        <option value="$PROJECT_DIR$/learn_Web/CSS/myCSS.css" />
+        <option value="$PROJECT_DIR$/learn_Web/CSS/CSS.html" />
+        <option value="$PROJECT_DIR$/learn_Web/CSS/CSS_test02.html" />
+        <option value="$PROJECT_DIR$/learn_Web/CSS/CSS_test03.html" />
+        <option value="$PROJECT_DIR$/learn_Web/CSS/CSS_test04.html" />
       </list>
     </option>
   </component>
@@ -313,9 +168,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -352,8 +206,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn_Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,6 +238,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/basic_knowledge" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -935,20 +809,20 @@
       <workItem from="1547948391789" duration="3197000" />
       <workItem from="1547988336767" duration="8033000" />
       <workItem from="1548078927689" duration="1354000" />
-      <workItem from="1548593092768" duration="5968000" />
+      <workItem from="1548593092768" duration="6643000" />
+      <workItem from="1548681034102" duration="5439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119389000" />
+    <option name="totallyTimeSpent" value="125503000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -957,10 +831,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36006546" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09656301" sideWeight="0.47579426" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.497545" sideWeight="0.47579426" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19818456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20121029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -972,6 +846,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1022,41 +897,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day10/Thread_Pool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="24" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day10/Sub_Callable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day10/Callable_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="17" column="59" lean-forward="false" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day10/Synchronized_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day10/lock_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="35" column="46" lean-forward="false" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day11/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -1222,9 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="899">
           <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1232,7 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1240,7 +1076,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1856">
           <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1248,7 +1083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1263,7 +1097,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="870">
           <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1271,7 +1104,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="21" column="15" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="23" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1279,7 +1111,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="812">
           <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1287,25 +1118,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="899">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="e#331#339#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring01/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spring01/pom.xml" />
     <entry file="file://$PROJECT_DIR$/test_java.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1313,38 +1133,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="120" column="37" lean-forward="true" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn_Web/HTML/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
+        <state relative-caret-position="1479">
           <caret line="51" column="24" lean-forward="false" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn_Web/Html/frameset.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Web/Html/frameset.html" />
     <entry file="file://$PROJECT_DIR$/learn_Web/HTML/frameset/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
+        <state relative-caret-position="406">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_Web/HTML/frameset/vip.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1365,32 +1169,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="e#361#369#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/inter_face.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/test6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -1399,10 +1177,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Web/CSS/myCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Web/HTML/frameset/vip.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/inter_face.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day1/test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
+        <state relative-caret-position="159">
           <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Web/CSS/CSS_test01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Web/CSS/CSS_test02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Web/CSS/CSS_test03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Web/CSS/CSS_test04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>

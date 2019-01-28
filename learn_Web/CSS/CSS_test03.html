@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style type="text/css">
+        /* id 选择器 */
+        #div1{
+            color: red;
+        }
+
+        /* 类选择器 用的比较多 */
+        .cdiv2{
+            color: green;
+        }
+
+        /*元素选择器*/
+        div{
+
+        }
+
+        /*属性选择器*/
+        input[type="text"]{
+
+        }
+
+        /*伪类选择器*/
+        a:link{  color: red;  }/*未访问的*/
+        a:visited{color: green}
+        a:hover{} /*鼠标选中*/
+        a:active{}/*选定的连接*/
+
+        /*层级选择器*/
+        div div #span{
+            color: blueviolet;
+        }
+
+    </style>
+</head>
+<body>
+
+<div id="div1">div1</div>
+<div id="div2" class="cdiv2">div2</div>
+<div id="div3">div3</div>
+
+<a href="http://www.baidu.com">baidu</a>
+<a href="http://www.baidu.com/123">baidu123</a>
+
+<div>
+    <div>
+        <span id ="span">aaaaa</span>
+    </div>
+</div>
+</body>
+</html>
