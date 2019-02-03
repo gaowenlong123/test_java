@@ -1,0 +1,31 @@
+1：
+动态web资源开发技术： jsp/servlet ，asp ，php
+
+
+2：
+tomcat： 版本对应
+tomcat         servlet/jsp 规范     JDK版本
+9.0             3.0                   1.9
+8.0             3.0                   1.8
+7.0             3.0                   1.7
+6.0             2.5                   1.6
+
+3: javaweb项目生成war包
+File-->Project Structure-->Artifacts, 点击+，选择Web Application：archive
+
+可自定义war包的名称，输出的路径。
+
+点击+，选中Directory Content,选择要把哪个文件夹打成war包。点击OK，OK即可。
+
+2. Build-->Build Artifacts-->选中该Artifact即可！
+编译完成后，即可在输出目录下看到该war包：
+
+
+
+4: 将war包放在tomcat的webapps下 ， 他会自动解压成文件夹，访问文件名的域名，会自动跳转文件夹下面的html文件
+
+
+5：创建一个 javaweb项目
+https://blog.csdn.net/XTAOTWO/article/details/83717528
+    1：晚上记录一下
+    2：
