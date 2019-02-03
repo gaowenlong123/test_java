@@ -27,5 +27,8 @@ File-->Project Structure-->Artifacts, 点击+，选择Web Application：archive
 
 5：创建一个 javaweb项目
 https://blog.csdn.net/XTAOTWO/article/details/83717528
-    1：晚上记录一下
-    2：
+
+
+
+6:
+根据域名查DNS中的ip对应表，然后访问IP 。 如果配置hosts，就先查hosts，再查DNS

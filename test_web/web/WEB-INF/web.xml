@@ -3,4 +3,21 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
+
+    <!--配置servlet，也就是一个请求路径-->
+    <servlet>
+        <servlet-name>Test_servlet</servlet-name>
+        <servlet-class>com.gao.servlet.test_HttpServlet</servlet-class>
+        <!--为2 浏览器没有访问就直接创建 ，在tomcat启动的时候  -->
+        <load-on-startup>2</load-on-startup>
+    </servlet>
+
+    <!-- 一个servlet名称，关联起来class文件和项目下的域名  ： http://www.gwl.com:8080/test/mapping -->
+    <servlet-mapping>
+        <servlet-name>Test_servlet</servlet-name>
+        <url-pattern>/mapping</url-pattern>
+
+    </servlet-mapping>
+
+
 </web-app>
