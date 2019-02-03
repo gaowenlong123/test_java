@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<shujia>
+    <book>
+        <name> haha1 </name>
+        <price>100</price>
+    </book>
+
+    <book>
+        <name> haha2 </name>
+        <price>1100</price>
+    </book>
+
+    <book>
+        <name> haha3 </name>
+        <price>1200</price>
+    </book>
+
+</shujia>

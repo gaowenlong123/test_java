@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script type="text/javascript">
+
+        window.onload = function () {
+            //当页面加载出来，才执行 ，  防止js找元素的时候，没有加载出来
+            document.getElementById("aaa")
+        }
+
+        function my_alert() {
+            alert("my")
+        }
+
+        //第二种
+        var add = function (a ,b) {
+
+            alert(a+b);
+            return a+b;
+        }
+        add(3,40);
+
+
+        <!--全局函数-->
+        //将中文改成百分号的形式
+        var url1 =encodeURI("https://www.baidu.com?key=中国")
+        //将中午，特殊字符（冒号，双斜杠）等号转换成百分号的形式
+        var url2 = encodeURIComponent("https://www.baidu.com?key=中国")
+
+        //解码
+        decodeURI(url1)
+        decodeURIComponent(url2)
+
+
+
+        <!-- 事件 -->
+       /* function start() {
+            var span = document.getElementById("change")
+            span.innerHTML="start"
+        }*/
+
+       document.getElementById("change").onclick = function () {
+           //this当前事件的触发源
+           this.innerHTML = 'aaa'
+       }
+        
+        function final() {
+            var span = document.getElementById("change")
+            span.innerHTML="end"
+        }
+
+
+        //打开新页面跳转
+        window.open()
+        //在当前窗口的跳转
+        window.location('./test02_js.html')
+
+
+        //定时五秒，执行任务
+        var timer;
+        function start() {
+           timer=setTimeout(function () {
+               console.log("五秒后输出")
+           },5000)
+        }
+
+        //每隔两秒执行一次
+        function round() {
+            timer=setInterval(function () {
+                console.log("五秒后输出")
+            },2000)
+        }
+
+        //结束定时任务
+        function stop() {
+           clearTimeout(timer)
+
+        }
+    </script>
+
+
+
+</head>
+<body>
+
+<button onclick="my_alert()">  click me </button>
+<br>
+<input type="text" placeholder="aaaaa" onfocus="start()" onblur="final()">
+<span id="change"> o </span>
+
+</body>
+</html>
