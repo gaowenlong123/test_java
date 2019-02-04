@@ -1,0 +1,7 @@
+1: 创建一个servlet文件
+2：构建一个映射
+3：映射规则
+
+
+
+test_HttpServlet_request
