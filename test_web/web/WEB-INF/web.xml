@@ -7,7 +7,7 @@
     <!--配置servlet，也就是一个请求路径-->
     <servlet>
         <servlet-name>Test_servlet</servlet-name>
-        <servlet-class>com.gao.servlet.test_HttpServlet</servlet-class>
+        <servlet-class>com.gao.servlet.test_HttpServlet2</servlet-class>
         <!--为2 浏览器没有访问就直接创建 ，在tomcat启动的时候  -->
         <load-on-startup>2</load-on-startup>
     </servlet>
@@ -15,9 +15,28 @@
     <!-- 一个servlet名称，关联起来class文件和项目下的域名  ： http://www.gwl.com:8080/test/mapping -->
     <servlet-mapping>
         <servlet-name>Test_servlet</servlet-name>
-        <url-pattern>/mapping</url-pattern>
+
+
+        <!--映射1：任何以.do结尾的都可以访问servlet  ，这种写法前面不要加 / -->
+        <!-- <url-pattern>*.do</url-pattern>  -->
+
+        <!--映射2： /* 万能的访问servlet  -->
+        <!-- <url-pattern>*.do</url-pattern> -->
+
+        <!--映射3： /action/*    通过前缀来访问  -->
+       <!-- <url-pattern>/action/*</url-pattern>-->
+        <!-- 匹配优先级 -->
+        <!-- 绝对匹配 > /开头匹配 > 扩展名方式匹配 -->
+
+
+          <url-pattern>*.php</url-pattern>
 
     </servlet-mapping>
 
+    <!-- 全局变量 -->
+    <context-param>
+        <param-name>encoding</param-name>
+        <param-value>UTF-8</param-value>
+    </context-param>
 
 </web-app>

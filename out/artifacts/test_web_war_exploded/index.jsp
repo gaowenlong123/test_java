@@ -11,7 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  dadadaffff
+index.jsp
   $END$
   </body>
 </html>
