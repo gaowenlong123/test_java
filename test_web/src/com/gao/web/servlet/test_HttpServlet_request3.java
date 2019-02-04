@@ -14,6 +14,8 @@ import java.util.Map;
 
 /**
  * 1：因为根据请求的值，输出太麻烦，所以搞个model文件，将数据封装进类里面。这样便于对数据的操作
+ *
+ *
  * Created by Administrator on 2019/2/4 0004.
  */
 @WebServlet("/test_HttpServlet_request3")
@@ -35,22 +37,19 @@ public class test_HttpServlet_request3 extends HttpServlet {
          * hobby		{"studying","money"}
          */
         Map<String, String[]> map = request.getParameterMap();
+
+
         try {
             for(Map.Entry<String, String[]> entry : map.entrySet()){
+
+                //参数名
                 String pname = entry.getKey();
-				/*if(pname.equals("username")){
-					user.setUsername(entry.getValue()[0]);
-				}else if(pname.equals("hobby")){
-					user.setHobby(entry.getValue());
-				}*/
 
                 //反射
-                //创建属性描述器
-
+                //创建属性描述器                                 属性的名字     类名bean
                 PropertyDescriptor pd = new PropertyDescriptor(entry.getKey(), User.class);
 
                 //获取写入方法对象
-
                 Method method = pd.getWriteMethod();
 
                 //通过反射调用方法【怎么获取方法的参数类型】
@@ -60,6 +59,7 @@ public class test_HttpServlet_request3 extends HttpServlet {
                 }
 
                 String clzName = clzs[0].toString();
+                System.out.println(clzName);
                 String[] values = entry.getValue();
                 if(clzName.contains("[Ljava.lang.String")){
                     System.out.println("数组...");
@@ -69,13 +69,6 @@ public class test_HttpServlet_request3 extends HttpServlet {
                     method.invoke(user, values[0]);
                 }
 
-				/*String[] values = entry.getValue(); 这种方式有bug
-				if(values.length == 1){
-					method.invoke(user, values[0]);
-				}else{
-					method.invoke(user, (Object)values);
-				}
-				*/
             }
 
         } catch (Exception e) {
