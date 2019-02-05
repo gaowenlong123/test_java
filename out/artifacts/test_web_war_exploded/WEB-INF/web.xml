@@ -39,4 +39,10 @@
         <param-value>UTF-8</param-value>
     </context-param>
 
+    <!-- 配置全局session有效时间 -->
+    <session-config>
+        <!--  1分钟-->
+        <session-timeout>1</session-timeout>
+    </session-config>
+
 </web-app>

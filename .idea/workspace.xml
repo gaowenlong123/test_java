@@ -7,27 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a3ba4e-dd78-4b12-90dc-e860a7f18294" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Cookie/ViewBookServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/BuyBookServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/LoginServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/ShowAllBookServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/ValidateCodeServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_Session.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_Session2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/login.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/bookCity/DBUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/bookCity/ShowAllBookServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/bookCity/ViewBookServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/ViewBookServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/bookCity/DBUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/bookCity/ShowAllBookServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/bookCity/ViewBookServlet.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_Session3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_Session4.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/tips.txt" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/tips.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/tips.txt" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/tips.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/tips.txt" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/tips.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/DBUtils.java" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Cookie/DBUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/ShowAllBookServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Cookie/ShowAllBookServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/src/com/gao/model/Book.java" afterPath="$PROJECT_DIR$/test_web/src/com/gao/model/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/web.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring01/target/" />
@@ -50,31 +35,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tips.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/tips.txt">
+      <file leaf-file-name="test_Session3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_Session3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/LoginServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="48" column="74" lean-forward="false" selection-start-line="48" selection-start-column="74" selection-end-line="48" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShowAllBookServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/ShowAllBookServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-351">
-              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="513">
+              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,34 +47,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidateCodeServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/ValidateCodeServlet.java">
+      <file leaf-file-name="test_Session4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_Session4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_web/web/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-26">
-              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuyBookServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/BuyBookServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            <state relative-caret-position="354">
+              <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/model/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -146,8 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_javaWeb/web/test.html" />
-        <option value="$PROJECT_DIR$/test_javaWeb/src/com/gao/servlet/test_login.java" />
         <option value="$PROJECT_DIR$/test_javaWeb/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/learn_Web/HTML/form.html" />
         <option value="$PROJECT_DIR$/src/java_study/Base_Data.java" />
@@ -162,7 +115,6 @@
         <option value="$PROJECT_DIR$/test_web/src/com/gao/servlet/test_HttpServlet.java" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/servlet/test_HttpServlet3.java" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/servlet/test_HttpServlet4.java" />
-        <option value="$PROJECT_DIR$/test_web/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/servlet/test_HttpServlet5.java" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/servlet/test_HttpServlet7.java" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/servlet/test_HttpServlet6.java" />
@@ -174,7 +126,6 @@
         <option value="$PROJECT_DIR$/test_web/src/web/servlet/test_HttpServlet_request2.java" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/servlet/test_HttpServlet_request2.java" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_HttpServlet_request2.java" />
-        <option value="$PROJECT_DIR$/test_web/src/com/gao/model/Book.java" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_HttpServlet_request3.java" />
         <option value="$PROJECT_DIR$/test_web/web/form_post.html" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_HttpServlet_request4.java" />
@@ -197,6 +148,10 @@
         <option value="$PROJECT_DIR$/test_web/web/login.jsp" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/ValidateCodeServlet.java" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/test_web/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_Session4.java" />
+        <option value="$PROJECT_DIR$/test_web/src/com/gao/model/Book.java" />
+        <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_Session3.java" />
       </list>
     </option>
   </component>
@@ -315,15 +270,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="gao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servlet" />
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -346,52 +297,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bookCity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Session" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bookCity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cookie" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1135,7 +1040,7 @@
       <workItem from="1549300689863" duration="156000" />
       <workItem from="1549300901759" duration="1738000" />
       <workItem from="1549334787134" duration="3410000" />
-      <workItem from="1549351138543" duration="9628000" />
+      <workItem from="1549351138543" duration="11950000" />
     </task>
     <servers />
   </component>
@@ -1166,7 +1071,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199506000" />
+    <option name="totallyTimeSpent" value="201828000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1201,8 +1106,8 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39300135" sideWeight="0.47994268" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.47579426" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50201887" sideWeight="0.47994268" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44683716" sideWeight="0.47579426" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2299427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1284,7 +1189,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1293,20 +1198,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day2/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_Web/XML/test_junit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn_Web/XML/test01.tld">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1518,31 +1409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/model/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
-          <folding>
-            <element signature="e#163#164#0" expanded="false" />
-            <element signature="e#179#180#0" expanded="false" />
-            <element signature="e#208#209#0" expanded="false" />
-            <element signature="e#227#228#0" expanded="false" />
-            <element signature="e#254#255#0" expanded="false" />
-            <element signature="e#272#273#0" expanded="false" />
-            <element signature="e#308#309#0" expanded="false" />
-            <element signature="e#331#332#0" expanded="false" />
-            <element signature="e#360#361#0" expanded="false" />
-            <element signature="e#380#381#0" expanded="false" />
-            <element signature="e#420#421#0" expanded="false" />
-            <element signature="e#447#448#0" expanded="false" />
-            <element signature="e#475#476#0" expanded="false" />
-            <element signature="e#494#495#0" expanded="false" />
-            <element signature="e#532#533#0" expanded="false" />
-            <element signature="e#557#558#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_Cookie2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -1559,22 +1425,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_web/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Cookie/DBUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#652#653#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1584,7 +1442,7 @@
         <state relative-caret-position="229">
           <caret line="77" column="12" lean-forward="false" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1594,7 +1452,7 @@
         <state relative-caret-position="622">
           <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1673,8 +1531,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/LoginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="48" column="74" lean-forward="false" selection-start-line="48" selection-start-column="74" selection-end-line="48" selection-end-column="74" />
+        <state relative-caret-position="162">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_web/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="43" column="15" lean-forward="false" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_Session3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_Session4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_web/src/com/gao/model/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="41" />
           <folding />
         </state>
       </provider>
