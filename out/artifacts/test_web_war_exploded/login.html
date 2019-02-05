@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Insert title here</title>
+    <script type="text/javascript">
+
+        /**1.通过cookie的key来获取值此*/
+        function getCookieValue(key) {
+            //1.通过js来获取cookies
+            var cookie = document.cookie;//remember=true; username=gao
+
+            //2.拆分cookie
+            var cks = cookie.split('; ');
+
+            for(var i = 0; i<cks.length;i++){
+                var ck = cks[i];//remember=true 或 username=gao
+
+                //3.取name和value
+                var ckArr = ck.split("=");
+                var name = ckArr[0];
+                var value = ckArr[1];
+
+                //4.找到对应的key的 vlaue
+                if(key == name){
+                    return value;
+                }
+            }
+
+        }
+
+        //如果选择记住用户，展示在页面中
+        window.onload = function(){
+            var remember = getCookieValue('remember');
+            if(remember == 'true'){
+                //1.给记住用户名勾选中
+                var rememberTag = document.getElementById('remember');
+                rememberTag.checked = 'checked';
+
+                //2.给用户名显示上次登录名字
+                var username = getCookieValue('username');
+                var usernameTag = document.getElementById('username');
+                usernameTag.value = username;
+
+            }
+
+
+        }
+    </script>
+</head>
+<body>
+
+<form action="/test/test_Cookie2" method="post">
+    <table border="1">
+        <tr>
+            <td>用户名:</td>
+            <td><input id="username"  type="text" name="username"></td>
+        </tr>
+        <tr>
+            <td>密码:</td>
+            <td><input type="password" name="password"></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input  id="remember" type="checkbox" name="remember" value="true">记住用户名
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="登录">
+            </td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
