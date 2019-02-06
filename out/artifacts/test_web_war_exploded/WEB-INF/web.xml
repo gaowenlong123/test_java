@@ -7,7 +7,7 @@
     <!--配置servlet，也就是一个请求路径-->
     <servlet>
         <servlet-name>Test_servlet</servlet-name>
-        <servlet-class>com.gao.web.servlet.test_HttpServlet2</servlet-class>
+        <servlet-class>com.gao.web.servlet.test_element.test_HttpServlet2</servlet-class>
         <!--为2 浏览器没有访问就直接创建 ，在tomcat启动的时候  -->
         <load-on-startup>2</load-on-startup>
     </servlet>

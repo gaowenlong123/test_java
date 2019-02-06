@@ -1,16 +1,23 @@
 package com.gao.model;
 
-import java.util.Arrays;
+import java.util.Date;
 
+/**
+ * 对应数据库的字段
+ */
 public class User {
 
+	private int id;
 	private String username;
 	private String password;
-	private String gender;
-	private Address address;//用户所在地址
-
-	private String[] hobby;
-	private String remark;
+	private String email;
+	private Date birthday;
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
 	public String getUsername() {
 		return username;
 	}
@@ -23,56 +30,26 @@ public class User {
 	public void setPassword(String password) {
 		this.password = password;
 	}
-	public String getGender() {
-		return gender;
+	public String getEmail() {
+		return email;
 	}
-	public void setGender(String gender) {
-		this.gender = gender;
+	public void setEmail(String email) {
+		this.email = email;
 	}
-	public String[] getHobby() {
-		return hobby;
+	public Date getBirthday() {
+		return birthday;
 	}
-	public void setHobby(String[] hobby) {
-		this.hobby = hobby;
-	}
-	public String getRemark() {
-		return remark;
-	}
-	public void setRemark(String remark) {
-		this.remark = remark;
-	}
-	@Override
-	public String toString() {
-		return "User [username=" + username + ", password=" + password + ", gender=" + gender + ", hobby="
-				+ Arrays.toString(hobby) + ", remark=" + remark + "]";
-	}
-
-
-	public User(String username, String password, String gender) {
-		super();
-		this.username = username;
-		this.password = password;
-		this.gender = gender;
+	public void setBirthday(Date birthday) {
+		this.birthday = birthday;
 	}
 	public User() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	public Address getAddress() {
-		return address;
+	@Override
+	public String toString() {
+		return "User [id=" + id + ", username=" + username + ", password=" + password + ", email=" + email
+				+ ", birthday=" + birthday + "]";
 	}
-	public void setAddress(Address address) {
-		this.address = address;
-	}
-
-
-/*	private boolean aa;
-	public boolean id() {
-		return aa;
-	}
-	public void setAa(boolean aa) {
-		this.aa = aa;
-	}*/
-
-
+	
 }

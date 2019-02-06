@@ -12,7 +12,11 @@
     <title>$Title$</title>
   </head>
   <body>
-index.jsp
-  $END$
+index.jsp<br>
+<!-- <a href="login.jsp">登录</a>
+<a href="register.jsp">注册</a> -->
+<!-- 一般情况都会有超连接前面加个项目名称 -->
+<a href="${pageContext.request.contextPath}/login.jsp">登录</a>
+<a href="${pageContext.request.contextPath}/register.jsp">注册</a>
   </body>
 </html>

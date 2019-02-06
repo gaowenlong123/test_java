@@ -1,11 +1,12 @@
-<%@ page import="com.gao.model.User" %>
+<%@ page import="com.gao.model.account" %>
 <%@ page import="java.util.List" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page import="java.util.HashMap" %>
 <%@ page import="java.util.Map" %>
-<%@ page import="com.gao.model.Address" %><%--
+<%@ page import="com.gao.model.Address" %>
+<%--
   Created by IntelliJ IDEA.
-  User: Administrator
+  account: Administrator
   Date: 2019/2/6 0006
   Time: 下午 14:18
   To change this template use File | Settings | File Templates.
@@ -23,31 +24,31 @@
 	2.它是用来简化java代码
 
 	3.EL的使用方法 ${作用域的key.属性名}
-	  ${user.username},实现是调用user对象的getUsername方法
+	  ${account.username},实现是调用user对象的getUsername方法
 
 	//1.jsp往request存数据
 --%>
 
 <!-- 1.el的基本使用 -->
 <%
-    User user = new User("习大大","123","男");
-    user.setAddress(new Address("中国","陕西"));
+    account account = new account("习大大","123","男");
+    account.setAddress(new Address("中国","陕西"));
 
     //把Key放在作用域中
-    request.setAttribute("user", user);
+    request.setAttribute("account", account);
 %>
 显示数据:<br>
 <%--原始显示--%>
-<%-- <%=user.getUsername()%><br>
-<%=user.getPassword()%><br>
-<%=user.getGender()%><br> --%>
+<%-- <%=account.getUsername()%><br>
+<%=account.getPassword()%><br>
+<%=account.getGender()%><br> --%>
 
 <%--改进后显示数据--%>
-名字：${user.username} ----- ${user['username']} -- ${user["username"]}<br>
-密码：${user.password}<br>
-性别：${user.gender}<br>
-国家：${user.address.country}<br>
-城市：${user.address.city}<br>
+名字：${account.username} ----- ${account['username']} -- ${account["username"]}<br>
+密码：${account.password}<br>
+性别：${account.gender}<br>
+国家：${account.address.country}<br>
+城市：${account.address.city}<br>
 
 
 -------------------------------------------------------------------------------<br>

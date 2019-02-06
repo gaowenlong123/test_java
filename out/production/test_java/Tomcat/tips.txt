@@ -26,5 +26,15 @@ File-->Project Structure-->Artifacts, 点击+，选择Web Application：archive
 
 
 5：创建一个 javaweb项目
-    1：
-    2：
+https://blog.csdn.net/XTAOTWO/article/details/83717528
+
+
+
+6:
+根据域名查DNS中的ip对应表，然后访问IP 。 如果配置hosts，就先查hosts，再查DNS
+
+
+7：
+在bin目录下开启tomcat，可以进入localhost页面，因为这个时候读取的server.xml是tomcat自带的。
+当在idea运行的时候，是读取运行文件中的server.xml。
+一个应用只有一个servletContext对象，是单例对象
