@@ -7,6 +7,8 @@ public class User {
 	private String username;
 	private String password;
 	private String gender;
+	private Address address;//用户所在地址
+
 	private String[] hobby;
 	private String remark;
 	public String getUsername() {
@@ -44,6 +46,33 @@ public class User {
 		return "User [username=" + username + ", password=" + password + ", gender=" + gender + ", hobby="
 				+ Arrays.toString(hobby) + ", remark=" + remark + "]";
 	}
-	
-	
+
+
+	public User(String username, String password, String gender) {
+		super();
+		this.username = username;
+		this.password = password;
+		this.gender = gender;
+	}
+	public User() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	public Address getAddress() {
+		return address;
+	}
+	public void setAddress(Address address) {
+		this.address = address;
+	}
+
+
+/*	private boolean aa;
+	public boolean id() {
+		return aa;
+	}
+	public void setAa(boolean aa) {
+		this.aa = aa;
+	}*/
+
+
 }
