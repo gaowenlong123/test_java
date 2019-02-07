@@ -10,5 +10,5 @@ public interface IAccountService {
 	 */
 	public void transfer(String from, String to, double amount);
 	
-	public void transfer1(String from, String to, double amount);
+	public void transfer_Transaction(String from, String to, double amount);
 }

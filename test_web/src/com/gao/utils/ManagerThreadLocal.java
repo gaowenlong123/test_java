@@ -1,7 +1,5 @@
 package com.gao.utils;
 
-import com.gao.utils.database.C3P0Utils;
-
 import java.sql.Connection;
 import java.sql.SQLException;
 
@@ -12,7 +10,6 @@ public class ManagerThreadLocal {
 	public static Connection getConnection(){
 		try {
 			Connection conn = tl.get();
-			
 			//第一次是空
 			if(conn == null){
 				//从数据源取
@@ -20,7 +17,8 @@ public class ManagerThreadLocal {
 				tl.set(conn);
 				System.out.println("第一次从数据源获取connection对象:" + conn);
 			}else{
-				//System.out.println("第n次从ThreadLocal获取connection对象");
+
+				System.out.println("第n次从ThreadLocal获取connection对象");
 			}
 			
 			return conn;
@@ -34,11 +32,12 @@ public class ManagerThreadLocal {
 	/**
 	 * 开启事务
 	 */
-	public static void beginTransaction(){
+	public static void  beginTransaction(){
 		try {
+			//开始事务的同时 ，也就实例化数据库连接对象 。 十分巧妙
 			getConnection().setAutoCommit(false);
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
+
 			e.printStackTrace();
 		}
 	}
@@ -50,7 +49,7 @@ public class ManagerThreadLocal {
 		try {
 			getConnection().rollback();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
+
 			e.printStackTrace();
 		}
 	}
@@ -63,7 +62,7 @@ public class ManagerThreadLocal {
 		try {
 			getConnection().commit();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
+
 			e.printStackTrace();
 		}
 	}
@@ -75,7 +74,7 @@ public class ManagerThreadLocal {
 		try {
 			getConnection().close();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
+
 			e.printStackTrace();
 		}
 	}

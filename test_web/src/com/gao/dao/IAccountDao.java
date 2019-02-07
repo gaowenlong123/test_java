@@ -22,6 +22,6 @@ public interface IAccountDao {
 	 */
 	public myAccount findAccount(String name)throws SQLException;
 
-	
+	//不能两个一起更新 ，那么就不能使用事务 。 所以要分块更新账户
 	public void updateAccount(myAccount account)throws SQLException;
 }

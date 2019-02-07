@@ -1,19 +1,16 @@
 package com.gao.service.impl;
 
-import java.sql.Connection;
 import java.sql.SQLException;
 
 import com.gao.dao.IAccountDao;
 import com.gao.dao.impl.AccountDaoImpl;
 import com.gao.model.myAccount;
 import com.gao.service.IAccountService;
-import com.gao.utils.database.C3P0Utils;
 import com.gao.utils.ManagerThreadLocal;
 
 public class AccountServiceImpl implements IAccountService{
 	@Override
 	public void transfer(String from, String to, double amount) {
-		// TODO Auto-generated method stub
 		//调用dao
 		IAccountDao accountDao = new AccountDaoImpl();
 		try {
@@ -23,8 +20,11 @@ public class AccountServiceImpl implements IAccountService{
 		}
 	}
 
+
+
+	//使用事务
 	@Override
-	public void transfer1(String from, String to, double amount) {
+	public void transfer_Transaction(String from, String to, double amount) {
 		try {
 			//开启事务
 			ManagerThreadLocal.beginTransaction();
@@ -42,7 +42,7 @@ public class AccountServiceImpl implements IAccountService{
 			
 			//3.修改Model的money金额
 			System.out.println("转账后....");
-			fromAccount.setMoney(fromAccount.getMoney() - amount);
+			fromAccount.setMoney(fromAccount.getMoney() - amount);  //传的是一个对象 ，修改对象的值就像
 			toAccount.setMoney(toAccount.getMoney() + amount);
 			System.out.println("from:" + fromAccount);
 			System.out.println("to:" + toAccount);
@@ -54,8 +54,8 @@ public class AccountServiceImpl implements IAccountService{
 			
 			//5.提交事务
 			ManagerThreadLocal.commitTransaction();
+
 		} catch (Exception e) {
-			// TODO: handle exception
 			e.printStackTrace();
 			//回滚事务
 			ManagerThreadLocal.rollbackTransaction();
@@ -63,10 +63,12 @@ public class AccountServiceImpl implements IAccountService{
 			ManagerThreadLocal.close();
 		}
 	}
-	
-	/*@Override
-	public void transfer1(String from, String to, double amount) {
-		// TODO Auto-generated method stub
+
+
+
+	/*@Override  这个封装到方法里面
+	public void transfer_Transaction(String from, String to, double amount) {
+
 		Connection conn = null;
 		try {
 			//自己从数据源拿连接

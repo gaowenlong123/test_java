@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 import com.gao.dao.IUserDao;
 import com.gao.model.User;
-//import com.gao.utils.database.C3P0Utils;
+//import com.gao.utils.C3P0Utils;
 import com.gao.utils.database.JNDIUtils;
 
 
