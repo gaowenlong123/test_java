@@ -7,45 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a3ba4e-dd78-4b12-90dc-e860a7f18294" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/image/001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/image/002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/image/003.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/js/jquery-3.3.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/js/jquery-3.3.1.min.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/err/err.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/form_get.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/form_post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/login.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/test_jsp.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/test_jsp10.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/test_jsp2.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/test_jsp3.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/test_jsp4.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/test_jsp5.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/test_jsp6.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/test_jsp7.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/test_jsp8.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/test_jsp9.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/jsp/tips.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery2.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery3.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery4.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/login_Jquery.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/test_Jquery5.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_web/web/test_Jquery6.jsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/test_Jquery.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/test_Jquery.jsp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/Jquery01.jsp" afterPath="$PROJECT_DIR$/test_web/web/test_Jquery.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/err/err.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/err/err.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/form_get.html" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/form_get.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/form_post.html" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/form_post.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/login.html" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/login.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/login.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/test_jsp.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/test_jsp10.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp10.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/test_jsp2.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp2.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/test_jsp3.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp3.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/test_jsp4.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp4.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/test_jsp5.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp5.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/test_jsp6.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp6.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/test_jsp7.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp7.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/test_jsp8.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp8.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/test_jsp9.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp9.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/web/jsp/tips.txt" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/tips.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring01/target/" />
@@ -71,12 +42,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_Jquery.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_web/web/test_Jquery.jsp">
+      <file leaf-file-name="test_Jquery3.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery3.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            <state relative-caret-position="1352">
+              <caret line="59" column="7" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_Jquery2.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery2.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_Jquery.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="93" column="81" lean-forward="false" selection-start-line="93" selection-start-column="81" selection-end-line="93" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_Jquery4.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery4.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="77" column="14" lean-forward="true" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_Jquery.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_web/web/login_Jquery.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_Jquery5.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_web/web/test_Jquery5.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,8 +118,8 @@
         <option value="XSLT Stylesheet" />
         <option value="HTML File" />
         <option value="jsf" />
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -114,15 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_web/src/com/gao/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/test_web/src/com/gao/exception/UserException.java" />
-        <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/LogoutServlet.java" />
-        <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/RegisterServlet2.java" />
-        <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/RegisterServlet2.java" />
-        <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/RegisterServlet3.java" />
-        <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/LoginServlet.java" />
-        <option value="$PROJECT_DIR$/test_web/src/com/gao/form/UserForm.java" />
-        <option value="$PROJECT_DIR$/test_web/web/register.jsp" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/RegisterServlet.java" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/test/Demo01.java" />
         <option value="$PROJECT_DIR$/test_web/src/com/gao/test/test_transaction.java" />
@@ -165,6 +181,15 @@
         <option value="$PROJECT_DIR$/test_web/web/WEB-INF/Jquery.jsp" />
         <option value="$PROJECT_DIR$/learn_Web/Jquery/test.java" />
         <option value="$PROJECT_DIR$/test_web/web/test_Jquery.jsp" />
+        <option value="$PROJECT_DIR$/test_web/web/test_Jquery2.jsp" />
+        <option value="$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery2.jsp" />
+        <option value="$PROJECT_DIR$/test_web/web/test_Jquery6.jsp" />
+        <option value="$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery.jsp" />
+        <option value="$PROJECT_DIR$/test_web/web/test_Jquery3.jsp" />
+        <option value="$PROJECT_DIR$/test_web/web/test_Jquery4.jsp" />
+        <option value="$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery3.jsp" />
+        <option value="$PROJECT_DIR$/test_web/web/login_Jquery.jsp" />
+        <option value="$PROJECT_DIR$/test_web/web/test_Jquery5.jsp" />
       </list>
     </option>
   </component>
@@ -287,12 +312,134 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery-3.3.1.js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+              <option name="myItemId" value="test_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -324,11 +471,11 @@
       <recent name="D:\JavaProjects\test_java\test_web\src\com\gao\service\impl" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\test_java\test_web\web\learn\Jquery" />
       <recent name="D:\JavaProjects\test_java\test_web\web\learn" />
       <recent name="D:\JavaProjects\test_java\test_web\web\jsp" />
       <recent name="D:\JavaProjects\test_java\test_web\web" />
       <recent name="D:\JavaProjects\test_java\test_web\src\com\test" />
-      <recent name="D:\JavaProjects\test_java\test_web\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1031,7 +1178,7 @@
       <workItem from="1549351138543" duration="12332000" />
       <workItem from="1549425879188" duration="27583000" />
       <workItem from="1549510511948" duration="13118000" />
-      <workItem from="1549535173201" duration="9112000" />
+      <workItem from="1549535173201" duration="11977000" />
     </task>
     <servers />
   </component>
@@ -1068,7 +1215,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252023000" />
+    <option name="totallyTimeSpent" value="254888000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1081,7 +1228,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1103,9 +1249,9 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32166892" sideWeight="0.47421202" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36473754" sideWeight="0.47579426" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24068768" sideWeight="0.49103138" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39030954" sideWeight="0.47421202" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20726784" sideWeight="0.47579426" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24068768" sideWeight="0.49103138" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65948856" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1161,48 +1307,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day13/test_sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day13/test_Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day14/JavaBean_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day14/Pool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day14/Query_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_basic_knowledge/day14/QueryRunner_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="999">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/sql/DriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -1518,7 +1622,7 @@
         <state relative-caret-position="3569">
           <caret line="161" column="19" lean-forward="true" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1574,11 +1678,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_web/web/test_Jquery.jsp">
+    <entry file="file://$PROJECT_DIR$/test_web/web/test_Jquery6.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="93" column="81" lean-forward="false" selection-start-line="93" selection-start-column="81" selection-end-line="93" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery4.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="77" column="14" lean-forward="true" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_web/web/learn/Jquery/test_Jquery3.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1352">
+          <caret line="59" column="7" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_web/web/login_Jquery.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_web/web/test_Jquery5.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
