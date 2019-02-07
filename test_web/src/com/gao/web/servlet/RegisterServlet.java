@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.gao.form.UserForm;
+import com.gao.others.form.UserForm;
 import org.apache.commons.beanutils.BeanUtils;
 import org.apache.commons.beanutils.ConvertUtils;
 import org.apache.commons.beanutils.Converter;
@@ -20,7 +20,7 @@ import org.apache.commons.beanutils.Converter;
 import com.gao.model.User;
 import com.gao.service.IUserService;
 import com.gao.service.impl.UserServiceImpl;
-import com.gao.utils.MyDateConverter;
+
 /**
  * 注意点：
  * 表单提交的时间是字符串

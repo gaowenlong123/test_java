@@ -20,7 +20,7 @@ public class test_junit {
         SAXReader reader = new SAXReader();
 
         //读取文档
-        Document doc = reader.read(new FileInputStream("D:\\java_test\\test_java\\learn_Web\\XML\\test.xml"));
+        Document doc = reader.read(new FileInputStream("D:\\java_test\\test_java\\learn_Web\\XML\\test_JNDI.xml"));
 
         //获取根标签
         Element root = doc.getRootElement();

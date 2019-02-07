@@ -8,12 +8,11 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.xml.ws.RequestWrapper;
 
 import org.apache.commons.beanutils.BeanUtils;
 
 
-import com.gao.exception.UserException;
+import com.gao.others.exception.UserException;
 import com.gao.model.User;
 import com.gao.service.IUserService;
 import com.gao.service.impl.UserServiceImpl;

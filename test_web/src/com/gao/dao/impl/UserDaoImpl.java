@@ -4,11 +4,11 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.Date;
 
 import com.gao.dao.IUserDao;
 import com.gao.model.User;
-import com.gao.utils.DBUtils;
+//import com.gao.utils.database.C3P0Utils;
+import com.gao.utils.database.JNDIUtils;
 
 
 /* 用户接口的实现类 */
@@ -26,7 +26,7 @@ public class UserDaoImpl implements IUserDao {
 
 			// 1.注册驱动
 			// 2.获取connection对象
-			conn = DBUtils.getConnection();
+			conn = JNDIUtils.getConnection();
 
 			// 3.获取Statement对象
 			String sql = "insert into t_user (username,password,email,birthday) values(?,?,?,?)";
@@ -55,7 +55,7 @@ public class UserDaoImpl implements IUserDao {
 		} finally {
 
 			// 5.关闭资源
-			DBUtils.close(null, ps, conn);
+			JNDIUtils.close(null, ps, conn);
 
 		}
 	}
@@ -71,7 +71,7 @@ public class UserDaoImpl implements IUserDao {
 		try {
 			// 1.注册驱动
 			// 2.获取connection对象
-			conn = DBUtils.getConnection();
+			conn = JNDIUtils.getConnection();
 
 			// 3.查询
 			String sql = "select * from t_user where username = ? and password = ?";
@@ -101,7 +101,7 @@ public class UserDaoImpl implements IUserDao {
 			e.printStackTrace();
 		} finally {
 			// 5.关闭资源
-			DBUtils.close(rs, ps, conn);
+			JNDIUtils.close(rs, ps, conn);
 		}
 		
 		return user;
@@ -118,7 +118,7 @@ public class UserDaoImpl implements IUserDao {
 		try {
 			// 1.注册驱动
 			// 2.获取connection对象
-			conn = DBUtils.getConnection();
+			conn = JNDIUtils.getConnection();
 
 			// 3.查询
 			String sql = "select * from t_user where username = ?";
@@ -141,7 +141,7 @@ public class UserDaoImpl implements IUserDao {
 			e.printStackTrace();
 		} finally {
 			// 5.关闭资源
-			DBUtils.close(rs, ps, conn);
+			JNDIUtils.close(rs, ps, conn);
 		}
 
 		return user;

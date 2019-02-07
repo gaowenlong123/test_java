@@ -2,7 +2,7 @@ package com.gao.service.impl;
 
 import com.gao.dao.IUserDao;
 import com.gao.dao.impl.UserDaoImpl;
-import com.gao.exception.UserException;
+import com.gao.others.exception.UserException;
 import com.gao.model.User;
 import com.gao.service.IUserService;
 

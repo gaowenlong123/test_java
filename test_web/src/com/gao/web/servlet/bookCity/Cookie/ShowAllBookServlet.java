@@ -22,7 +22,7 @@ public class ShowAllBookServlet extends HttpServlet {
 			throws ServletException, IOException {
 		response.setHeader("content-type", "text/html;charset=utf-8");
 		
-		//1.准备一些书的数据   DBUtils.getAllBooks()
+		//1.准备一些书的数据   DBCPUtils.getAllBooks()
 
 
 		//2.显示书的数据给浏览器

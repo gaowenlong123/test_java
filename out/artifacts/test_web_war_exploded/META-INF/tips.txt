@@ -1,0 +1,10 @@
+这个文件夹的配置信息   需要自己手动生成
+
+项目 > Open Module Settings >
+Facts
+> 项目名
+> Add Application Server Specific Descriptor
+> Tomcat Server
+>OK
+>OK
+
