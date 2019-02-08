@@ -85,7 +85,12 @@
         <!--拦截任何一个请求-->
    <!--     <url-pattern>/*</url-pattern>-->
         <!--只拦截jsp-->
-        <url-pattern>*.jsp</url-pattern>
+<!--        <url-pattern>*.jsp</url-pattern>-->
+        <!--拦截一个servlet-->
+        <url-pattern>/Lesson13Servlet</url-pattern>
+
+        <!--设置拦截的方式-->
+        <dispatcher>ERROR</dispatcher>
     </filter-mapping>
 
 

@@ -26,7 +26,7 @@ public class MyFilter implements Filter{
 	@Override
 	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
 			throws IOException, ServletException {
-		System.out.println("拦截请求");
+		System.out.println("MyFilter拦截请求");
 		
 		//放行请求 ，会调用下一个过滤器  。 修成一个链
 		//请求的顺序 ， 就是在web.xml里面配置的顺序
