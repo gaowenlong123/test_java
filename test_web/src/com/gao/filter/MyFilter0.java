@@ -9,7 +9,7 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 
-public class MyFilter implements Filter{
+public class MyFilter0 implements Filter{
 
 	@Override
 	public void init(FilterConfig filterConfig) throws ServletException {

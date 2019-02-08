@@ -1,4 +1,4 @@
-package day17;
+package day17.basic_annotation;
 
 public class Cat extends  Animal{
     //重新父类方法
@@ -7,7 +7,7 @@ public class Cat extends  Animal{
 
     }
 
-    //写main-psvm
+//    写不要有移除这个变量的警告   。 因为变量没有被使用 ，鼠标在前面会有提示 ，移除这个变量
     @SuppressWarnings({"unused"})
     public static void main(String[] args) {
         int a = 10;

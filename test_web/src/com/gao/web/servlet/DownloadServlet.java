@@ -1,4 +1,4 @@
-package com.gyf.web.servlet;
+package com.gao.web.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.ServletOutputStream;
@@ -17,9 +17,8 @@ import java.net.URLEncoder;
  * 2.如果文件是中文名，要进行URLEncode
  * 3.通过输入流读数据，通过输出流response.getOutputStream 输出数据给客户端面
  *
- * 练习：
- * localhost:8080/DownloadServlet?fileName=xxxxx.jpg 通过传参数来下载文件
  */
+
 @WebServlet("/DownloadServlet")
 public class DownloadServlet extends HttpServlet {
 
@@ -27,9 +26,8 @@ public class DownloadServlet extends HttpServlet {
 
         //实现文件的下载
         //1.指定文下载的路径
-        //String fileName = "badab692-529b-4eb7-9f18-65ba44ea5475.jpg";
-        String fileName = "工作室.jpg";
-        String path = "C:\\Users\\10301\\Desktop\\test\\" + fileName;
+        String fileName = "快捷键1.PNG";
+        String path = "D:\\JavaProjects\\test_java\\learn_basic_knowledge" + fileName;
 
         //2.设置响应头
         //2.1 Content-Disposition
@@ -38,14 +36,13 @@ public class DownloadServlet extends HttpServlet {
         response.setHeader("Content-Disposition","attachment;filename=" + fileName);
 
         //2.2Content-Type
-        //response.setHeader("content-type");
         response.setContentType("application/octet-stream");//以二进制的数据返回给客户端
 
         //3.把数据返回给客户端
         //通过输入流读数据
         FileInputStream fis = new FileInputStream(new File(path));
 
-        //通过输出流写数据 Alt + enter 导包
+        //通过输出流写数据
         ServletOutputStream sos =response.getOutputStream();
 
         byte[] buf = new byte[1024];

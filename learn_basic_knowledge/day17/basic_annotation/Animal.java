@@ -1,4 +1,4 @@
-package day17;
+package day17.basic_annotation;
 
 public class Animal {
 

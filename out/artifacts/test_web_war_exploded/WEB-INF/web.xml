@@ -68,7 +68,7 @@
     <!--配置一个过滤器-->
     <filter>
         <filter-name>MyFilter</filter-name>
-        <filter-class>com.gao.filter.MyFilter</filter-class>
+        <filter-class>com.gao.filter.MyFilter0</filter-class>
         <!--过滤器可以初始化一些参数 -->
         <init-param>
             <param-name>username</param-name>

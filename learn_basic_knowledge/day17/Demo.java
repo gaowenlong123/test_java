@@ -1,19 +1,17 @@
-package day17.annotation;
+package day17;
 
-import java.lang.annotation.Retention;
-import java.lang.annotation.RetentionPolicy;
-
-@MyTest()
+@MyTestAnnotaion()
 public class Demo {
-    @MyTest
+
+    @MyTestAnnotaion
     private String aa;
-   // @MyAnnotaion(age = 18,name = "zhangsan",values = {"AA","BB"},clz = String.class)
-    @MyTest(name = "zhangsan")
+
+    @MyTestAnnotaion(name = "zhangsan")
     public void test1(){
         System.out.println("test1方法执行了.....");
     }
 
-    @MyTest()
+    @MyTestAnnotaion()
     public void test2(){
         System.out.println("test2方法执行了.....");
     }
