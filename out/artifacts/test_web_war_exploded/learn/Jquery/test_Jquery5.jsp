@@ -9,7 +9,7 @@
 <html>
 <head>
     <title>Title</title>
-    <script type="text/javascript" src="./js/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="../../js/jquery-3.3.1.js"></script>
     <script type="text/javascript">
         $(function() {
 
@@ -17,9 +17,13 @@
             $(function() {
                 //1.按钮绑定事件
                 $('#loginBtn').click(function() {
+
+
                     //$("form").serialize();生成一个字符串,各参数用&符号拼接
                     var v = $('form').serialize();
                     console.log(v);
+
+
 
                     //$("form").serializeArray();将参数生成一个数组对象
                     var v = $("form").serializeArray();
@@ -30,6 +34,7 @@
     </script>
 </head>
 <body>
+day16 - 16
 <span style="color: red" id="tip"></span>
 <form>
     用户名: <input type="text" name="username" id="username"><br>

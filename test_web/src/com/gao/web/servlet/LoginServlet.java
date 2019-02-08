@@ -22,7 +22,6 @@ import com.gao.service.impl.UserServiceImpl;
  * 	掌握可以在一个业务方法抛出异常UserException
  *  掌握在一个jsp页面，如何获取失败信息
  *  	思路：往request对象存数据，然后转发到一个jsp页面，jsp页面通过el表达式取出作用域的数据
- * @author gyf
  *
  */
 @WebServlet("/LoginServlet")
