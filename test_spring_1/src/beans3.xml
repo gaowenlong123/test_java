@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--bean的作用域 -->
+    <!-- bean的作用域
+    singleton:单例,默认是单例
+    prototype:多例
+    -->
+    <bean id="userService" class="com.gao.service.UserServiceImpl" scope="prototype" ></bean>
+
+
+    <bean id="user" class="com.gao.model.User" init-method="myInit" destroy-method="myDestroy">
+        <property name="username" value="gao"></property>
+        <property name="password" value="123"></property>
+    </bean>
+
+    <!-- 配置bean前后处理器 -->
+    <bean id="beanProcess" class="com.gao.model.UserBeanPostProcessor"></bean>
+</beans>

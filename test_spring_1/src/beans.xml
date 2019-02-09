@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>     <!--写入约束-->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+
+    <!-- spring内部创建对象的原理：
+        1.解析xml文件，获取类名，id,属性
+        2.通过反射，用类型创建对象
+        2.给创建的对象赋值
+     -->
+
+    <!-- 配置一个bean 【对象】   。  这是一个实现类，配置在这里就等于有一个实例化对象 。 前面ID是一个标识 -->
+    <bean id="userService" class="com.gao.service.UserServiceImpl">
+        <!-- 依赖注入数据，调用属性的set方法 -->
+        <property name="name" value="zhangsan"></property>
+    </bean>
+</beans>

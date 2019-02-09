@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xmlns xml namespace:xml命名空间-->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context ="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/context
+                           http://www.springframework.org/schema/context/spring-context.xsd">
+    <!--0： 上面需要添加Context定义 ，并且添加约束-->
+
+    <!--默认是注解不生效，需要开启注解功能 。 在.xml中配置下面两行代码-->
+    <!-- 开启注解-->
+    <context:annotation-config/>
+
+    <!-- 注解的位置    ，指定包名就会扫描你的注解 -->
+    <context:component-scan base-package="com.gao"/>
+
+
+    <!--2-->
+    <!--1.在类中声明@Component 相当于配置了
+      <bean class="com.gao.service.UserServiceImpl"></bean>
+  -->
+    <!--2.在类中声明@Component("userService") 相当于配置了
+       <bean id="userService" class="com.gao.service.UserServiceImpl"></bean>
+   -->
+
+
+</beans>

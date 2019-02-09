@@ -1,0 +1,13 @@
+1： 要进行配置 ExternalLibraries
+
+2： javaEE 选择spring ，然后自己选择本地路径
+
+
+3:改造xml配置为注解
+           1： 现在dao层 ，将实例类 添加@Repository  ，配置bean
+           2： 在server ， 在实例类中，将dao层的实现类的对象添加@Autowired ，spring自动会为该对象赋值,再添加 @Qualifier("myUserService")根据指定的id注入属性
+           3： 在action层中 ，在实现类中，将server层的实现类的对象添加@Autowired ,再添加 @Qualifier("myUserService")根据指定的id注入属性
+           4:  @Resource(name = "myUserService") 等效于 @Autowired + @Qualifier("myUserService")
+           5： 不用@Component ，是为了知道先生成哪一系列的对象
+           6： @Scope("prototype")  默认是单例 ，现在是多例
+           7:  @PostConstruct 自己定义一个初始化的方法   。 @PreDestroy 自定义的销毁的方法
