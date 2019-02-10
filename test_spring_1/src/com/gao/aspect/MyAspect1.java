@@ -4,8 +4,9 @@ import org.aopalliance.intercept.MethodInterceptor;
 import org.aopalliance.intercept.MethodInvocation;
 
 /**
- * 切面类：增加代码 与 切入点 结合
- *  AOP联盟
+ *
+ *  AOP联盟 特殊的接口，必须实现 ，从而确定方法名称
+ *
  */
 public class MyAspect1 implements MethodInterceptor{
 

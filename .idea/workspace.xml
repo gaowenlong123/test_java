@@ -7,157 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a3ba4e-dd78-4b12-90dc-e860a7f18294" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_spring_1/src/beans10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_spring_1/src/beans11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_spring_1/src/beans9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/factory/MyBeanFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/StudentService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/day1/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/day1/test2.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/Jquery/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/Jsp/test_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/Link_Database/test_JNDI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/Link_Database/test_all.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/Link_Database/test_dbutils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/MVC/test_MVC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/Tomcat/Servlet_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/Tomcat/test_Filter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/Tomcat/test_listener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/XML/test_junit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/ajax/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day1/abstract_class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day1/inter_face.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day1/test1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day1/test2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day1/test3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day1/test4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day1/test5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day1/test6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/Callable_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/Runable_test$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/Runable_test$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/Runable_test$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/Runable_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/SubRunable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/SubThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/Sub_Callable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/Synchronized_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/Thread_Pool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/Thread_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day10/lock_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day11/Resource.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day11/input.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day11/ouput.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day11/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day12/sql_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day13/JDBCUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day13/JDBCUtilsConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day13/JDBC_demo1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day13/JDBC_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day13/properties.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day13/test_Utils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day13/test_sort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day14/DBUtils_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day14/JavaBean_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day14/Pool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day14/QueryRunner_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day14/Query_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day15/InetAddress_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day15/TCPClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day15/TCPServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day15/UDPReceive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day15/UDPSend.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day16/Refilct_test7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day16/Refilect_test5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day16/Reflect_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day16/Reflect_test2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day16/Reflect_test3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day16/Reflect_test4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day16/person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day17/Demo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day17/MyAnnotaion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day17/MyTestAnnotaion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day17/TestRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day17/basic_annotation/Animal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day17/basic_annotation/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day17/test_zhujie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day2/String_buffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day2/final_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day2/inner_class$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day2/inner_class$1jubu_class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day2/inner_class$inner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day2/inner_class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day2/niming_duixiang.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day2/object_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day2/regex_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day2/static_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day2/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day3/Arrays_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day3/Calendar_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day3/data_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day3/integer_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day3/re_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day3/system_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day4/ArrayList_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day4/collection_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day4/hashSet_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day4/iterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day4/linkedhashset_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day4/linkedlist_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day4/list_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day4/set_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day4/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day5/collections_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day5/linkedhashmap_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day5/map_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day5/static_input.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day5/varargs_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day6/Exception_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day6/my_Exception.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day6/throw_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day6/throwable_teat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day7/IO_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day7/file_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day7/filefilter_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day7/filter_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day7/inputStream_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day7/outputStream_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day7/reader_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day7/writer_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day8/BufferedOutputStream_tets.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day8/bufferedInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day8/bufferedReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day8/bufferedWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day8/inputStreamread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day8/outputStreamwriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day9/FileNameUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day9/ObjectOutputStream_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day9/printStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/day9/properties.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/java_study/Base_Data.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/java_study/Test_Class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_java/java_study/one.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test4.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/IUserService.class" afterPath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/IUserService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/UserActionServiceImpl.class" afterPath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/UserActionServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/UserServiceImpl.class" afterPath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/UserServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test.class" afterPath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test2.class" afterPath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idea.txt" afterPath="$PROJECT_DIR$/idea.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_frame/Spring/test_Spring.java" afterPath="$PROJECT_DIR$/learn_frame/Spring/test_Spring.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/IUserService.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/IUserService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/UserActionServiceImpl.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/UserActionServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/UserServiceImpl.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/UserServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test2.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test3.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/day1/test3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test4.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/day1/test4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans11.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect1.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect2.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring01/target/" />
@@ -183,116 +36,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/dao/UserDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDaoImpl2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/dao/UserDaoImpl2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="37" />
-              <folding>
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyBeanFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/factory/MyBeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2277">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyAspect1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/test/test2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MyAspect2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="-54">
+              <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/test/test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="51" column="24" lean-forward="false" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
               <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="beans11.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_spring_1/src/beans11.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IUserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/dao/IUserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="beans10.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_spring_1/src/beans10.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64">
-              <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserAction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/web/action/UserAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="35" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -375,13 +136,13 @@
         <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test.java" />
         <option value="$PROJECT_DIR$/test_spring_1/src/beans9.xml" />
         <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/factory/MyBeanFactory.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect1.java" />
         <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect.java" />
         <option value="$PROJECT_DIR$/test_spring_1/src/beans10.xml" />
         <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect3.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect2.java" />
         <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test2.java" />
+        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect1.java" />
         <option value="$PROJECT_DIR$/test_spring_1/src/beans11.xml" />
+        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect2.java" />
       </list>
     </option>
   </component>
@@ -429,9 +190,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1414,14 +1175,12 @@
       <workItem from="1549689307024" duration="19383000" />
       <workItem from="1549716597488" duration="77000" />
       <workItem from="1549768088527" duration="191000" />
-      <workItem from="1549768816484" duration="9779000" />
+      <workItem from="1549768816484" duration="10011000" />
+      <workItem from="1549800637132" duration="1158000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test2_test1 - 2019.02.10 at 14h 40m 11s.xml">
-      <configuration name="test2.test1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="test2_test1 - 2019.02.10 at 14h 42m 16s.xml">
       <configuration name="test2.test1" configurationId="JUnit" />
     </history-entry>
@@ -1449,9 +1208,12 @@
     <history-entry file="test2_test3 - 2019.02.10 at 15h 35m 22s.xml">
       <configuration name="test2.test3" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="test2_test3 - 2019.02.10 at 15h 36m 09s.xml">
+      <configuration name="test2.test3" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302807000" />
+    <option name="totallyTimeSpent" value="304197000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1480,25 +1242,25 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38761777" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4602961" sideWeight="0.47421202" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4602961" sideWeight="0.47421202" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24495289" sideWeight="0.47579426" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27005732" sideWeight="0.88739496" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22072679" sideWeight="0.47579426" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27363896" sideWeight="0.88739496" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28151864" sideWeight="0.111666664" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65948856" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23710601" sideWeight="0.5078652" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38761777" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65948856" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1664,7 +1426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1672,7 +1433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1680,10 +1440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1296">
           <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="45" />
-          <folding>
-            <element signature="e#647#648#0" expanded="false" />
-            <element signature="e#694#695#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1691,7 +1447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="68" lean-forward="false" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1699,7 +1454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="58" lean-forward="false" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1707,7 +1461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="38" column="72" lean-forward="false" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1715,7 +1468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1723,7 +1475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1731,9 +1482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-267">
           <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1741,7 +1489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1749,11 +1496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#671#672#0" expanded="false" />
-            <element signature="e#713#714#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1761,7 +1503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1769,12 +1510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="30" column="15" lean-forward="false" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
-          <folding>
-            <element signature="e#1041#1042#0" expanded="false" />
-            <element signature="e#1083#1084#0" expanded="false" />
-            <element signature="e#1129#1130#0" expanded="false" />
-            <element signature="e#1171#1172#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1782,7 +1517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1790,9 +1524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="31" column="64" lean-forward="true" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1808,7 +1539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1816,7 +1546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-539">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1824,7 +1553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1832,7 +1560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1840,7 +1567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1862,27 +1588,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_spring_1/src/beans10.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
+        <state relative-caret-position="1053">
           <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
           <folding />
         </state>
@@ -1914,7 +1622,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/dao/UserDaoImpl2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
+        <state relative-caret-position="378">
           <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="37" />
           <folding>
             <element signature="e#562#563#0" expanded="true" />
@@ -1925,7 +1633,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/factory/MyBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2277">
+        <state relative-caret-position="108">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1933,34 +1641,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/test/test2.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        <state relative-caret-position="53">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect2.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_spring_1/src/beans11.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="243">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/test/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="51" column="24" lean-forward="false" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
