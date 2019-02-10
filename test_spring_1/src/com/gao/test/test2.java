@@ -58,7 +58,7 @@ public class test2 {
 
         IUserService userService = (IUserService) context.getBean("userService");
 
-        userService.deleteUser();
+        userService.addUser(10);
 
 
 

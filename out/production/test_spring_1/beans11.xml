@@ -24,16 +24,20 @@
         <!-- aop:指定切面-->
         <aop:aspect ref="myAspect2">
 
-            <!--定义一个切入点-->
+            <!--定义一个切入点                                     切入点表达式-->
             <aop:pointcut id="myPointcut" expression="execution(* com.gao.service.UserServiceImpl.*(..))"/>
-
+            <!--<aop:pointcut id="myPointcut" expression="execution(* com.gao.service.*Impl.add(..))"/>-->
+                                                                           <!--以结尾的类名，方法-->
             <!-- 配置前置通知...-->
             <aop:before method="myBefore" pointcut-ref="myPointcut" />
             <!-- 配置后置通知...-->
-            <aop:after-returning method="myAfterReturning" pointcut-ref="myPointcut"/>
+            <aop:after-returning method="myAfterReturning" pointcut-ref="myPointcut" returning="retValue"/>
 
-            <!--<aop:after-throwing method=""  抛出异常  -->
-            <!--<aop:after method=""     最终 -->
+            <!--抛出异常 -->
+            <aop:after-throwing method="myAfterThrowing" pointcut-ref="myPointcut" throwing="e"/>
+            <!--最终 -->
+            <aop:after method="myAfter" pointcut-ref="myPointcut"/>
+
             <!--<aop:declare-parents types-matching="" implement-interface=""    引介-->
             <!--<aop:pointcut id="" expression=""      切入点-->
 

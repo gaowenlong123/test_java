@@ -2,13 +2,15 @@ package com.gao.service;
 
 import com.gao.model.User;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 /**
  * Created by Administrator on 2019/2/9 0009.
  */
 
 
-@Component("userService123")  //beanID
+//@Component("userService123")  //beanID
+@Service("userServiceA")     //上下的效果是一样的，只是装进bean里的时候不一样
 public class UserServiceImpl implements IUserService {
 
     //平常给name赋值需要get set 。现在只需要在xml进行配置
@@ -28,6 +30,7 @@ public class UserServiceImpl implements IUserService {
     @Override
     public int addUser(int num) {
         System.out.println("新增用户" +num);
+//        int a =100/0;
         return num;
     }
 

@@ -1,6 +1,6 @@
 package com.gao.factory;
 
-import com.gao.aspect.MyAspect;
+import com.gao.aspect.MyAspect0;
 import com.gao.service.IUserService;
 import com.gao.service.StudentService;
 import com.gao.service.UserServiceImpl;
@@ -29,7 +29,7 @@ public class MyBeanFactory {
         final IUserService userService = new UserServiceImpl();
 
         //2.声明切面类对象
-        final MyAspect aspect = new MyAspect();
+        final MyAspect0 aspect = new MyAspect0();
 
         //3.把切面类2个方法 应用 目标类
         //3.1 创建JDK代理,拦截方法
@@ -74,7 +74,7 @@ public class MyBeanFactory {
         final StudentService studentService = new StudentService();
 
         //2.声明切面类对象
-        final MyAspect aspect = new MyAspect();
+        final MyAspect0 aspect = new MyAspect0();
 
         //3.创建增强对象
         Enhancer enhancer = new Enhancer();
