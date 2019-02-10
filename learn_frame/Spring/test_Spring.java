@@ -19,6 +19,29 @@ package Spring;
  *      DI 依赖注入  ： 在spring框架负责创建Bean对象时 ， 动态的将依赖对象注入到bean组件
  *
  *
+ * 4： AOP 面向切面编程 ： 是函数式编程的一种衍生  。 
+ *横向抽取机制   纵向抽取机制是继承 （耦合性高)  。 通过代理或者拦截的方式向目标类织入增强代码
+ * ASpectJ是一个基于java语言的AOP框架
+ *
+ *
+ * 5： AOP实现原理
+ *      a:aop底层将采用代理机制进行实现
+ *      b:接口+ 实现类 ： spring 采用JDK的 动态代理Proxy
+ *      c:实现类 ：spring 采用 cglib字节码增强
+ *
+ *
+ * 6： 术语:    target  目标类 :需要被代理的类。 例如： userservice
+ *              Joinpoint(连接点） ： 所谓连接点是指那些可能被拦截到的方法 。 例如 ： 所以方法
+ *              PointCut 切入点  ：已经被增强的连接点。 例如 ：addUser（）
+ *              advice 通知/增强 ，增强代码；例如 ： after , before
+ *              Weaving（织入） ：是指把增强advice应用到目标对象target 来创建新的代理对象proxy的过程
+ *              proxy  代理类
+ *              AspectJ （切面） ： 是 切入点pointcut 和通知 advice的结合 。 一个线是一个特殊的切面。
+ *
+ *
+ *
+ *
+ *
  * Created by Administrator on 2019/2/9 0009.
  */
 public class test_Spring {

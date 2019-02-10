@@ -10,4 +10,8 @@ public interface IUserService {
     public void add();
 
     public void add(User user);
+    public int addUser(int num);
+    public void updateUser();
+    public void deleteUser();
+
 }

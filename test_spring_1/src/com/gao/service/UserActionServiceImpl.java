@@ -27,6 +27,22 @@ public class UserActionServiceImpl implements IUserService {
         userDao.add(user);
     }
 
+    @Override
+    public int addUser(int num) {
+        System.out.println("新增用户" +num);
+        return num;
+    }
+
+    @Override
+    public void updateUser() {
+        System.out.println("更新用户");
+    }
+
+    @Override
+    public void deleteUser() {
+        System.out.println("删除用户");
+    }
+
     private String name;
 
     public String getName() {

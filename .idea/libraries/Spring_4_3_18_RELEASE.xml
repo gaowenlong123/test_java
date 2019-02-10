@@ -20,6 +20,7 @@
       <root url="jar://D:/java_Utils/spring/springjars/spring-orm-4.3.18.RELEASE.jar!/" />
       <root url="jar://D:/java_Utils/spring/springjars/spring-tx-4.3.18.RELEASE.jar!/" />
       <root url="jar://D:/java_Utils/spring/springjars/spring-context-4.3.18.RELEASE.jar!/" />
+      <root url="jar://D:/java_Utils/spring/springjars/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

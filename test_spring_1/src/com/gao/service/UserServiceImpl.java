@@ -24,6 +24,23 @@ public class UserServiceImpl implements IUserService {
         System.out.println("添加用户姓名：" + user);
     }
 
+
+    @Override
+    public int addUser(int num) {
+        System.out.println("新增用户" +num);
+        return num;
+    }
+
+    @Override
+    public void updateUser() {
+        System.out.println("更新用户");
+    }
+
+    @Override
+    public void deleteUser() {
+        System.out.println("删除用户");
+    }
+
     public String getName() {
         return name;
     }

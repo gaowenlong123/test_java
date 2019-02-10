@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xmlns xml namespace:xml命名空间-->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p ="http://www.springframework.org/schema/p"
+       xmlns:context ="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/context
+                           http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+    <!--  配置UserService-->
+    <bean id="userService" class="com.gao.service.UserServiceImpl"></bean>
+
+    <!--  配置切面类对象-->
+    <bean id="myAspect" class="com.gao.aspect.MyAspect1"></bean>
+
+    <!-- 配置代理对象
+        默认情况下Spring的AOP生成的代理是JDK的Proxy实现的
+    -->
+    <bean id="serviceProxy" class="org.springframework.aop.framework.ProxyFactoryBean">
+        <!-- 接口 :如果只是一个接口，就写Value,如果是多个接口就写List-->
+        <property name="interfaces"  value="com.gao.service.IUserService">
+        </property>
+
+        <!-- 目标对象 -->
+        <property name="target" ref="userService"/>
+
+        <!-- 切面类                          特殊不需要 ref  -->
+        <property name="interceptorNames" value="myAspect"></property>
+
+        <!-- 配置使用cglib生成   没有下面这一行 就是JDK的代理来实现 -->
+        <property name="optimize" value="true"></property>
+
+    </bean>
+</beans>
