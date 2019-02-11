@@ -13,7 +13,7 @@ http://www.springframework.org/schema/beans http://www.springframework.org/schem
      -->
 
     <!-- 配置一个bean 【对象】   。  这是一个实现类，配置在这里就等于有一个实例化对象 。 前面ID是一个标识 -->
-    <bean id="userService" class="com.gao.service.UserServiceImpl">
+    <bean id="userService" class="com.gao.service.impl.UserServiceImpl">
         <!-- 依赖注入数据，调用属性的set方法 -->
         <property name="name" value="zhangsan"></property>
     </bean>

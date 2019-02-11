@@ -43,7 +43,7 @@
     </bean>
 
     <!-- 配置dao-->
-    <bean id="userDao" class="com.gao.dao.UserDaoImpl">
+    <bean id="userDao" class="com.gao.dao.impl.UserDaoImpl">
         <property name="jdbcTemplate" ref="jdbcTemplate"></property>
     </bean>
 </beans>

@@ -1,5 +1,6 @@
-package com.gao.dao;
+package com.gao.dao.impl;
 
+import com.gao.dao.IUserDao;
 import com.gao.model.User;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Repository;
@@ -8,7 +9,7 @@ import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
 @Repository("mydao2")
-public class UserDaoImpl2 implements IUserDao{
+public class UserDaoImpl2 implements IUserDao {
     @Override
     public void add(User user) {
         System.out.println("dao2222 添加用户:" + user);

@@ -9,7 +9,7 @@ http://www.springframework.org/schema/beans http://www.springframework.org/schem
     singleton:单例,默认是单例
     prototype:多例
     -->
-    <bean id="userService" class="com.gao.service.UserServiceImpl" scope="prototype" ></bean>
+    <bean id="userService" class="com.gao.service.impl.UserServiceImpl" scope="prototype" ></bean>
 
 
     <bean id="user" class="com.gao.model.User" init-method="myInit" destroy-method="myDestroy">

@@ -11,7 +11,7 @@
 
 
     <!--  配置UserService-->
-    <bean id="userService" class="com.gao.service.UserServiceImpl"></bean>
+    <bean id="userService" class="com.gao.service.impl.UserServiceImpl"></bean>
 
     <!--  配置切面类对象-->
     <bean id="myAspect" class="com.gao.aspect.MyAspect1"></bean>

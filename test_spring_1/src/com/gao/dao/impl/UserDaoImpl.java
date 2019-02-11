@@ -1,11 +1,12 @@
-package com.gao.dao;
+package com.gao.dao.impl;
 
+import com.gao.dao.IUserDao;
 import com.gao.model.User;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
 @Repository("mydao")
-public class UserDaoImpl implements IUserDao{
+public class UserDaoImpl implements IUserDao {
 
     private JdbcTemplate jdbcTemplate;
 

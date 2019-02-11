@@ -3,7 +3,7 @@ package com.gao.factory;
 import com.gao.aspect.MyAspect0;
 import com.gao.service.IUserService;
 import com.gao.service.StudentService;
-import com.gao.service.UserServiceImpl;
+import com.gao.service.impl.UserServiceImpl;
 import org.springframework.cglib.proxy.Enhancer;
 import org.springframework.cglib.proxy.MethodInterceptor;
 import org.springframework.cglib.proxy.MethodProxy;

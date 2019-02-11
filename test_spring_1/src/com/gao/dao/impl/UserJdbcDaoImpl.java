@@ -1,5 +1,6 @@
-package com.gao.dao;
+package com.gao.dao.impl;
 
+import com.gao.dao.IUserDao;
 import com.gao.model.User;
 import org.springframework.context.annotation.Scope;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -10,7 +11,7 @@ import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
 @Repository
-public class UserJdbcDaoImpl extends JdbcDaoSupport implements IUserDao{
+public class UserJdbcDaoImpl extends JdbcDaoSupport implements IUserDao {
 
 
     //这个方法 不用创建一个属性 JdbcTemplate ，因为继承的父类已经创建了

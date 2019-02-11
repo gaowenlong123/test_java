@@ -1,12 +1,10 @@
-package com.gao.service;
+package com.gao.service.impl;
 
-import com.gao.dao.UserDaoImpl;
 import com.gao.model.User;
 import com.gao.dao.IUserDao;
-import com.gao.model.User;
+import com.gao.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 

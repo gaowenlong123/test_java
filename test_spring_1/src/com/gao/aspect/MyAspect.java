@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 @Aspect //告诉xml ，这个类就是切入点类 。上面不需要给该类设置ID
 public class MyAspect {
     //声明一个公共的切入点
-    @Pointcut("execution(* com.gao.service.UserServiceImpl.*(..))")
+    @Pointcut("execution(* com.gao.service.impl.UserServiceImpl.*(..))")
     public void myPointcut(){}
 
     @Before("myPointcut()")

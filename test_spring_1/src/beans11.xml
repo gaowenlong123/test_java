@@ -14,7 +14,7 @@
 
 
     <!--  配置UserService-->
-    <bean id="userService" class="com.gao.service.UserServiceImpl"></bean>
+    <bean id="userService" class="com.gao.service.impl.UserServiceImpl"></bean>
 
     <!-- 配置切面对象-->
     <bean id="myAspect2" class="com.gao.aspect.MyAspect2"></bean>
@@ -25,7 +25,7 @@
         <aop:aspect ref="myAspect2">
 
             <!--定义一个切入点                                     切入点表达式-->
-            <aop:pointcut id="myPointcut" expression="execution(* com.gao.service.UserServiceImpl.*(..))"/>
+            <aop:pointcut id="myPointcut" expression="execution(* com.gao.service.impl.UserServiceImpl.*(..))"/>
             <!--<aop:pointcut id="myPointcut" expression="execution(* com.gao.service.*Impl.add(..))"/>-->
                                                                            <!--以结尾的类名，方法-->
             <!-- 配置前置通知...-->

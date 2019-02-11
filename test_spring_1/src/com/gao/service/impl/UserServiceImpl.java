@@ -1,6 +1,7 @@
-package com.gao.service;
+package com.gao.service.impl;
 
 import com.gao.model.User;
+import com.gao.service.IUserService;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 

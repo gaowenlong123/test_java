@@ -1,7 +1,7 @@
 package com.gao.test.day1;
 
 import com.gao.service.IUserService;
-import com.gao.service.UserServiceImpl;
+import com.gao.service.impl.UserServiceImpl;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

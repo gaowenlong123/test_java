@@ -8,16 +8,16 @@ http://www.springframework.org/schema/beans http://www.springframework.org/schem
     <!--装配bean的三种方式，所谓的装配bean就是在xml写一个bean标签-->
 
     <!-- 第一种方式: new 实现类-->
-    <bean id="userService1" class="com.gao.service.UserServiceImpl"></bean>
+    <bean id="userService1" class="com.gao.service.impl.UserServiceImpl"></bean>
 
     <!-- 第二种方式：通过静态工厂方法
        spring的版本过低，3.0版本,需要把jdk也改成1.7 ,会报错
      -->
-    <bean id="userService2" class="com.gao.service.UserSereviceFactory1" factory-method="createUserService"></bean>
+    <bean id="userService2" class="com.gao.service.factory.UserSereviceFactory1" factory-method="createUserService"></bean>
 
     <!--第三种方式：通过实例工厂方法 -->
     <!-- 创建实例factory2 bean       这个也报错？？？-->
-    <bean id="factory2" class="com.gao.service.UserSereviceFactory2"></bean>
+    <bean id="factory2" class="com.gao.service.factory.UserSereviceFactory2"></bean>
 
     <bean id="userService3" factory-bean="factory2" factory-method="createUserService"></bean>
 

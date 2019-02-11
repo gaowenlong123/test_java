@@ -19,10 +19,10 @@
 
     <!--2-->
     <!--1.在类中声明@Component 相当于配置了
-      <bean class="com.gao.service.UserServiceImpl"></bean>
+      <bean clacom.gao.service.impl.UserServiceImplImpl"></bean>
   -->
     <!--2.在类中声明@Component("userService") 相当于配置了
-       <bean id="userService" class="com.gao.service.UserServiceImpl"></bean>
+       <bean id="userService" clacom.gao.service.impl.UserServiceImplImpl"></bean>
    -->
 
 
