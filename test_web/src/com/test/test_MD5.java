@@ -1,6 +1,6 @@
 package com.test;
 
-import com.gao.utils.MD5Utils;
+import com.cxf.utils.MD5Utils;
 import org.junit.Test;
 
 /**

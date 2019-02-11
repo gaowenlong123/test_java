@@ -28,7 +28,7 @@
 
 
     <!-- 配置dao-->
-    <bean id="accountDao" class="com.gao.dao.impl.AccountDaoImpl">
+    <bean id="accountDao" class="com.cxf.dao.impl.AccountDaoImpl">
         <property name="dataSource" ref="dataSource"></property>
     </bean>
 
@@ -41,14 +41,14 @@
 
 
     <!--配置service-->
-    <bean id="accountService" class="com.gao.service.impl.AccountServiceImpl2">
+    <bean id="accountService" class="com.cxf.service.impl.AccountServiceImpl2">
         <property name="accountDao" ref="accountDao"></property>
     </bean>
 
     <!-- 配置工厂代理-->
     <bean id="proxyService" class="org.springframework.transaction.interceptor.TransactionProxyFactoryBean">
         <!--接口-->
-        <property name="proxyInterfaces" value="com.gao.service.IAccountService"></property>
+        <property name="proxyInterfaces" value="com.cxf.service.IAccountService"></property>
         <!--目标对象-->
         <property name="target" ref="accountService"></property>
         <!--切面对象:Spring做了，就不用写-->

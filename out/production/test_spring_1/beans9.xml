@@ -11,17 +11,17 @@
 
 
     <!--  配置UserService-->
-    <bean id="userService" class="com.gao.service.impl.UserServiceImpl"></bean>
+    <bean id="userService" class="com.cxf.service.impl.UserServiceImpl"></bean>
 
     <!--  配置切面类对象-->
-    <bean id="myAspect" class="com.gao.aspect.MyAspect1"></bean>
+    <bean id="myAspect" class="com.cxf.aspect.MyAspect1"></bean>
 
     <!-- 配置代理对象
         默认情况下Spring的AOP生成的代理是JDK的Proxy实现的
     -->
     <bean id="serviceProxy" class="org.springframework.aop.framework.ProxyFactoryBean">
         <!-- 接口 :如果只是一个接口，就写Value,如果是多个接口就写List-->
-        <property name="interfaces"  value="com.gao.service.IUserService">
+        <property name="interfaces"  value="com.cxf.service.IUserService">
         </property>
 
         <!-- 目标对象 -->

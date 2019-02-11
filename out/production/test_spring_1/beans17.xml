@@ -31,7 +31,7 @@
 
 
     <!-- 配置dao-->
-    <bean id="accountDao" class="com.gao.dao.impl.AccountDaoImpl">
+    <bean id="accountDao" class="com.cxf.dao.impl.AccountDaoImpl">
         <property name="dataSource" ref="dataSource"></property>
     </bean>
 
@@ -44,7 +44,7 @@
 
 
     <!--配置service-->
-    <bean id="accountService" class="com.gao.service.impl.AccountServiceImpl2">
+    <bean id="accountService" class="com.cxf.service.impl.AccountServiceImpl2">
         <property name="accountDao" ref="accountDao"></property>
     </bean>
 
@@ -67,7 +67,7 @@
         <aop:advisor advice-ref="" pointcut-ref="myPointcut"></aop:advisor>-->
 
         <!--事务（通知） 与 连接点 进行关联  ， 关联之后连接点就会变成 切入点 -->
-        <aop:advisor advice-ref="txAdvice" pointcut="execution(* com.gao.service..*.*(..))"></aop:advisor>
+        <aop:advisor advice-ref="txAdvice" pointcut="execution(* com.cxf.service..*.*(..))"></aop:advisor>
 
 
     </aop:config>

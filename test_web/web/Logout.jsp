@@ -1,4 +1,4 @@
-<%@ page import="com.gao.model.Person" %><%--
+<%@ page import="com.cxf.model.Person" %><%--
   Created by IntelliJ IDEA.
   User: Administrator
   Date: 2019/2/8 0008

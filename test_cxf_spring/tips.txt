@@ -1,7 +1,0 @@
-1： 将cxf 与 spring 结合 放在web容器中 运行
-
-web                  jsp ：可以直接访问web页面，然后再访问service
-
-service              /ws          -->    publish （可以将service发布出来，形成web service 这样就可以直接访问方法
-                /统一访问路径
-dao

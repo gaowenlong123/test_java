@@ -1,4 +1,4 @@
-<%@ page import="com.gao.model.Book" %>
+<%@ page import="com.cxf.model.Book" %>
 <%--
   Created by IntelliJ IDEA.
   account: Administrator
@@ -33,7 +33,7 @@
     out.write(book1.getName());
 %>
 <%--创建一个对象--%>
-<jsp:useBean id="book123" class="com.gao.model.Book"></jsp:useBean>
+<jsp:useBean id="book123" class="com.cxf.model.Book"></jsp:useBean>
 <%--给对象赋值--%>
 <jsp:setProperty property="name" name="book123" value="JSP入门1"/>
 <jsp:getProperty property="name" name="book123"/>

@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import com.gao.utils.database.DBCPUtils;
+import com.cxf.utils.database.DBCPUtils;
 
 /*
 * 三种现象 ：      1：脏读 ： 一个事务读取了另一个未提交的事务

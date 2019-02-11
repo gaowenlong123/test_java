@@ -4,9 +4,9 @@ import java.sql.Connection;
 
 import org.junit.Test;
 
-import com.gao.service.IAccountService;
-import com.gao.service.impl.AccountServiceImpl;
-import com.gao.utils.ManagerThreadLocal;
+import com.cxf.service.IAccountService;
+import com.cxf.service.impl.AccountServiceImpl;
+import com.cxf.utils.ManagerThreadLocal;
 
 public class test_transaction2 {
 

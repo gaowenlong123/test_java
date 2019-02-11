@@ -9,14 +9,14 @@ http://www.springframework.org/schema/beans http://www.springframework.org/schem
     singleton:单例,默认是单例
     prototype:多例
     -->
-    <bean id="userService" class="com.gao.service.impl.UserServiceImpl" scope="prototype" ></bean>
+    <bean id="userService" class="com.cxf.service.impl.UserServiceImpl" scope="prototype" ></bean>
 
 
-    <bean id="user" class="com.gao.model.User" init-method="myInit" destroy-method="myDestroy">
+    <bean id="user" class="com.cxf.model.User" init-method="myInit" destroy-method="myDestroy">
         <property name="username" value="gao"></property>
         <property name="password" value="123"></property>
     </bean>
 
     <!-- 配置bean前后处理器 -->
-    <bean id="beanProcess" class="com.gao.model.UserBeanPostProcessor"></bean>
+    <bean id="beanProcess" class="com.cxf.model.UserBeanPostProcessor"></bean>
 </beans>

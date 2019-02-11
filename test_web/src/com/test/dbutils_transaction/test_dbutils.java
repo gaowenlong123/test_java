@@ -1,7 +1,7 @@
 package com.test.dbutils_transaction;
 
-import com.gao.model.myAccount;
-import com.gao.utils.C3P0Utils;
+import com.cxf.model.myAccount;
+import com.cxf.utils.C3P0Utils;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.ResultSetHandler;
 import org.apache.commons.dbutils.handlers.BeanListHandler;

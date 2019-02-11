@@ -1,4 +1,4 @@
-import com.gao.weather.WeatherInterfaceImpl;
+import com.cxf.weather.WeatherInterfaceImpl;
 
 import javax.xml.ws.Endpoint;
 

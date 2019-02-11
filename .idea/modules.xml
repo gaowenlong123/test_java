@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/test_Jersey/test_Jersey.iml" filepath="$PROJECT_DIR$/test_Jersey/test_Jersey.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_Soap/test_Soap.iml" filepath="$PROJECT_DIR$/test_Soap/test_Soap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test_cxf_spring/test_cxf_spring.iml" filepath="$PROJECT_DIR$/test_cxf_spring/test_cxf_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_cxf_Spring_Rest/test_cxf_Spring_Rest.iml" filepath="$PROJECT_DIR$/test_cxf_Spring_Rest/test_cxf_Spring_Rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_java.iml" filepath="$PROJECT_DIR$/test_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_spring_1/test_spring_1.iml" filepath="$PROJECT_DIR$/test_spring_1/test_spring_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_web/test_web.iml" filepath="$PROJECT_DIR$/test_web/test_web.iml" />

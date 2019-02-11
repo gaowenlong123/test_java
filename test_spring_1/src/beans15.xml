@@ -28,7 +28,7 @@
 
 
     <!-- 配置dao-->
-    <bean id="accountDao" class="com.gao.dao.impl.AccountDaoImpl">
+    <bean id="accountDao" class="com.cxf.dao.impl.AccountDaoImpl">
         <property name="dataSource" ref="dataSource"></property>
     </bean>
 
@@ -45,7 +45,7 @@
     </bean>
 
     <!--配置service-->
-    <bean id="accountService" class="com.gao.service.impl.AccountServiceImpl">
+    <bean id="accountService" class="com.cxf.service.impl.AccountServiceImpl">
         <property name="accountDao" ref="accountDao"></property>
         <!-- 配置事务模版-->
         <property name="transactionTemplate" ref="transactionTemplate"></property>

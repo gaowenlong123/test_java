@@ -29,7 +29,7 @@
     </bean>-->
 
     <!-- 配置dao-->
-    <bean id="userDao" class="com.gao.dao.impl.UserJdbcDaoImpl">
+    <bean id="userDao" class="com.cxf.dao.impl.UserJdbcDaoImpl">
         <property name="dataSource" ref="dataSource"></property>
     </bean>
 </beans>

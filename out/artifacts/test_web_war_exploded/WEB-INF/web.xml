@@ -7,7 +7,7 @@
     <!--配置servlet，也就是一个请求路径-->
     <servlet>
         <servlet-name>Test_servlet</servlet-name>
-        <servlet-class>com.gao.web.servlet.test_element.test_HttpServlet2</servlet-class>
+        <servlet-class>com.cxf.web.servlet.test_element.test_HttpServlet2</servlet-class>
         <!--为2 浏览器没有访问就直接创建 ，在tomcat启动的时候  -->
         <load-on-startup>2</load-on-startup>
     </servlet>
@@ -53,7 +53,7 @@
 
     <!--配置一个监听器 -->
     <listener>
-        <listener-class>com.gao.others.listener.MyServletContextListener</listener-class>
+        <listener-class>com.cxf.others.listener.MyServletContextListener</listener-class>
     </listener>
 <!--    <listener>
         <listener-class>com.gao.others.listener.MyHttpRequestListener</listener-class>
@@ -68,7 +68,7 @@
     <!--配置一个过滤器-->
     <filter>
         <filter-name>MyFilter</filter-name>
-        <filter-class>com.gao.filter.MyFilter0</filter-class>
+        <filter-class>com.cxf.filter.MyFilter0</filter-class>
         <!--过滤器可以初始化一些参数 -->
         <init-param>
             <param-name>username</param-name>
@@ -97,7 +97,7 @@
     <!--配置多个过滤器 -->
     <filter>
         <filter-name>MyFilter1</filter-name>
-        <filter-class>com.gao.filter.MyFilter1</filter-class>
+        <filter-class>com.cxf.filter.MyFilter1</filter-class>
     </filter>
     <filter-mapping>
         <filter-name>MyFilter1</filter-name>
@@ -106,7 +106,7 @@
     </filter-mapping>
     <filter>
         <filter-name>MyFilter2</filter-name>
-        <filter-class>com.gao.filter.MyFilter2</filter-class>
+        <filter-class>com.cxf.filter.MyFilter2</filter-class>
     </filter>
     <filter-mapping>
         <filter-name>MyFilter2</filter-name>

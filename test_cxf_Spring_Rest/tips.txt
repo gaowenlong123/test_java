@@ -1,0 +1,12 @@
+1： 将cxf 与 spring 结合 放在web容器中 运行
+
+web                  jsp ：可以直接访问web页面，然后再访问service
+
+service              /ws          -->    publish （可以将service发布出来，形成web service 这样就可以直接访问方法
+                /统一访问路径
+dao
+
+
+2： 注意创建一个web项目后 ，再改名字 tomcat会启动不了  。 只能在Main_test里面启动
+
+3： Rest这些url 都是给移动客户端访问的    在 Tools/ Test RestFul Web Service 测试自己的代码

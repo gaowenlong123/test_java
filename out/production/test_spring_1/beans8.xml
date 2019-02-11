@@ -15,15 +15,15 @@
     <!--<context:component-scan base-package="com.gao"/>-->
 
     <!-- 1.配置dao-->
-    <bean id="userDao" class="com.gao.dao.impl.UserDaoImpl"></bean>
+    <bean id="userDao" class="com.cxf.dao.impl.UserDaoImpl"></bean>
 
     <!-- 2.配置service -->
-    <bean id="userService" class="com.gao.service.impl.UserActionServiceImpl">
+    <bean id="userService" class="com.cxf.service.impl.UserActionServiceImpl">
         <property name="userDao" ref="userDao"></property>
     </bean>
 
     <!--3.配置action-->
-    <bean id="userAction" class="com.gao.web.action.UserAction">
+    <bean id="userAction" class="com.cxf.web.action.UserAction">
         <property name="userService" ref="userService"></property>
     </bean>
 </beans>

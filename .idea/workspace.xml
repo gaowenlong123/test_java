@@ -7,111 +7,592 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a3ba4e-dd78-4b12-90dc-e860a7f18294" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/FastInfoset-1.2.13.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/activemq-broker-5.8.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/activemq-client-5.8.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/activemq-openwire-legacy-5.8.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/antlr-2.7.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/asm-3.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/commons-codec-1.9.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/commons-collections-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/commons-lang-2.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-2.7.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-manifest.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-services-sts-core-2.7.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-services-ws-discovery-api-2.7.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-services-ws-discovery-service-2.7.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-services-wsn-api-2.7.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-services-wsn-core-2.7.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-xjc-boolean-2.6.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-xjc-bug671-2.6.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-xjc-dv-2.6.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-xjc-runtime-2.6.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-xjc-ts-2.6.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/ehcache-core-2.5.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/geronimo-javamail_1.4_spec-1.7.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/geronimo-jaxws_2.2_spec-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/geronimo-jms_1.1_spec-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/geronimo-servlet_3.0_spec-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/hawtbuf-1.9.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/httpasyncclient-4.0-beta3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/httpclient-4.2.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/httpcore-4.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/httpcore-nio-4.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/isorelax-20030108.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/javax.ws.rs-api-2.0-m10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jaxb-api-2.2.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jaxb-impl-2.2.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jaxb-xjc-2.2.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jettison-1.3.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-continuation-8.1.14.v20131031.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-http-8.1.14.v20131031.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-io-8.1.14.v20131031.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-security-8.1.14.v20131031.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-server-8.1.14.v20131031.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-util-8.1.14.v20131031.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/joda-time-2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/js-1.7R2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/mina-core-2.0.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/msv-core-2011.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/neethi-3.0.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/oauth-20100527.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/oauth-provider-20100527.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/opensaml-2.6.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/openws-1.5.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/relaxngDatatype-20020414.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/serializer-2.7.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/slf4j-api-1.7.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/slf4j-jdk14-1.7.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-aop-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-asm-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-batch-infrastructure-2.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-beans-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-context-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-context-support-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-core-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-expression-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-jdbc-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-retry-1.0.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-test-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-tx-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-web-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-webmvc-3.1.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/stax2-api-3.1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/velocity-1.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/woodstox-core-asl-4.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/wsdl4j-1.6.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/wss4j-1.6.15.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xml-resolver-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xmlbeans-2.6.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xmlschema-core-2.1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xmlsec-1.5.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xmltooling-1.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xsdlib-2010.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/test_cxf_spring_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/activemq_broker_5_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_frame/Web_Service_CXF/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_frame/Web_Service_Soap/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Soap/client/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Soap/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Soap/src/com/gao/weather/WeatherInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Soap/src/com/gao/weather/WeatherInterfaceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Soap/test_Soap.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Soap/tips.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/src/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/HelloInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/WeatherInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/impl/HelloInterfaceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/impl/WeatherInterfaceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/test_cxf_spring.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/tips.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/aopalliance-repackaged-2.3.0-b05.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/hk2-api-2.3.0-b05.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/hk2-locator-2.3.0-b05.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/hk2-utils-2.3.0-b05.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jackson-annotations-2.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jackson-core-2.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jackson-databind-2.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jackson-jaxrs-base-2.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jackson-jaxrs-json-provider-2.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jackson-module-jaxb-annotations-2.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/javassist-3.18.1-GA.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/javax.annotation-api-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/javax.inject-2.3.0-b05.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/javax.ws.rs-api-2.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jersey-client-1.19.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jersey-client-2.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jersey-common-2.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jersey-container-servlet-2.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jersey-container-servlet-core-2.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jersey-core-1.19.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jersey-guava-2.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jersey-media-json-jackson-2.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jersey-server-2.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/jsr311-api-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/osgi-resource-locator-1.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/lib/validation-api-1.1.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/test_Jersey_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/test_cxf_Spring_Rest_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/aopalliance_repackaged_2_3_0_b05.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_frame/Jersey/test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_frame/Web_Service_REST/test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/src/com/gao/model/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/src/com/gao/rest/UserServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/test_Jersey.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/src/Main_test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/rest/api/model/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/rest/api/service/IStudentService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/rest/api/service/StudentServiceImpl.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/activemq_broker_5_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/classes/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/classes/com/gao/service/HelloInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/classes/com/gao/service/HelloInterfaceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/classes/com/gao/service/WeatherInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/classes/com/gao/service/WeatherInterfaceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/FastInfoset-1.2.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/activemq-broker-5.8.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/activemq-client-5.8.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/activemq-openwire-legacy-5.8.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/asm-3.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/commons-codec-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/commons-collections-3.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/commons-lang-2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-2.7.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-manifest.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-services-sts-core-2.7.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-services-ws-discovery-api-2.7.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-services-ws-discovery-service-2.7.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-services-wsn-api-2.7.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-services-wsn-core-2.7.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-xjc-boolean-2.6.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-xjc-bug671-2.6.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-xjc-dv-2.6.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-xjc-runtime-2.6.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/cxf-xjc-ts-2.6.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/ehcache-core-2.5.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/geronimo-javamail_1.4_spec-1.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/geronimo-jaxws_2.2_spec-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/geronimo-jms_1.1_spec-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/geronimo-servlet_3.0_spec-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/hawtbuf-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/httpasyncclient-4.0-beta3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/httpclient-4.2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/httpcore-4.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/httpcore-nio-4.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/isorelax-20030108.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/javax.ws.rs-api-2.0-m10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/jaxb-api-2.2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/jaxb-impl-2.2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/jaxb-xjc-2.2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/jettison-1.3.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/jetty-continuation-8.1.14.v20131031.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/jetty-http-8.1.14.v20131031.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/jetty-io-8.1.14.v20131031.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/jetty-security-8.1.14.v20131031.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/jetty-server-8.1.14.v20131031.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/jetty-util-8.1.14.v20131031.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/joda-time-2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/js-1.7R2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/mina-core-2.0.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/msv-core-2011.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/neethi-3.0.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/oauth-20100527.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/oauth-provider-20100527.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/opensaml-2.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/openws-1.5.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/relaxngDatatype-20020414.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/serializer-2.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/slf4j-api-1.7.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/slf4j-jdk14-1.7.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-aop-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-asm-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-batch-infrastructure-2.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-beans-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-context-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-context-support-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-core-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-expression-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-jdbc-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-retry-1.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-test-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-tx-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-web-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/spring-webmvc-3.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/stax2-api-3.1.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/velocity-1.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/woodstox-core-asl-4.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/wsdl4j-1.6.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/wss4j-1.6.15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/xml-resolver-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/xmlbeans-2.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/xmlschema-core-2.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/xmlsec-1.5.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/xmltooling-1.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/lib/xsdlib-2010.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_cxf_spring_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/dao/IAccountDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/dao/IUserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/dao/impl/AccountDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/dao/impl/UserDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/filter/MyFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/filter/MyFilter0.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/filter/MyFilter1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/filter/MyFilter2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/model/Address.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/model/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/model/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/model/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/model/account.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/model/myAccount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/others/exception/UserException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/others/form/UserForm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/others/listener/MyHttpRequestListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/others/listener/MyHttpSessionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/others/listener/MyServletContextAttributeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/others/listener/MyServletContextListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/service/IAccountService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/service/IUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/service/impl/AccountServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/service/impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/utils/C3P0Utils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/utils/MD5Utils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/utils/ManagerThreadLocal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/utils/database/DBCPUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/utils/database/DBUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/utils/database/JNDIUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/utils/database/MyDateConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/Browse_WEB_INF.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/DownloadServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/LoginServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/LoginServlet_Jquery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/LoginServlet_ajax.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/LogoutServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/RegisterServlet$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/RegisterServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/UploadServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/bookCity/Cookie/DBUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/bookCity/Cookie/ShowAllBookServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/bookCity/Cookie/ViewBookServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/bookCity/Session/BuyBookServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/bookCity/Session/LoginServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/bookCity/Session/ShowAllBookServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/bookCity/Session/ValidateCodeServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/PersonListServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/info.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_Cookie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_Cookie2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet_request.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet_request2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet_request3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet_request4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_Session.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_Session2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_Session3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/test_element/test_Session4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/gao/web/servlet/tips.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_Soap/com/gao/weather/WeatherInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_Soap/com/gao/weather/WeatherInterfaceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/aspect/MyAspect.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/aspect/MyAspect0.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/aspect/MyAspect1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/aspect/MyAspect2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/dao/IAccountDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/dao/IUserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/dao/impl/AccountDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/dao/impl/UserDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/dao/impl/UserDaoImpl2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/dao/impl/UserJdbcDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/factory/MyBeanFactory$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/factory/MyBeanFactory$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/factory/MyBeanFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/model/Address.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/model/Customer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/model/Programmer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/model/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/model/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/model/UserBeanPostProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/IAccountService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/IUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/StudentService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/factory/UserSereviceFactory1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/factory/UserSereviceFactory2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/impl/AccountServiceImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/impl/AccountServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/impl/AccountServiceImpl2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/impl/AccountServiceImpl3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/impl/UserActionServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/service/impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/day1/test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/day1/test2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/day1/test3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/day1/test4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/test/test7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test_spring_1/com/gao/web/action/UserAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/impl/UserJdbcDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/others/listener/MyHttpSessionListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/utils/database/JNDIUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/BuyBookServlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_HttpServlet_request.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/dao/IAccountDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/dao/IUserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/dao/impl/AccountDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/dao/impl/UserDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/filter/MyFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/filter/MyFilter0.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/filter/MyFilter1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/filter/MyFilter2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/model/Address.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/model/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/model/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/model/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/model/account.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/model/myAccount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/others/exception/UserException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/others/form/UserForm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/others/listener/MyHttpRequestListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/others/listener/MyHttpSessionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/others/listener/MyServletContextAttributeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/others/listener/MyServletContextListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/service/IAccountService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/service/IUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/service/impl/AccountServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/service/impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/utils/C3P0Utils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/utils/MD5Utils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/utils/ManagerThreadLocal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/utils/database/DBCPUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/utils/database/DBUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/utils/database/JNDIUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/utils/database/MyDateConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/Browse_WEB_INF.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/DownloadServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/LoginServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/LoginServlet_Jquery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/LoginServlet_ajax.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/LogoutServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/RegisterServlet$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/RegisterServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/UploadServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/bookCity/Cookie/DBUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/bookCity/Cookie/ShowAllBookServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/bookCity/Cookie/ViewBookServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/bookCity/Session/BuyBookServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/bookCity/Session/LoginServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/bookCity/Session/ShowAllBookServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/bookCity/Session/ValidateCodeServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/PersonListServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/info.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_Cookie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_Cookie2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet_request.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet_request2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet_request3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_HttpServlet_request4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_Session.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_Session2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_Session3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/test_element/test_Session4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/gao/web/servlet/tips.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils$1.class" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils.class" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils2.class" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils3.class" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_transaction.class" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_transaction.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_transaction2$1.class" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_transaction2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_transaction2.class" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/dbutils_transaction/test_transaction2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/test.class" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/test_MD5.class" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/classes/com/test/test_MD5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_Soap/Main.class" afterPath="$PROJECT_DIR$/out/production/test_Soap/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils$1.class" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils.class" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils2.class" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils3.class" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_dbutils3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_transaction.class" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_transaction.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_transaction2$1.class" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_transaction2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_transaction2.class" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/dbutils_transaction/test_transaction2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/test.class" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/test_MD5.class" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/classes/com/test/test_MD5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/test_cxf_spring_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/test_cxf_spring_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/Logout.jsp" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/Logout.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/learn/jsp/test_jsp4.jsp" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/learn/jsp/test_jsp4.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/learn/jsp/test_jsp7.jsp" afterPath="$PROJECT_DIR$/out/artifacts/test_web_war_exploded/learn/jsp/test_jsp7.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans10.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans10.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans11.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans12.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans12.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans13.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans14.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans14.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans15.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans15.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans16.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans16.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans17.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans17.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans18.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans18.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans2.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans3.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans4.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans5.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans6.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans6.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans7.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans7.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans8.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans8.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_spring_1/beans9.xml" afterPath="$PROJECT_DIR$/out/production/test_spring_1/beans9.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_Soap/src/Main.java" afterPath="$PROJECT_DIR$/test_Soap/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans10.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans10.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans11.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans12.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans12.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans13.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans14.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans14.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans15.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans15.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans16.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans16.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans17.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans17.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans18.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans18.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans2.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans3.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans4.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans5.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans6.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans6.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans7.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans7.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans8.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans8.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_spring_1/src/beans9.xml" afterPath="$PROJECT_DIR$/test_spring_1/src/beans9.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/src/com/test/dbutils_transaction/test_dbutils.java" afterPath="$PROJECT_DIR$/test_web/src/com/test/dbutils_transaction/test_dbutils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/src/com/test/dbutils_transaction/test_dbutils2.java" afterPath="$PROJECT_DIR$/test_web/src/com/test/dbutils_transaction/test_dbutils2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/src/com/test/dbutils_transaction/test_dbutils3.java" afterPath="$PROJECT_DIR$/test_web/src/com/test/dbutils_transaction/test_dbutils3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/src/com/test/dbutils_transaction/test_transaction.java" afterPath="$PROJECT_DIR$/test_web/src/com/test/dbutils_transaction/test_transaction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/src/com/test/dbutils_transaction/test_transaction2.java" afterPath="$PROJECT_DIR$/test_web/src/com/test/dbutils_transaction/test_transaction2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/src/com/test/test.java" afterPath="$PROJECT_DIR$/test_web/src/com/test/test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/src/com/test/test_MD5.java" afterPath="$PROJECT_DIR$/test_web/src/com/test/test_MD5.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/Logout.jsp" afterPath="$PROJECT_DIR$/test_web/web/Logout.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/test_web/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp4.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp4.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp7.jsp" afterPath="$PROJECT_DIR$/test_web/web/learn/jsp/test_jsp7.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_Soap/src/com/gao/weather/WeatherInterface.java" afterPath="$PROJECT_DIR$/test_Soap/src/com/cxf/weather/WeatherInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_Soap/src/com/gao/weather/WeatherInterfaceImpl.java" afterPath="$PROJECT_DIR$/test_Soap/src/com/cxf/weather/WeatherInterfaceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/src/applicationContext.xml" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/src/applicationContext.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/HelloInterface.java" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/cxf/service/HelloInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/WeatherInterface.java" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/cxf/service/WeatherInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/impl/HelloInterfaceImpl.java" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/cxf/service/impl/HelloInterfaceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/impl/WeatherInterfaceImpl.java" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/cxf/service/impl/WeatherInterfaceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/test_cxf_spring.iml" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/test_cxf_Spring_Rest.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/tips.txt" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/tips.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/FastInfoset-1.2.13.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/FastInfoset-1.2.13.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/activemq-broker-5.8.0.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/activemq-broker-5.8.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/activemq-client-5.8.0.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/activemq-client-5.8.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/activemq-openwire-legacy-5.8.0.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/activemq-openwire-legacy-5.8.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/antlr-2.7.7.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/antlr-2.7.7.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/aopalliance-1.0.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/asm-3.3.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/asm-3.3.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/commons-codec-1.9.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/commons-codec-1.9.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/commons-collections-3.2.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/commons-collections-3.2.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/commons-lang-2.6.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/commons-lang-2.6.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-2.7.11.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-2.7.11.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-manifest.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-manifest.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-services-sts-core-2.7.11.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-services-sts-core-2.7.11.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-services-ws-discovery-api-2.7.11.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-services-ws-discovery-api-2.7.11.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-services-ws-discovery-service-2.7.11.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-services-ws-discovery-service-2.7.11.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-services-wsn-api-2.7.11.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-services-wsn-api-2.7.11.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-services-wsn-core-2.7.11.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-services-wsn-core-2.7.11.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-xjc-boolean-2.6.2.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-xjc-boolean-2.6.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-xjc-bug671-2.6.2.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-xjc-bug671-2.6.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-xjc-dv-2.6.2.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-xjc-dv-2.6.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-xjc-runtime-2.6.2.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-xjc-runtime-2.6.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/cxf-xjc-ts-2.6.2.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/cxf-xjc-ts-2.6.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/ehcache-core-2.5.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/ehcache-core-2.5.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/geronimo-javamail_1.4_spec-1.7.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/geronimo-javamail_1.4_spec-1.7.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/geronimo-jaxws_2.2_spec-1.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/geronimo-jaxws_2.2_spec-1.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/geronimo-jms_1.1_spec-1.1.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/geronimo-jms_1.1_spec-1.1.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/geronimo-servlet_3.0_spec-1.0.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/geronimo-servlet_3.0_spec-1.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/hawtbuf-1.9.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/hawtbuf-1.9.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/httpasyncclient-4.0-beta3.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/httpasyncclient-4.0-beta3.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/httpclient-4.2.5.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/httpclient-4.2.5.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/httpcore-4.2.4.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/httpcore-4.2.4.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/httpcore-nio-4.2.4.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/httpcore-nio-4.2.4.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/isorelax-20030108.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/isorelax-20030108.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/javax.ws.rs-api-2.0-m10.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/javax.ws.rs-api-2.0-m10.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jaxb-api-2.2.6.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/jaxb-api-2.2.6.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jaxb-impl-2.2.6.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/jaxb-impl-2.2.6.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jaxb-xjc-2.2.6.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/jaxb-xjc-2.2.6.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jettison-1.3.5.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/jettison-1.3.5.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-continuation-8.1.14.v20131031.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/jetty-continuation-8.1.14.v20131031.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-http-8.1.14.v20131031.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/jetty-http-8.1.14.v20131031.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-io-8.1.14.v20131031.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/jetty-io-8.1.14.v20131031.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-security-8.1.14.v20131031.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/jetty-security-8.1.14.v20131031.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-server-8.1.14.v20131031.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/jetty-server-8.1.14.v20131031.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jetty-util-8.1.14.v20131031.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/jetty-util-8.1.14.v20131031.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/joda-time-2.2.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/joda-time-2.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/js-1.7R2.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/js-1.7R2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/jstl-1.2.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/jstl-1.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/mina-core-2.0.7.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/mina-core-2.0.7.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/msv-core-2011.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/msv-core-2011.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/neethi-3.0.3.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/neethi-3.0.3.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/oauth-20100527.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/oauth-20100527.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/oauth-provider-20100527.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/oauth-provider-20100527.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/opensaml-2.6.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/opensaml-2.6.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/openws-1.5.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/openws-1.5.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/relaxngDatatype-20020414.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/relaxngDatatype-20020414.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/serializer-2.7.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/serializer-2.7.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/slf4j-api-1.7.6.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/slf4j-api-1.7.6.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/slf4j-jdk14-1.7.6.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/slf4j-jdk14-1.7.6.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-aop-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-aop-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-asm-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-asm-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-batch-infrastructure-2.2.2.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-batch-infrastructure-2.2.2.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-beans-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-beans-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-context-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-context-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-context-support-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-context-support-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-core-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-core-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-expression-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-expression-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-jdbc-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-jdbc-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-retry-1.0.2.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-retry-1.0.2.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-test-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-test-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-tx-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-tx-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-web-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-web-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/spring-webmvc-3.1.4.RELEASE.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/spring-webmvc-3.1.4.RELEASE.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/stax2-api-3.1.4.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/stax2-api-3.1.4.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/velocity-1.7.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/velocity-1.7.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/woodstox-core-asl-4.2.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/woodstox-core-asl-4.2.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/wsdl4j-1.6.3.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/wsdl4j-1.6.3.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/wss4j-1.6.15.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/wss4j-1.6.15.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xml-resolver-1.2.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/xml-resolver-1.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xmlbeans-2.6.0.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/xmlbeans-2.6.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xmlschema-core-2.1.0.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/xmlschema-core-2.1.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xmlsec-1.5.6.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/xmlsec-1.5.6.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xmltooling-1.4.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/xmltooling-1.4.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/lib/xsdlib-2010.1.jar" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/lib/xsdlib-2010.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cxf_spring/web/index.jsp" afterPath="$PROJECT_DIR$/test_cxf_Spring_Rest/web/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/aspect/MyAspect.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect0.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/aspect/MyAspect0.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect1.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/aspect/MyAspect1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect2.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/aspect/MyAspect2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/IAccountDao.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/dao/IAccountDao.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/IUserDao.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/dao/IUserDao.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/impl/AccountDaoImpl.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/dao/impl/AccountDaoImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/impl/UserDaoImpl.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/dao/impl/UserDaoImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/impl/UserDaoImpl2.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/dao/impl/UserDaoImpl2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/factory/MyBeanFactory.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/factory/MyBeanFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/model/Address.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/model/Address.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/model/Customer.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/model/Customer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/model/Programmer.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/model/Programmer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/model/Student.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/model/Student.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/model/User.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/model/User.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/model/UserBeanPostProcessor.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/model/UserBeanPostProcessor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/IAccountService.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/service/IAccountService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/IUserService.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/service/IUserService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/StudentService.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/service/StudentService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/factory/UserSereviceFactory1.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/service/factory/UserSereviceFactory1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/factory/UserSereviceFactory2.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/service/factory/UserSereviceFactory2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/AccountServiceImpl.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/service/impl/AccountServiceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/AccountServiceImpl2.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/service/impl/AccountServiceImpl2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/AccountServiceImpl3.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/service/impl/AccountServiceImpl3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/UserActionServiceImpl.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/service/impl/UserActionServiceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/service/impl/UserServiceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/day1/test.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/test/day1/test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/day1/test2.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/test/day1/test2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/day1/test3.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/test/day1/test3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/day1/test4.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/test/day1/test4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/test/test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test2.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/test/test2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test3.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/test/test3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test4.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/test/test4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test6.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/test/test6.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test7.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/test/test7.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_spring_1/src/com/gao/web/action/UserAction.java" afterPath="$PROJECT_DIR$/test_spring_1/src/com/cxf/web/action/UserAction.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/dao/IAccountDao.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/dao/IAccountDao.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/dao/IUserDao.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/dao/IUserDao.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/dao/impl/AccountDaoImpl.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/dao/impl/AccountDaoImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/dao/impl/UserDaoImpl.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/dao/impl/UserDaoImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/filter/MyFilter.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/filter/MyFilter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/filter/MyFilter0.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/filter/MyFilter0.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/filter/MyFilter1.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/filter/MyFilter1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/filter/MyFilter2.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/filter/MyFilter2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/model/Address.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/model/Address.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/model/Book.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/model/Book.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/model/Person.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/model/Person.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/model/User.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/model/User.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/model/account.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/model/account.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/model/myAccount.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/model/myAccount.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/others/exception/UserException.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/others/exception/UserException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/others/form/UserForm.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/others/form/UserForm.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/others/listener/MyHttpRequestListener.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/others/listener/MyHttpRequestListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/others/listener/MyServletContextAttributeListener.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/others/listener/MyServletContextAttributeListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/others/listener/MyServletContextListener.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/others/listener/MyServletContextListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/service/IAccountService.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/service/IAccountService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/service/IUserService.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/service/IUserService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/service/impl/AccountServiceImpl.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/service/impl/AccountServiceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/service/impl/UserServiceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/utils/C3P0Utils.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/utils/C3P0Utils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/utils/MD5Utils.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/utils/MD5Utils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/utils/ManagerThreadLocal.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/utils/ManagerThreadLocal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/utils/database/DBCPUtils.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/utils/database/DBCPUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/utils/database/DBUtils.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/utils/database/DBUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/utils/database/MyDateConverter.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/utils/database/MyDateConverter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/Browse_WEB_INF.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/Browse_WEB_INF.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/DownloadServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/DownloadServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/LoginServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/LoginServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/LoginServlet_Jquery.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/LoginServlet_Jquery.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/LoginServlet_ajax.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/LoginServlet_ajax.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/LogoutServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/LogoutServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/RegisterServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/RegisterServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/UploadServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/UploadServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Cookie/DBUtils.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/bookCity/Cookie/DBUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Cookie/ShowAllBookServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/bookCity/Cookie/ShowAllBookServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Cookie/ViewBookServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/bookCity/Cookie/ViewBookServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/LoginServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/bookCity/Session/LoginServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/ShowAllBookServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/bookCity/Session/ShowAllBookServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/bookCity/Session/ValidateCodeServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/bookCity/Session/ValidateCodeServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/PersonListServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/PersonListServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/info.properties" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/info.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_Cookie.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_Cookie.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_Cookie2.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_Cookie2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_HttpServlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_HttpServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_HttpServlet2.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_HttpServlet2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_HttpServlet3.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_HttpServlet3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_HttpServlet4.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_HttpServlet4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_HttpServlet5.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_HttpServlet5.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_HttpServlet6.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_HttpServlet6.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_HttpServlet7.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_HttpServlet7.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_HttpServlet_request2.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_HttpServlet_request2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_HttpServlet_request3.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_HttpServlet_request3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_HttpServlet_request4.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_HttpServlet_request4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_Servlet.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_Servlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_Session.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_Session.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_Session2.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_Session2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_Session3.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_Session3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/test_element/test_Session4.java" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/test_element/test_Session4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_web/src/com/gao/web/servlet/tips.txt" afterPath="$PROJECT_DIR$/test_web/src/com/cxf/web/servlet/tips.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring01/target/" />
@@ -139,103 +620,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WeatherInterfaceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_Soap/src/com/gao/weather/WeatherInterfaceImpl.java">
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_frame/Jersey/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="0">
+              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Jersey/src/com/gao/rest/UserServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#617#623#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_frame/Web_Service_CXF/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/HelloInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeatherInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/WeatherInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeatherInterfaceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/impl/WeatherInterfaceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloInterfaceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/impl/HelloInterfaceImpl.java">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Jersey/src/com/gao/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_cxf_spring/src/applicationContext.xml">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_Jersey/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tips.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cxf_spring/tips.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cxf_spring/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="-81">
+              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -259,6 +680,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\JavaProjects\test_java\test_cxf_Spring_Rest</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -275,26 +704,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect1.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect0.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test2.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/beans11.xml" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect2.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/beans12.xml" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test3.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/aspect/MyAspect.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/service/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/test/Lesson04.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test04.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test5.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test4.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/UserDaoImpl.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/beans13.xml" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/UserJdbcDaoImpl.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/db.properties" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/beans14.xml" />
         <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test6.java" />
-        <option value="$PROJECT_DIR$/idea.txt" />
         <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/service/IAccountService.java" />
         <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/impl/UserJdbcDaoImpl.java" />
@@ -323,9 +733,28 @@
         <option value="$PROJECT_DIR$/learn_frame/Web_Service_CXF/test.java" />
         <option value="$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/HelloInterface.java" />
         <option value="$PROJECT_DIR$/test_cxf_spring/tips.txt" />
-        <option value="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/impl/WeatherInterfaceImpl.java" />
         <option value="$PROJECT_DIR$/test_cxf_spring/src/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/idea.txt" />
+        <option value="$PROJECT_DIR$/test_cxf_spring/src/com/rest/api/service/StudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/test_cxf_spring/src/Main.java" />
+        <option value="$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/test_cxf_spring/src/com/rest/api/model/Student.java" />
+        <option value="$PROJECT_DIR$/test_cxf_spring/src/com/rest/api/service/IStudentService.java" />
+        <option value="$PROJECT_DIR$/test_cxf_spring_REST/src/com/rest/api/service/StudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/learn_frame/Web_Service_REST/test.java" />
+        <option value="$PROJECT_DIR$/test_cxf_spring_REST/src/com/rest/api/service/IStudentService.java" />
+        <option value="$PROJECT_DIR$/test_cxf_spring_REST/src/Main.java" />
+        <option value="$PROJECT_DIR$/test_cxf_spring_REST/src/Main_test.java" />
+        <option value="$PROJECT_DIR$/test_cxf_spring_REST/src/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/test_cxf_spring/src/Main_test.java" />
+        <option value="$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/rest/api/service/IStudentService.java" />
+        <option value="$PROJECT_DIR$/test_cxf_Spring_Rest/src/Main_test.java" />
+        <option value="$PROJECT_DIR$/test_cxf_Spring_Rest/tips.txt" />
+        <option value="$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/learn_frame/Jersey/test.java" />
+        <option value="$PROJECT_DIR$/test_Jersey/src/com/gao/rest/UserServlet.java" />
+        <option value="$PROJECT_DIR$/test_Jersey/web/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -414,10 +843,124 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_Jersey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_Jersey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_Jersey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_Jersey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_Jersey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -426,36 +969,36 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.36091954" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/basic_knowledge" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="last_opened_file_path" value="D:/java_Utils/spring/springjars/spring-tx-4.3.18.RELEASE.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_cxf_Spring_Rest" />
     <property name="SearchEverywhereHistoryKey" value="database&#9;ACTION&#9;ActivateDatabaseToolWindow" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\JavaProjects\test_java\test_Soap" />
-      <recent name="D:\JavaProjects\test_java\test_web\web" />
-      <recent name="D:\JavaProjects\test_java\test_web\web\WEB-INF" />
-      <recent name="D:\JavaProjects\test_java\test_web\web\learn" />
-      <recent name="D:\JavaProjects\test_java\test_web\src\com\gao\model" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="Learning_Basic_Knowledge" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\test_java\test_Jersey\web\WEB-INF" />
+      <recent name="D:\JavaProjects\test_java\test_Jersey" />
+      <recent name="D:\JavaProjects\test_java\test_cxf_spring\src" />
+      <recent name="D:\JavaProjects\test_java\test_cxf_spring\src\com\rest" />
+      <recent name="D:\JavaProjects\test_java\test_cxf_spring\web\WEB-INF" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.gao.service.impl" />
       <recent name="com.gao.dao" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JavaProjects\test_java\test_cxf_spring\src" />
-      <recent name="D:\JavaProjects\test_java\test_cxf_spring\web\WEB-INF" />
-      <recent name="D:\JavaProjects\test_java\test_Soap\src" />
-      <recent name="D:\JavaProjects\test_java\test_Soap\src\com\gao\weather" />
-      <recent name="D:\JavaProjects\test_java\test_spring_1\src" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\test_java\test_Jersey\src" />
+      <recent name="D:\JavaProjects\test_java\test_cxf_Spring_Rest" />
+      <recent name="D:\JavaProjects\test_java\test_cxf_Spring_Rest\web" />
+      <recent name="D:\JavaProjects\test_java\test_cxf_Spring_Rest\src" />
+      <recent name="D:\JavaProjects\test_java\test_Soap" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -471,44 +1014,18 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.37">
-    <configuration default="false" name="test7.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.gao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="test_spring_1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gao.test" />
-      <option name="MAIN_CLASS_NAME" value="com.gao.test.test7" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="false" name="test7.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.gao.test.*" />
+          <option name="PATTERN" value="com.cxf.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="test_spring_1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gao.test" />
-      <option name="MAIN_CLASS_NAME" value="com.gao.test.test7" />
+      <option name="PACKAGE_NAME" value="com.cxf.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cxf.test.test7" />
       <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -526,15 +1043,15 @@
     <configuration default="false" name="test7.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.gao.test.*" />
+          <option name="PATTERN" value="com.cxf.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="test_spring_1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gao.test" />
-      <option name="MAIN_CLASS_NAME" value="com.gao.test.test7" />
+      <option name="PACKAGE_NAME" value="com.cxf.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cxf.test.test7" />
       <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -588,6 +1105,21 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main_test" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test_cxf_Spring_Rest" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -1080,58 +1612,41 @@
     </configuration>
     <configuration default="false" name="Tomcat 8.5.37" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.37" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
-        <artifact name="test_cxf_spring:war exploded">
+        <artifact name="test_Jersey:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_37_test_java" />
-      </server-settings>
+      <server-settings />
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
       <predefined_log_file id="Tomcat Manager" enabled="false" />
       <predefined_log_file id="Tomcat Host Manager" enabled="false" />
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="test_cxf_spring:war exploded" />
+          <artifact name="test_Jersey:war exploded" />
         </option>
       </method>
     </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat8" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.test7.test2" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.5.37" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.test7.test3" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.test7.test4" />
       <item index="4" class="java.lang.String" itemvalue="Application.Main" />
       <item index="5" class="java.lang.String" itemvalue="JUnit.test.test1" />
-      <item index="6" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.5.37" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Main_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.test.test1" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.test7.test4" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.test7.test3" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.test7.test2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main_test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.test.test1" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.test7.test4" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.test7.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -1195,7 +1710,8 @@
       <workItem from="1549800637132" duration="7531000" />
       <workItem from="1549855419598" duration="6473000" />
       <workItem from="1549874718617" duration="6352000" />
-      <workItem from="1549881131131" duration="5136000" />
+      <workItem from="1549881131131" duration="8934000" />
+      <workItem from="1549890205682" duration="1964000" />
     </task>
     <servers />
   </component>
@@ -1232,7 +1748,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="328531000" />
+    <option name="totallyTimeSpent" value="334293000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1245,6 +1761,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1258,19 +1775,22 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5814266" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38761777" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.487214" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42126516" sideWeight="0.47421202" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47106326" sideWeight="0.47421202" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32166892" sideWeight="0.47579426" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28653294" sideWeight="0.88739496" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4320323" sideWeight="0.47579426" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29083094" sideWeight="0.88739496" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28151864" sideWeight="0.111666664" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60565275" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23710601" sideWeight="0.5078652" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1278,7 +1798,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60565275" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1325,112 +1844,35 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/beans13.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="36" column="45" lean-forward="false" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/test/test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="48" column="26" lean-forward="false" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/tips.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="68" lean-forward="false" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idea.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/dao/IUserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/UserActionServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/service/StudentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/dao/impl/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/dao/impl/UserDaoImpl2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/dao/impl/UserJdbcDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/dao/impl/UserJdbcDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/service/factory/UserSereviceFactory1.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/factory/UserSereviceFactory1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/service/factory/UserSereviceFactory2.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/factory/UserSereviceFactory2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/service/IAccountService.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/IAccountService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/dao/IAccountDao.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/dao/IAccountDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -1444,21 +1886,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/test/test6.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/test/test6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/dao/impl/AccountDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/dao/impl/AccountDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/AccountServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/impl/AccountServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="29" column="91" lean-forward="false" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="91" />
@@ -1486,7 +1928,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/AccountServiceImpl2.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/impl/AccountServiceImpl2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
@@ -1509,20 +1951,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/test/test7.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/test/test7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1458">
           <caret line="57" column="90" lean-forward="false" selection-start-line="57" selection-start-column="76" selection-end-line="57" selection-end-column="90" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/AccountServiceImpl3.java">
+    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/impl/AccountServiceImpl3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1534,7 +1973,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Soap/src/com/gao/weather/WeatherInterface.java">
+    <entry file="file://$PROJECT_DIR$/test_Soap/src/com/cxf/weather/WeatherInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -1546,7 +1985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1554,7 +1992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1334">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1569,9 +2006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1593,9 +2027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="38" column="54" lean-forward="false" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1603,9 +2034,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1613,19 +2041,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Soap/src/com/gao/weather/WeatherInterfaceImpl.java">
+    <entry file="file://$PROJECT_DIR$/test_Soap/src/com/cxf/weather/WeatherInterfaceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1633,27 +2055,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/HelloInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/WeatherInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cxf_spring/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1661,31 +2066,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cxf_spring/tips.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cxf_spring/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/impl/HelloInterfaceImpl.java">
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/cxf/service/impl/HelloInterfaceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cxf_spring/src/com/gao/service/impl/WeatherInterfaceImpl.java">
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/cxf/service/impl/WeatherInterfaceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -1693,10 +2081,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cxf_spring/src/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/idea.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="216">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cxf_spring/src/cxf_rest_server.iml" />
+    <entry file="file://$PROJECT_DIR$/learn_frame/Web_Service_REST/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/cxf/service/HelloInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/rest/api/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/cxf/service/WeatherInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/rest/api/service/StudentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#426#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/rest/api/service/IStudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/Main_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="30" column="102" lean-forward="true" selection-start-line="30" selection-start-column="102" selection-end-line="30" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/tips.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_frame/Jersey/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Jersey/src/com/gao/rest/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#617#623#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Jersey/src/com/gao/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Jersey/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1756,11 +2266,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>test_Soap</last-edited>
+          <last-edited>test_Jersey</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.36091954" />
                 <option value="0.6" />
               </list>
             </option>
@@ -1781,11 +2291,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Spring-4.3.18.RELEASE</last-edited>
+          <last-edited>commons-beanutils-1.8.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.36091954" />
               </list>
             </option>
           </splitter-proportions>

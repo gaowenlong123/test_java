@@ -18,11 +18,11 @@ http://www.springframework.org/schema/beans http://www.springframework.org/schem
 
    -->
     <!--创建一个地址对象-->
-    <bean id="address" class="com.gao.model.Address">
+    <bean id="address" class="com.cxf.model.Address">
         <property name="name" value="天河"></property>
     </bean>
 
-    <bean id="customer" class="com.gao.model.Customer">
+    <bean id="customer" class="com.cxf.model.Customer">
                                            <!-- 大写 -->
         <property name="name" value="#{'gao'.toUpperCase()}"></property>
         <!-- Math.PI 调用静态方法-->

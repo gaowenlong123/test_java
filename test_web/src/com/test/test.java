@@ -1,7 +1,7 @@
 package com.test;
 
-import com.gao.model.User;
-import com.gao.utils.C3P0Utils;
+import com.cxf.model.User;
+import com.cxf.utils.C3P0Utils;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

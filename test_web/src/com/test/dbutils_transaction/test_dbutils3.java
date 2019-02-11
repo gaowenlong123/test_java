@@ -13,8 +13,8 @@ import org.apache.commons.dbutils.handlers.MapListHandler;
 import org.apache.commons.dbutils.handlers.ScalarHandler;
 import org.junit.Test;
 
-import com.gao.model.myAccount;
-import com.gao.utils.C3P0Utils;
+import com.cxf.model.myAccount;
+import com.cxf.utils.C3P0Utils;
 
 //测试 ResultSetHandler 的子类
 

@@ -14,7 +14,7 @@
     <context:annotation-config/>
 
     <!-- 注解的位置    ，指定包名就会扫描你的注解 -->
-    <context:component-scan base-package="com.gao"/>
+    <context:component-scan base-package="com.cxf"/>
 
 
     <!--2-->

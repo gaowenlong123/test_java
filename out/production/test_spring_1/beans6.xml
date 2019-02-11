@@ -6,7 +6,7 @@ http://www.springframework.org/schema/beans http://www.springframework.org/schem
 
 
 
-    <bean id="programmer" class="com.gao.model.Programmer">
+    <bean id="programmer" class="com.cxf.model.Programmer">
         <property name="cars">
             <!--1. list数据注入-->
             <list>

@@ -1,6 +1,6 @@
 package com.test.dbutils_transaction;
 
-import com.gao.utils.C3P0Utils;
+import com.cxf.utils.C3P0Utils;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.ArrayHandler;
 import org.apache.commons.dbutils.handlers.ArrayListHandler;

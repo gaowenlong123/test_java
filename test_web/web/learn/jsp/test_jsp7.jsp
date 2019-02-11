@@ -1,9 +1,9 @@
-<%@ page import="com.gao.model.account" %>
+<%@ page import="com.cxf.model.account" %>
 <%@ page import="java.util.List" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page import="java.util.HashMap" %>
 <%@ page import="java.util.Map" %>
-<%@ page import="com.gao.model.Address" %>
+<%@ page import="com.cxf.model.Address" %>
 <%--
   Created by IntelliJ IDEA.
   account: Administrator

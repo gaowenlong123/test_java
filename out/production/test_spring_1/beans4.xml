@@ -35,6 +35,6 @@ http://www.springframework.org/schema/beans http://www.springframework.org/schem
 
 
     <!--3.通过p命名空间注入   ， 需要定义一个P标签 -->
-    <bean id="stu" class="com.gao.model.Student"
+    <bean id="stu" class="com.cxf.model.Student"
           p:username="gyf" p:password="123" p:age="32"></bean>
 </beans>

@@ -13,12 +13,12 @@
                            http://www.springframework.org/schema/aop/spring-aop.xsd">
 
     <!--  配置UserService-->
-    <bean id="userService" class="com.gao.service.impl.UserServiceImpl"></bean>
-    <bean id="studentService" class="com.gao.service.StudentService"></bean>
+    <bean id="userService" class="com.cxf.service.impl.UserServiceImpl"></bean>
+    <bean id="studentService" class="com.cxf.service.StudentService"></bean>
 
 
     <!--  配置切面类对象-->
-    <bean id="myAspect" class="com.gao.aspect.MyAspect1"></bean>
+    <bean id="myAspect" class="com.cxf.aspect.MyAspect1"></bean>
 
 
     <!-- 全自动AOP配置
@@ -37,7 +37,7 @@
 
              AOP:用于事务配置&日志记录
          -->
-        <aop:pointcut id="myPointcut" expression="execution(* com.gao.service.*.*(..))"/>
+        <aop:pointcut id="myPointcut" expression="execution(* com.cxf.service.*.*(..))"/>
 
         <!-- 通知 关联 切入点-->
         <aop:advisor advice-ref="myAspect" pointcut-ref="myPointcut"></aop:advisor>
