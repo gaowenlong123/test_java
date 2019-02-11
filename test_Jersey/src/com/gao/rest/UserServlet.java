@@ -10,10 +10,15 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+//这个框架下 ，不建议直接访问service层 ， 用servlet ，但是跟tomcat servlet有区别 ，不需要继承
+
+
 @WebService//写与不写都没关系
 @Path("/user")
 public class UserServlet{
     ObjectMapper mapper = new ObjectMapper();
+
+
 
     //获取所有的用户
     //List<Student> {"student":[{"username","gyf"},{"username","gyf2"}]}
@@ -22,21 +27,24 @@ public class UserServlet{
     @Produces(MediaType.APPLICATION_JSON)
     public String list()throws Exception{
         List<User> list = new ArrayList<User>();
-        list.add(new User(1,"gyf","123"));
+        list.add(new User(1,"gao","123"));
         list.add(new User(2,"cdd","123"));
         list.add(new User(3,"lkq","123"));
-        //现在自己转json，不由jax-rs帮我转json
+        //现在自己转json，自己控制json格式，不需要jax-rs帮我转json
         return mapper.writeValueAsString(list);
     }
+
 
     //通过id查询用户
     @GET
     @Path("/{id}")
-    @Produces(MediaType.APPLICATION_JSON)
+    @Produces(MediaType.APPLICATION_JSON)    //响应数据是json
+                          //后面的参数会传到url上
     public String userById(@PathParam("id") int id)throws Exception{
         User user = new User(id,"ggg","123");//->service-dao
         return mapper.writeValueAsString(user);
     }
+
 
     @POST
     @Path("/add/{json}")
