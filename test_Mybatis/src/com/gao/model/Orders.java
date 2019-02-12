@@ -1,7 +1,5 @@
 package com.gao.model;
 
-import com.gao.model.test1.User;
-
 import java.util.Date;
 import java.util.List;
 
@@ -12,9 +10,10 @@ public class Orders {
     private String number;
     private Date createtime;//写意的创建时间
 
-    private User user;//定单所属的用户
+    private User user;//定单所属的用户  模型里面套模型
 
-    /* 一对多数据封装*/
+
+    /* 一对多数据封装  因为会一对多 直接拿数组来接收 */
     private List<OrderDetail> orderDetails;
 
     public List<OrderDetail> getOrderDetails() {
@@ -25,6 +24,7 @@ public class Orders {
         this.orderDetails = orderDetails;
     }
 
+    //输入用户模型
     public User getUser() {
         return user;
     }

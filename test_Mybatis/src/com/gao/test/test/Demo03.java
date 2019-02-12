@@ -2,7 +2,7 @@ package com.gao.test.test;
 
 import com.gao.OneDay.dao.UserDao;
 import com.gao.OneDay.dao.UserDaoImpl;
-import com.gao.model.test1.User;
+import com.gao.model.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;

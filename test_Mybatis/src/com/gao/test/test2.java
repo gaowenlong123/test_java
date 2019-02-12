@@ -2,7 +2,7 @@ package com.gao.test;
 
 import com.gao.mapper.test1.UserMapper;
 import com.gao.model.test1.Order;
-import com.gao.model.test1.User;
+import com.gao.model.User;
 import com.gao.OneDay.vo.UserQueryVO1;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;

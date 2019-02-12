@@ -2,7 +2,7 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.gao.mapper.test.UserMapper">
+<mapper namespace="com.gao.mapper.test1.UserMapper">
 
     <!--<insert id="save" parameterTycom.gao.model.test1.UserUser">      下面使用别名 -->
    <insert id="save" parameterType="user">

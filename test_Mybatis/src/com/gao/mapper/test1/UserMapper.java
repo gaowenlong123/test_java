@@ -1,6 +1,6 @@
 package com.gao.mapper.test1;
 
-import com.gao.model.test1.User;
+import com.gao.model.User;
 import com.gao.OneDay.vo.UserQueryVO1;
 
 import java.util.List;

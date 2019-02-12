@@ -1,6 +1,6 @@
 package com.gao.OneDay.dao;
 
-import com.gao.model.test1.User;
+import com.gao.model.User;
 
 public interface UserDao {
 

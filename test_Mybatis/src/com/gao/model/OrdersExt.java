@@ -2,6 +2,7 @@ package com.gao.model;
 
 import java.util.Date;
 
+// 订单的扩展类 为了 实现多表查询 ，返回的数据 需要model来接收
 public class OrdersExt extends Orders{
 
     private String username;

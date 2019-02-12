@@ -2,8 +2,9 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.gyf.mapper.OrderMapper">
+<mapper namespace="com.gao.mapper.OrderMapper">
 
+    <!-- 返回 订单的扩展类 -->
     <select id="findOrderById" parameterType="int" resultType="ordersExt">
         SELECT
             o.*,u.username,u.address
@@ -14,7 +15,9 @@
             AND o.id = #{id}
     </select>
 
-    <!-- =============== 一对一 =================-->
+
+
+    <!-- ===============   一对一   =================-->
     <!--如果模型里有模型，使用resultMap-->
     <resultMap id="orderRslMap" type="orders">
         <!-- 往orders的模型匹配数据-->
@@ -25,6 +28,7 @@
 
         <!-- 往orders的user匹配数据
          模型里有模型，使用association来配置-->
+                         <!--这里的user是一个属性-->
         <association property="user" javaType="user">
             <id column="user_id" property="id"></id>
             <id column="username" property="username"></id>
@@ -44,7 +48,7 @@
 
 
 
-    <!--  ================一对多==================-->
+    <!--  ================   一对多   ==================-->
     <resultMap id="orderRslMap3" type="orders">
         <!-- 往orders的模型匹配数据-->
         <id column="id" property="id"></id>
@@ -61,6 +65,7 @@
         </association>
         
         <!-- 一对多匹配： 往orders的orderdetails 匹配数据
+        collection 指定这是一个集合
         注意：集合里类型使用ofType,而不javaType
         -->
         <collection property="orderDetails" ofType="orderDetail">
@@ -72,11 +77,12 @@
 
 
     <select id="findOrderById3" parameterType="int" resultMap="orderRslMap3">
+--    根据订单ID 查找 订单信息 ， 用户信息 和 订单  明细信息
        SELECT
             o.*,
             u.username,
             u.address,
-            od.id detail_id,
+          od.id detail_id,
           od.items_id,
           od.items_num
         FROM
@@ -91,15 +97,15 @@
 
 
 
-    <!--  ============= 懒加载 ==================-->
+    <!--  ============= 懒加载    调用已经存在的查询方法  ，并且还有去设置启用懒加载 ==================-->
     <resultMap id="orderLazyloadingRslMap" type="orders">
         <id column="id" property="id"/>
         <result column="note" property="note"/>
         <result column="number" property="number"/>
         <result column="createtime" property="createtime"/>
 
-        <!--配置查询-->
-        <association property="user" select="com.gyf.mapper.UserMapper.findUserById" column="user_id"/>
+        <!--配置查询                      执行一个select语句                                    传一个上面执行的结果-->
+        <association property="user" select="com.gao.mapper.UserMapper.findUserById" column="user_id"/>
     </resultMap>
     <select id="findOrderAndUserByLazyloading" resultMap="orderLazyloadingRslMap">
         SELECT * FROM orders

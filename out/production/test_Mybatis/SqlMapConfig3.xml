@@ -26,8 +26,8 @@
             <!-- 配置数据源，采用dbcp连接池 -->
             <dataSource type="POOLED">
                 <property name="driver" value="${driverClass}"/>
-                <property name="url" value="${url}"/>
-                <property name="username" value="${name}"/>
+                <property name="url" value="${jdbcUrl}"/>
+                <property name="username" value="${user}"/>
                 <property name="password" value="${password}"/>
             </dataSource>
         </environment>

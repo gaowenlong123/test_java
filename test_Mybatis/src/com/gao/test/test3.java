@@ -2,10 +2,11 @@ package com.gao.test;
 
 import com.gao.mapper.OrderMapper;
 import com.gao.mapper.UserMapper;
+import com.gao.model.OrderDetail;
 import com.gao.model.Orders;
 import com.gao.model.OrdersExt;
-import com.gao.model.test1.User;
-import com.gao.OneDay.vo.UserQueryVO1;
+import com.gao.model.User;
+import com.gao.vo.UserQueryVO;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
@@ -45,7 +46,7 @@ public class test3 {
 
 
         //通过模型的包装类来查询
-        UserQueryVO1 query = new UserQueryVO1();
+        UserQueryVO query = new UserQueryVO();
 
         User user = new User();
         user.setSex("2");//男性
@@ -57,7 +58,10 @@ public class test3 {
     }
 
     /**
-     * 结果类型resultMap
+     * 结果类型resultMap   先设置别名与实际字段的映射关系
+     * /* 这里使用别名是为了模拟 数据库与 程序运行环境中字段值不一致的情况 ，
+     * 可以在上头设置映射，那么程序就可以识别了
+     *
      * @throws IOException
      */
     @Test
@@ -72,7 +76,7 @@ public class test3 {
 
 
     /**
-     * if和where讲解
+     * 动态SQL 可以写if和where
      * @throws IOException
      */
     @Test
@@ -81,7 +85,7 @@ public class test3 {
         UserMapper userMapper =  session.getMapper(UserMapper.class);
 
         //查询条件
-        UserQueryVO1 query = new UserQueryVO1();
+        UserQueryVO query = new UserQueryVO();
 
         User user = new User();
         user.setSex("1");//男性
@@ -94,25 +98,27 @@ public class test3 {
 
 
     /**
-     * if和where讲解
+     * if和where讲解  查询多个ID 用对象的属性是数组来做
      * @throws IOException
      */
-/*    @Test
+    @Test
     public void test4() throws IOException {
 
         UserMapper userMapper =  session.getMapper(UserMapper.class);
 
         //查询条件
-        UserQueryVO1 query = new UserQueryVO1();
+        UserQueryVO query = new UserQueryVO();
         List<Integer> ids = new ArrayList<Integer>();
         ids.add(1);
         ids.add(10);
         ids.add(16);
         query.setIds(ids);
-
+        System.out.println(ids);
         List<User> users = userMapper.findUserByIds(query);
         System.out.println(users);
-    }*/
+    }
+
+
     @Test
     public void test5() throws IOException {
 
@@ -142,6 +148,8 @@ public class test3 {
 
         System.out.println(ordersExt);
     }
+
+
     /**
      * 一对一 : 模型里有模型
      * @throws IOException
@@ -171,10 +179,10 @@ public class test3 {
     }
 
     /**
-     * 多对多
+     * 多对多   “王五下了  两个订单 每个订单都有两个商品” 但是用户是有多个
      * @throws IOException
      */
-   /* @Test
+    @Test
     public void test9() throws IOException {
 
         UserMapper  mapper =  session.getMapper(UserMapper.class);
@@ -194,7 +202,8 @@ public class test3 {
 
         }
     }
-*/
+
+
     /**
      * 懒加载
      * @throws IOException

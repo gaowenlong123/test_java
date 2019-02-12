@@ -1,6 +1,6 @@
 package com.gao.test.test;
 
-import com.gao.model.test1.User;
+import com.gao.model.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;

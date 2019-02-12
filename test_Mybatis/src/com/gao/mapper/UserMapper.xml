@@ -2,9 +2,9 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.gyf.mapper.UserMapper">
+<mapper namespace="com.gao.mapper.UserMapper">
 
-    <!-- ===================第一天内容=======================-->
+
    <insert id="save" parameterType="user">
       INSERT INTO user (username,sex,birthday,address)
         VALUE (#{username},#{sex},#{birthday},#{address})
@@ -26,7 +26,9 @@
     </select>
 
 
-    <!-- ==================第二天内容======================-->
+
+
+
 
     <!--1 设置返回数据为基本类型,int,double,long,string....-->
     <!-- 查询用户的个数 -->
@@ -34,7 +36,9 @@
         SELECT COUNT(*) FROM  user WHERE sex = #{user.sex}
     </select>
 
-    <!--2.设置返回数据为resultMap -->
+
+
+    <!--2.设置返回数据为resultMap   数据库的字段与程序运行时的字段不一致 ，所以在读库的时候先设置别名 -->
     <resultMap id="userResultMap" type="user">
         <id property="id" column="id_"></id>
         <result property="username" column="username_"></result>
@@ -53,10 +57,14 @@
     </select>
 
 
-    <!-- 3.if和where的使用-->
+
+
+    <!-- 3.if和where的使用   动态拼接where后面的条件语句 -->
+
+    <!--sql片段  ， 可以把这个写外面，在where中引用-->
     <sql id="select_user_where">
         <if test="user != null">
-            <if test="user.sex != null and user.sex != ''">
+            <if test="user.sex != null and user.sex != ''">    /*不仅为空还要为空字符串*/
                 sex = #{user.sex}
             </if>
             <if test="user.username != null and user.username != ''">
@@ -73,12 +81,15 @@
 
         <where>
             <include refid="select_user_where"/>
+            /*也可以直接放在这里*/
         </where>
     </select>
 
+
+
     <!-- 4.foreac使用讲解-->
     <select id="findUserByIds" parameterType="userQueryVO" resultType="user">
-        <!--性别和名字 SELECT * FROM user WHERE id in (1,2,3) -->
+        <!--性别和名字    SELECT * FROM user WHERE id in (1,2,3)   -->
        SELECT * FROM user
        <where>
            <if test="ids != null and ids.size > 0">
@@ -89,9 +100,9 @@
                close：遍历结束
                separator:拼接格式
                for(Integer id : ids){
-               }
-               -->
-                <foreach collection="ids" item="id" open="id in(" close=")" separator=",">
+               }-->
+--                               还是拼接where后的条件 WHERE id in (  1,2,3   )
+               <foreach collection="ids" item="id" open="id in(" close=")" separator=",">
                     ${id}
                 </foreach>
             </if>
@@ -100,7 +111,7 @@
 
 
     <!-- 5.参数是数组
-        如果参数是数组的话，parameterType可以写全名【java.util.List】，也可以写别名
+        如果参数是数组的话，parameterType可以写全名【java.util.List】，也可以写别名，这些别名是默认的
         遍历或者判断的时候，都用list变量
     -->
     <select id="findUserByIds2" parameterType="list" resultType="user">
@@ -117,7 +128,11 @@
 
 
 
+
+
     <!-- ==============查询用户信息及用户购买的商品信息============-->
+    <!-- 给User一个order模型 （list）， order模型里有订单详情模型（list） ，订单详情里 有 商品模型 （单个）  -->
+
     <resultMap id="userRslMap" type="user">
         <!-- 1.匹配user属性 -->
         <id column="id" property="id"></id>
@@ -144,6 +159,7 @@
                     <result column="price" property="price"/>
                     <result column="detail" property="detail"/>
                 </association>
+
             </collection>
         </collection>
     </resultMap>
@@ -167,7 +183,7 @@
             user u,
             orders o,
             orderdetail od,
-          items it
+            items it
         WHERE
             o.user_id = u.id
           AND o.id = od.orders_id

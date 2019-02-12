@@ -1,7 +1,7 @@
 package com.gao.mapper;
 
-import com.gao.model.test1.User;
-import com.gao.OneDay.vo.UserQueryVO1;
+import com.gao.model.User;
+import com.gao.vo.UserQueryVO;
 
 import java.util.List;
 import java.util.Map;
@@ -19,36 +19,39 @@ public interface UserMapper {
     //@Select("SELECT * FROM user WHERE id = #{id}")
     public User findUserById(int id);
 
-    public List<User> findUserByUserQueryVo(UserQueryVO1 vo);
+    public List<User> findUserByUserQueryVo(UserQueryVO vo);
 
 
     public List<User> findUserByMap(Map<String, Object> map);
 
 
     /**
-     * 返回用户的个数
+     * 返回用户的个数    返回值是一个普通类型
      * @param vo
      * @return
      */
-    public int findUserCount(UserQueryVO1 vo);
+    public int findUserCount(UserQueryVO vo);
 
 
+    // 返回值是一个resultmap
     public User findUserByIdResultMap(int userId);
+
+
 
     /**
      * 讲解mybatis的if和where使用
      * @return
      */
-    public List<User> findUserList(UserQueryVO1 vo);
+    public List<User> findUserList(UserQueryVO vo);
 
-    /*查找多个id的用户数据*/
-    public List<User> findUserByIds(UserQueryVO1 vo);
+    /*查找多个id的用户数据  ids */
+    public List<User> findUserByIds(UserQueryVO vo);
 
     public List<User> findUserByIds2(List<Integer> ids);
 
 
     /**
-     * 查询用户信息及用户购买的商品信息
+     * 查询用户信息及用户购买的商品信息  多对多
      */
     public List<User> findUserAndOrderInfo();
     public User findUserAndOrderInfo(int userId);

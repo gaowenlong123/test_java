@@ -1,7 +1,7 @@
 package com.gao.vo;
 
 import com.gao.model.Orders;
-import com.gao.model.test1.User;
+import com.gao.model.User;
 
 import java.util.List;
 
