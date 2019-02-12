@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/test_Jersey/test_Jersey.iml" filepath="$PROJECT_DIR$/test_Jersey/test_Jersey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_Mybatis/test_Mybatis.iml" filepath="$PROJECT_DIR$/test_Mybatis/test_Mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_Soap/test_Soap.iml" filepath="$PROJECT_DIR$/test_Soap/test_Soap.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_cxf_Spring_Rest/test_cxf_Spring_Rest.iml" filepath="$PROJECT_DIR$/test_cxf_Spring_Rest/test_cxf_Spring_Rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_java.iml" filepath="$PROJECT_DIR$/test_java.iml" />

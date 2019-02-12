@@ -7,8 +7,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a3ba4e-dd78-4b12-90dc-e860a7f18294" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_Jersey/src/com/gao/rest/UserServlet.java" afterPath="$PROJECT_DIR$/test_Jersey/src/com/gao/rest/UserServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/test_Jersey/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/ant-1.9.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/ant-launcher-1.9.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/asm-5.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/cglib-3.2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/javassist-3.22.0-GA.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/log4j-1.2.17.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/log4j-api-2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/log4j-core-2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/mybatis-3.4.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/mysql-connector-java-5.1.37-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/ognl-3.1.16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/slf4j-api-1.7.25.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/slf4j-log4j12-1.7.25.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ant_1_9_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_frame/Mybatis/test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/SqlMapConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/SqlMapConfig2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/dao/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/dao/UserDaoImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/tips.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/model/Order.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/model/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/sqlmap/User.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test/Demo01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test/Demo02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test/Demo03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/vo/UserQueryVO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/test_Mybatis.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring01/target/" />
@@ -36,44 +71,118 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_frame/Jersey/test.java">
+      <file leaf-file-name="Demo03.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test/Demo03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServlet.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_Jersey/src/com/gao/rest/UserServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="21" />
+            <state relative-caret-position="621">
+              <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#686#692#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_Jersey/src/com/gao/model/User.java">
+      <file leaf-file-name="SqlMapConfig.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/SqlMapConfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="189">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_Jersey/web/WEB-INF/web.xml">
+      <file leaf-file-name="SqlMapConfig2.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/SqlMapConfig2.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="351">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="65" column="69" lean-forward="false" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
+              <folding>
+                <element signature="e#1792#1807#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test/Demo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="74" lean-forward="false" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
+              <folding>
+                <marker date="1549949591460" expanded="true" signature="339:445" ph="INSERT INTO user... " />
+                <marker date="1549949591460" expanded="true" signature="537:572" ph="SELECT * FRO... user" />
+                <marker date="1549949591460" expanded="true" signature="703:749" ph="SELECT u.* F... user" />
+                <marker date="1549949591460" expanded="true" signature="869:944" ph="SELECT u.* F... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tips.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/tips.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -118,31 +227,9 @@
       <projects_view />
     </option>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="dummy://restClient/response71.html" root0="SKIP_INSPECTION" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test6.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/service/IAccountService.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/impl/UserJdbcDaoImpl.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/IAccountDao.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/service/factory/UserSereviceFactory2.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/dao/impl/AccountDaoImpl.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/beans15.xml" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/AccountServiceImpl.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/beans16.xml" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/AccountServiceImpl2.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/beans17.xml" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/test/test7.java" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/beans18.xml" />
-        <option value="$PROJECT_DIR$/test_spring_1/src/com/gao/service/impl/AccountServiceImpl3.java" />
-        <option value="$PROJECT_DIR$/learn_Web/Web_Service/test.java" />
-        <option value="$PROJECT_DIR$/test_Soap/tips.txt" />
-        <option value="$PROJECT_DIR$/test_Soap/src/client/com/gao/weather/ObjectFactory.java" />
-        <option value="$PROJECT_DIR$/test_Soap/src/client/ObjectFactory.java" />
         <option value="$PROJECT_DIR$/test_Soap/src/client/generate/QueryWeatherResponse.java" />
         <option value="$PROJECT_DIR$/test_Soap/src/client/test.java" />
         <option value="$PROJECT_DIR$/test_Soap/src/Main.java" />
@@ -175,6 +262,25 @@
         <option value="$PROJECT_DIR$/learn_frame/Jersey/test.java" />
         <option value="$PROJECT_DIR$/test_Jersey/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/test_Jersey/src/com/gao/rest/UserServlet.java" />
+        <option value="$PROJECT_DIR$/test_Jersey/tips.txt" />
+        <option value="$PROJECT_DIR$/learn_frame/Mybatis/test.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/vo/UserQueryVO.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/db.properties" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/log4j.properties" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/Demo01.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/Demo02.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/sqlmap/User.xml" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/dao/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/Demo03.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/Demo04.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/tips.txt" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test/Demo03.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test2.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test1.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/src/SqlMapConfig2.xml" />
       </list>
     </option>
   </component>
@@ -241,6 +347,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -273,7 +382,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test_Jersey" />
+              <option name="myItemId" value="test_Mybatis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,33 +396,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test_Jersey" />
+              <option name="myItemId" value="test_Mybatis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_Jersey" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,7 +414,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test_Jersey" />
+              <option name="myItemId" value="test_Mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_Mybatis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -343,7 +456,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rest" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -357,7 +470,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test_Jersey" />
+              <option name="myItemId" value="test_Mybatis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -373,15 +486,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
+              <option name="myItemId" value="mapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_Mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -398,21 +538,6 @@
     <property name="SearchEverywhereHistoryKey" value="database&#9;ACTION&#9;ActivateDatabaseToolWindow" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-      <recent name="Learning_Basic_Knowledge" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JavaProjects\test_java\test_Jersey\web\WEB-INF" />
-      <recent name="D:\JavaProjects\test_java\test_Jersey" />
-      <recent name="D:\JavaProjects\test_java\test_cxf_spring\src" />
-      <recent name="D:\JavaProjects\test_java\test_cxf_spring\src\com\rest" />
-      <recent name="D:\JavaProjects\test_java\test_cxf_spring\web\WEB-INF" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.gao.service.impl" />
-      <recent name="com.gao.dao" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JavaProjects\test_java\test_Jersey\src" />
       <recent name="D:\JavaProjects\test_java\test_cxf_Spring_Rest" />
@@ -420,10 +545,34 @@
       <recent name="D:\JavaProjects\test_java\test_cxf_Spring_Rest\src" />
       <recent name="D:\JavaProjects\test_java\test_Soap" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="Learning_Basic_Knowledge" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gao.service.impl" />
+      <recent name="com.gao.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\test_java\test_Mybatis\src" />
+      <recent name="D:\JavaProjects\test_java\test_Mybatis\lib" />
+      <recent name="D:\JavaProjects\test_java\test_Jersey\web\WEB-INF" />
+      <recent name="D:\JavaProjects\test_java\test_Jersey" />
+      <recent name="D:\JavaProjects\test_java\test_cxf_spring\src" />
+    </key>
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/user/add/json" />
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;:&quot;gao&quot;,&quot;password&quot;:&quot;123&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:8080" />
@@ -639,20 +788,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.37">
-    <configuration default="false" name="test7.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.test1.test1">
+    <configuration default="false" name="Demo02.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cxf.test.*" />
+          <option name="PATTERN" value="com.gao.test.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="test_spring_1" />
+      <module name="test_Mybatis" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.cxf.test" />
-      <option name="MAIN_CLASS_NAME" value="com.cxf.test.test7" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="PACKAGE_NAME" value="com.gao.test.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gao.test.test.Demo02" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -666,18 +815,18 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="test7.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Demo02.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cxf.test.*" />
+          <option name="PATTERN" value="com.gao.test.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="test_spring_1" />
+      <module name="test_Mybatis" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.cxf.test" />
-      <option name="MAIN_CLASS_NAME" value="com.cxf.test.test7" />
+      <option name="PACKAGE_NAME" value="com.gao.test.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gao.test.test.Demo02" />
       <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -692,33 +841,44 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="test_Soap" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Demo02.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="com.gao.test.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="test_Soap" />
+      <module name="test_Mybatis" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.gao.test.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gao.test.test.Demo02" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Demo03.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.gao.test.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="test_Mybatis" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gao.test.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gao.test.test.Demo03" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -733,19 +893,30 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="Main_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Main_test" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <configuration default="false" name="test1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.gao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="test_Mybatis" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="com.gao.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gao.test.test1" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="test_cxf_Spring_Rest" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -1277,19 +1448,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat8" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.5.37" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.test7.test3" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.test7.test4" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.test.test1" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Main_test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Demo02.test2" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Demo02.test4" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Demo02.test5" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.Demo03.test1" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.test1.test1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main_test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.test.test1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.test7.test4" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.test7.test3" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.test1.test1" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Demo03.test1" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Demo02.test5" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Demo02.test2" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Demo02.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -1354,44 +1525,45 @@
       <workItem from="1549855419598" duration="6473000" />
       <workItem from="1549874718617" duration="6352000" />
       <workItem from="1549881131131" duration="8934000" />
-      <workItem from="1549890205682" duration="3482000" />
+      <workItem from="1549890205682" duration="3697000" />
+      <workItem from="1549938617994" duration="10075000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test7_test2 - 2019.02.11 at 12h 31m 04s.xml">
-      <configuration name="test7.test2" configurationId="JUnit" />
+    <history-entry file="Demo02_test2 - 2019.02.12 at 12h 05m 30s.xml">
+      <configuration name="Demo02.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test7_test3 - 2019.02.11 at 12h 54m 34s.xml">
-      <configuration name="test7.test3" configurationId="JUnit" />
+    <history-entry file="Demo02_test2 - 2019.02.12 at 12h 05m 55s.xml">
+      <configuration name="Demo02.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test7_test3 - 2019.02.11 at 12h 54m 54s.xml">
-      <configuration name="test7.test3" configurationId="JUnit" />
+    <history-entry file="Demo02_test5 - 2019.02.12 at 12h 11m 31s.xml">
+      <configuration name="Demo02.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test7_test3 - 2019.02.11 at 12h 56m 26s.xml">
-      <configuration name="test7.test3" configurationId="JUnit" />
+    <history-entry file="Demo02_test5 - 2019.02.12 at 12h 13m 25s.xml">
+      <configuration name="Demo02.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test7_test3 - 2019.02.11 at 12h 57m 14s.xml">
-      <configuration name="test7.test3" configurationId="JUnit" />
+    <history-entry file="Demo03_test1 - 2019.02.12 at 12h 40m 17s.xml">
+      <configuration name="Demo03.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test7_test4 - 2019.02.11 at 13h 06m 35s.xml">
-      <configuration name="test7.test4" configurationId="JUnit" />
+    <history-entry file="test1_test1 - 2019.02.12 at 13h 06m 26s.xml">
+      <configuration name="test1.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test7_test4 - 2019.02.11 at 13h 07m 25s.xml">
-      <configuration name="test7.test4" configurationId="JUnit" />
+    <history-entry file="test1_test1 - 2019.02.12 at 13h 07m 04s.xml">
+      <configuration name="test1.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test7_test4 - 2019.02.11 at 13h 07m 49s.xml">
-      <configuration name="test7.test4" configurationId="JUnit" />
+    <history-entry file="test1_test1 - 2019.02.12 at 13h 33m 13s.xml">
+      <configuration name="test1.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test_test1 - 2019.02.11 at 18h 13m 34s.xml">
-      <configuration name="test.test1" configurationId="JUnit" />
+    <history-entry file="test1_test1 - 2019.02.12 at 13h 33m 30s.xml">
+      <configuration name="test1.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test_test1 - 2019.02.11 at 18h 30m 26s.xml">
-      <configuration name="test.test1" configurationId="JUnit" />
+    <history-entry file="test1_test1 - 2019.02.12 at 13h 34m 11s.xml">
+      <configuration name="test1.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="335811000" />
+    <option name="totallyTimeSpent" value="346101000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1408,7 +1580,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65006727" sideWeight="0.52578795" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5585464" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1424,15 +1596,13 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.58681023" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57604307" sideWeight="0.47421202" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5706595" sideWeight="0.47421202" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25572005" sideWeight="0.47579426" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29083094" sideWeight="0.88739496" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28151864" sideWeight="0.111666664" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60565275" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09690444" sideWeight="0.47579426" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23710601" sideWeight="0.8791367" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23710601" sideWeight="0.12086331" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23710601" sideWeight="0.5078652" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1440,6 +1610,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58681023" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60565275" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1486,143 +1658,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/dao/impl/UserJdbcDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/factory/UserSereviceFactory1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/factory/UserSereviceFactory2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/IAccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/dao/IAccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/beans14.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/test/test6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/dao/impl/AccountDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/impl/AccountServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="29" column="91" lean-forward="false" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/beans15.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="47" column="76" lean-forward="false" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java_Utils/spring/springjars/spring-aop-4.3.18.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/beans16.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="67" column="35" lean-forward="false" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/impl/AccountServiceImpl2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/beans17.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="55" column="90" lean-forward="false" selection-start-line="55" selection-start-column="90" selection-end-line="55" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/beans18.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/test/test7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1458">
-          <caret line="57" column="90" lean-forward="false" selection-start-line="57" selection-start-column="76" selection-end-line="57" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_spring_1/src/com/cxf/service/impl/AccountServiceImpl3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_Soap/src/com/gao/weather/IWeather.java" />
-    <entry file="file://$PROJECT_DIR$/test_Soap/tips.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_Soap/src/com/cxf/weather/WeatherInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_Soap/src/client/package-info.class" />
     <entry file="file://$PROJECT_DIR$/test_Soap/client/generate/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -1704,7 +1739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1719,15 +1753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idea.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1736,7 +1761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1744,7 +1768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1752,7 +1775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1760,7 +1782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1768,10 +1789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#426#435#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1779,9 +1796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="617">
           <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1789,9 +1803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-282">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1815,7 +1826,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Jersey/tips.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Jersey/src/com/gao/rest/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1823,7 +1847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1831,26 +1854,207 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_Jersey/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="540">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Jersey/src/com/gao/rest/UserServlet.java">
+    <entry file="file://$PROJECT_DIR$/idea.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="21" />
+        <state relative-caret-position="65">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_frame/Mybatis/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/model/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/vo/UserQueryVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#686#692#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/test_Mybatis/lib/mybatis-3.4.6.jar!/org/apache/ibatis/session/SqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/sqlmap/User.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="75" column="35" lean-forward="true" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
+          <folding>
+            <marker date="1549945012341" expanded="true" signature="433:472" ph="SELECT * FRO... user" />
+            <marker date="1549945012341" expanded="true" signature="1000:1051" ph="SELECT * FRO... user" />
+            <marker date="1549945012341" expanded="true" signature="1217:1323" ph="INSERT INTO user... " />
+            <marker date="1549945012341" expanded="true" signature="1435:1468" ph="DELETE FROM " />
+            <marker date="1549945012341" expanded="true" signature="1636:1710" ph="UPDATE user " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/dao/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/tips.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="65" column="69" lean-forward="false" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
+          <folding>
+            <element signature="e#1792#1807#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="74" lean-forward="false" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
+          <folding>
+            <marker date="1549949591460" expanded="true" signature="339:445" ph="INSERT INTO user... " />
+            <marker date="1549949591460" expanded="true" signature="537:572" ph="SELECT * FRO... user" />
+            <marker date="1549949591460" expanded="true" signature="703:749" ph="SELECT u.* F... user" />
+            <marker date="1549949591460" expanded="true" signature="869:944" ph="SELECT u.* F... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/SqlMapConfig2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
