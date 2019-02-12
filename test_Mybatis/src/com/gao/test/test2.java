@@ -1,9 +1,9 @@
 package com.gao.test;
 
-import com.gao.mapper.UserMapper;
-import com.gao.model.Order;
-import com.gao.model.User;
-import com.gao.vo.UserQueryVO;
+import com.gao.mapper.test1.UserMapper;
+import com.gao.model.test1.Order;
+import com.gao.model.test1.User;
+import com.gao.OneDay.vo.UserQueryVO1;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
@@ -45,7 +45,7 @@ public class test2 {
         UserMapper userMapper =  session.getMapper(UserMapper.class);
 
         //通过模型的包装类来查询用户
-        UserQueryVO query = new UserQueryVO();
+        UserQueryVO1 query = new UserQueryVO1();
 
         User user = new User();
         user.setId(1);

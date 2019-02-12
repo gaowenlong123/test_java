@@ -1,4 +1,4 @@
-package com.gao.model;
+package com.gao.model.test1;
 
 public class Order {
     private String number;

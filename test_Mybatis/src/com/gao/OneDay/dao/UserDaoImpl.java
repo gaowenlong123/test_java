@@ -1,6 +1,6 @@
-package com.gao.dao;
+package com.gao.OneDay.dao;
 
-import com.gao.model.User;
+import com.gao.model.test1.User;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 

@@ -6,26 +6,35 @@
 
     <properties resource="db.properties"/>
 
+    <!--配置允许懒加载-->
+    <settings>
+        <setting name="lazyLoadingEnabled" value="true"/>
+    </settings>
+
+
+    <!--配置别名-->
+    <typeAliases>
+        <package name="com.gao.model"></package>
+        <package name="com.gao.vo"></package>
+    </typeAliases>
+
     <!-- 配置mybatis的环境信息 -->
     <environments default="development">
-        <!--可以配置多个数据库 -->
         <environment id="development">
             <!-- 配置JDBC事务控制，由mybatis进行管理 -->
             <transactionManager type="JDBC"></transactionManager>
             <!-- 配置数据源，采用dbcp连接池 -->
             <dataSource type="POOLED">
                 <property name="driver" value="${driverClass}"/>
-                <property name="url" value="${jdbcUrl}"/>
-                <property name="username" value="${user}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${name}"/>
                 <property name="password" value="${password}"/>
             </dataSource>
         </environment>
     </environments>
 
-
-
     <!--告诉mybatis加载映射文件-->
     <mappers>
-        <mapper resource="com/gao/OneDay/sqlmap/User.xml"></mapper>
+        <package name="com.gao.mapper"></package>
     </mappers>
 </configuration>

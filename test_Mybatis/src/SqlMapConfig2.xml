@@ -4,16 +4,22 @@
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
 
+
+
+    <!-- 将之前学习的进行移动到 Oneday 或 test 文件夹中 -->
+
+
+
     <properties resource="db.properties"/>
 
 
     <!--配置别名  为了在映射文件中，更方便的去指定参数和结果集的类型 ，不再用写很长的一段全限定名 。在mapper配置中 -->
     <typeAliases>
-        <!--<typeAlias type="com.gao.model.User" alias="user"></typeAlias>-->
+        <typeAlias type="com.gao.model.test1.User" alias="user"></typeAlias>
 
         <!--指定包名，别名就是类名，且第一个字母要小写。 例com.gao.model.User  ==》 别名就是user-->
-        <package name="com.gao.model"></package>
-        <package name="com.gao.vo"></package>
+        <!--<package name="com.gao.model"></package>-->
+        <package name="com.gao.OneDay.vo"></package>
     </typeAliases>
 
 
@@ -46,7 +52,7 @@
         <!--<mapper class="com.gao.mapper.UserMapper"></mapper>-->
 
         <!--第三种：可以写包名-->
-        <package name="com.gao.mapper"></package>
+        <package name="com.gao.mapper/test"></package>
 
     </mappers>
 </configuration>

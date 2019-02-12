@@ -1,0 +1,1 @@
+1： 在mybatis框架中 以后就没有dao包了 ，mapper 就相当于dao包

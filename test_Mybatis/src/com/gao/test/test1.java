@@ -1,7 +1,7 @@
 package com.gao.test;
 
-import com.gao.mapper.UserMapper;
-import com.gao.model.User;
+import com.gao.mapper.test1.UserMapper;
+import com.gao.model.test1.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;

@@ -1,16 +1,25 @@
 package com.gao.vo;
 
-import com.gao.model.Order;
-import com.gao.model.User;
+import com.gao.model.Orders;
+import com.gao.model.test1.User;
 
-//包装类  ： 对象 模型来说 有用户表 也用订单表 。当然肯定也有用户，订单关联的表
-// SELECT u.* ，o.* FROM user u， orders o WHRER u.id =o.id AND o.number='1000010'
+import java.util.List;
 
 public class UserQueryVO {
 
     private User user;
 
-    private Order order;
+    private List<Integer> ids;
+
+    public List<Integer> getIds() {
+        return ids;
+    }
+
+    public void setIds(List<Integer> ids) {
+        this.ids = ids;
+    }
+
+    private Orders order;
     public User getUser() {
         return user;
     }
@@ -19,11 +28,11 @@ public class UserQueryVO {
         this.user = user;
     }
 
-    public Order getOrder() {
+    public Orders getOrder() {
         return order;
     }
 
-    public void setOrder(Order order) {
+    public void setOrder(Orders order) {
         this.order = order;
     }
 }

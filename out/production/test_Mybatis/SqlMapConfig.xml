@@ -26,6 +26,6 @@
 
     <!--告诉mybatis加载映射文件-->
     <mappers>
-        <mapper resource="com/gao/sqlmap/User.xml"></mapper>
+        <mapper resource="com/gao/OneDay/sqlmap/User.xml"></mapper>
     </mappers>
 </configuration>
