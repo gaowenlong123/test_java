@@ -14,9 +14,10 @@
         SELECT * FROM user WHERE id = #{id}
     </select>
 
-    <!--通过包装类查询用户-->
+
+    <!--通过包装类查询用户          userQueryVO这个对象里面有一个 user -->
     <select id="findUserByUserQueryVo" parameterType="userQueryVO" resultType="user">
-        SELECT u.* FROM user u WHERE u.id = #{user.id}
+        SELECT u.* FROM user u  WHERE u.id = #{user.id}
 
     </select>
 

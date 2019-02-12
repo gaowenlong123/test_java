@@ -42,7 +42,7 @@
         <!--<mapper resource="com/gao/mapper/UserMapper.xml"></mapper>-->
 
         <!--第二种:写类名,   一定要有个映射文件与这个接口类的名字相等
-        如果没有xml文件  ，那么在UserMapper要声明注解 ，这样不推荐 -->
+        如果没有xml文件  ，那么在UserMapper要声明注解 ，这样不推荐，通过xml配置最好  -->
         <!--<mapper class="com.gao.mapper.UserMapper"></mapper>-->
 
         <!--第三种：可以写包名-->

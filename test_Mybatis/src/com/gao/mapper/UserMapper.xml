@@ -14,15 +14,16 @@
         SELECT * FROM user WHERE id = #{id}
     </select>
 
-    <!--通过包装类查询用户-->
+
+    <!--通过包装类查询用户          userQueryVO这个对象里面有一个 user -->
     <select id="findUserByUserQueryVo" parameterType="userQueryVO" resultType="user">
-        SELECT u.* FROM user u WHERE u.id = #{user.id}
+        SELECT u.* FROM user u  WHERE u.id = #{user.id}
 
     </select>
 
-    <!--通过Map查询数据-->
+    <!--通过Map查询数据        username是数据库表里面的字段 , $#{} 是传入的值-->
     <select id="findUserByMap" parameterType="hashmap" resultType="user">
         SELECT u.* FROM user u WHERE username LIKE '%${username}%' AND sex = #{sex}
-
+--                                                     为了拼接 '%%' ,这是模糊查询的模板
     </select>
 </mapper>

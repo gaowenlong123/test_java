@@ -24,7 +24,7 @@ public class test2 {
     public void before() throws IOException {
         System.out.println("before.....获取session");
 //        a)读取配置文件；
-        InputStream is = Resources.getResourceAsStream("SqlMapConfig.xml");
+        InputStream is = Resources.getResourceAsStream("SqlMapConfig2.xml");
 
         //b)通过SqlSessionFactoryBuilder创建SqlSessionFactory会话工厂。
         SqlSessionFactory sessionFactory = new SqlSessionFactoryBuilder().build(is);
@@ -37,12 +37,12 @@ public class test2 {
         session.close();
     }
 
+
+    //包装类 来查询数据
     @Test
     public void test2() throws IOException {
 
         UserMapper userMapper =  session.getMapper(UserMapper.class);
-        //System.out.println(obj.getClass());
-
 
         //通过模型的包装类来查询用户
         UserQueryVO query = new UserQueryVO();
@@ -56,10 +56,10 @@ public class test2 {
         query.setOrder(order);
 
         List<User> list = userMapper.findUserByUserQueryVo(query);
-        System.out.println(list);
+        System.out.println("输出  "+ list);
     }
 
-
+    //map 来查询数据
     @Test
     public void test3() throws IOException {
 
@@ -72,7 +72,7 @@ public class test2 {
         map.put("sex","2");
 
         List<User> list = userMapper.findUserByMap(map);
-        System.out.println(list);
+        System.out.println("输出  " + list);
     }
 
 
