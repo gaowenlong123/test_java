@@ -1,35 +1,41 @@
 package com.gao.backoffice.model;
 
+import java.io.Serializable;
 import java.util.Arrays;
 import java.util.Date;
 
-public class User {
-    private Integer id;
+
+
+public class User  {
+ //    private Integer id;
 
     private String username;
     private String password;
     private  int age;
     private String gender;
     private Date birthday;
-    private  String[] hobbyIds;
+    private String[] hobbyIds;
 
-    public User(String username, int age, String gender, Date birthday) {
-        this.username = username;
-        this.age = age;
-        this.gender = gender;
-        this.birthday = birthday;
-    }
+//    public User() {
+//
+//    }
 
-    public Integer getId() {
-        return id;
-    }
+//    public User(String username, int age, String gender, Date birthday) {
+//        this.username = username;
+//        this.age = age;
+//        this.gender = gender;
+//        this.birthday = birthday;
+//    }
+//
 
-    public void setId(Integer id) {
-        this.id = id;
-    }
+//    public Integer getId() {
+//        return id;
+//    }
+//
+//    public void setId(Integer id) {
+//        this.id = id;
+//    }
 
-    public User() {
-    }
 
     @Override
     public String toString() {

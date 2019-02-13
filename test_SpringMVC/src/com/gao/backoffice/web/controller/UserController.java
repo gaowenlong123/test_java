@@ -1,31 +1,82 @@
 package com.gao.backoffice.web.controller;
 
 
+import com.gao.backoffice.model.User;
+import com.gao.backoffice.model.UserExt;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import java.util.Arrays;
+import java.util.Date;
 
 /**
  * Created by Administrator on 2019/2/13 0013.
  */
 
-@Controller
-@RequestMapping("/user")
+@Controller  //相当于 在spring中配置了一个<bean class="控制器路径">
+@RequestMapping("/user") //自定义根路径
 public class UserController  {
 
-    @RequestMapping("/list")
+//    @RequestMapping("/list")   磨人 get post 都可以访问
+//    @RequestMapping(value = "/list" , method = RequestMethod.GET) 只能get
+//    @RequestMapping(value = "/list" , method = RequestMethod.POST) 只能post
+    @RequestMapping("list")
     public String list(){
 
         //跳转到 views下  /user/userlist.jsp
         return "user/userlist";
     }
 
-    @RequestMapping("/save")
-    public String save(){
 
-        return "user/userlist";
+
+//    跳转到注册页面
+    @RequestMapping("toRegister")
+    public String toRegister(){
+
+        return "user/register";
     }
 
+    // 接受注册页面的表单参数
+
+
+    //第一种方式 使用参数
+    @RequestMapping(value = "/register" ,method = RequestMethod.POST)
+    public String register(String username,String password, int age ,String gender,Date birthday,
+                           String[] hobbyIds){
+
+        System.out.println(username);
+        System.out.println(password);
+        System.out.println(age);
+        System.out.println(gender);
+        System.out.println(birthday);                    //默认的日期格式 ：月/日/年   1/1/2018
+        System.out.println(Arrays.toString(hobbyIds));
+        return "user/info";
+    }
+
+
+    //第二种方式 使用模型注入
+    @RequestMapping("/register2")
+    public String register2(User model){       //自动根据参数模型注入
+        System.out.println(model);
+
+        return "user/info";   //当跳转到该页面，也可以使用上面的数据
+    }
+
+
+    // 模型里面有模型
+    @RequestMapping("/register3")
+    public String register3(UserExt model){       //自动根据参数模型注入
+        System.out.println(model);
+
+        return "user/info";   //当跳转到该页面，也可以使用上面的数据
+    }
+
+
 }
+
+
 
 
 /*   干掉 !!!!

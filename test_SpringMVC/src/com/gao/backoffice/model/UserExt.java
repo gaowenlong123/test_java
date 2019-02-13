@@ -1,12 +1,14 @@
 package com.gao.backoffice.model;
 
+import java.io.Serializable;
 import java.util.*;
 
+//pojo 类型 包装类
 public class UserExt {
 
    private User user;
 
-   private List<User> users = new ArrayList<User>();
+/*   private List<User> users = new ArrayList<User>();
 
    private Map<String,Object> infos = new HashMap<String,Object>();
 
@@ -24,7 +26,7 @@ public class UserExt {
 
     public void setUsers(List<User> users) {
         this.users = users;
-    }
+    }*/
 
     @Override
     public String toString() {
