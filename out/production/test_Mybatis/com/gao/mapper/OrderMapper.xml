@@ -97,7 +97,7 @@
 
 
 
-    <!--  ============= 懒加载    调用已经存在的查询方法 ==================-->
+    <!--  ============= 懒加载    调用已经存在的查询方法  ，并且还有去设置启用懒加载 ==================-->
     <resultMap id="orderLazyloadingRslMap" type="orders">
         <id column="id" property="id"/>
         <result column="note" property="note"/>

@@ -18,5 +18,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="mybatis-ehcache-1.0.2" level="project" />
+    <orderEntry type="library" name="ehcache-core-2.6.5" level="project" />
   </component>
 </module>

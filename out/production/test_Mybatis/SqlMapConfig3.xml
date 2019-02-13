@@ -6,9 +6,13 @@
 
     <properties resource="db.properties"/>
 
-    <!--配置允许懒加载-->
+
     <settings>
+        <!--配置允许懒加载    就是分步骤执行 -->
         <setting name="lazyLoadingEnabled" value="true"/>
+
+        <!--允许开启二级缓存-->
+        <setting name="cacheEnabled" value="true"/>
     </settings>
 
 
