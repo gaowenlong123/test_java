@@ -1,0 +1,31 @@
+1： 新建java工程 ， 将配置文件放在src下
+2： 修改配置文件
+3： 放数据库驱动 ，generator-core 的jra包
+4： 把下面的代码放在class文件中 ，并执行。就可以在本工程中生成代码
+   List<String> warnings = new ArrayList<String>();
+   boolean overwrite = true;
+   File configFile = new File("src/generator.xml");
+   ConfigurationParser cp = new ConfigurationParser(warnings);
+   Configuration config = cp.parseConfiguration(configFile);
+   DefaultShellCallback callback = new DefaultShellCallback(overwrite);
+   MyBatisGenerator myBatisGenerator = new MyBatisGenerator(config, callback, warnings);
+   myBatisGenerator.generate(null);
+
+5： 把代码copy一下，放入项目中 。 先导入model 再导入mapper  。
+
+
+6： 自动定义的Eaxmaple是用于查询的 ，通过Eaxmaple来获取查询条件 。mybatis已经整合在spring中，所以使用getBean
+
+     //1.加载spring的配置文件
+     ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+
+     //2.获取userMapper
+     UserMapper userMapper = (UserMapper) context.getBean("userMapper");
+
+
+     UserExample example = new UserExample();
+     UserExample.Criteria criteria = example.createCriteria();//获取查询条件
+     criteria.andSexEqualTo("1");//男性
+
+     List<User> users =  userMapper.selectByExample(example);
+     System.out.println(users);

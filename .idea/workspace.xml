@@ -7,21 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a3ba4e-dd78-4b12-90dc-e860a7f18294" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/ehcache-core-2.6.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/lib/mybatis-ehcache-1.0.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ehcache_core_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mybatis_ehcache_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/src/ehcache.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/generator/mybatis-generator-core-1.3.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_frame/Mybatis/test_NB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_frame/SSM/tips.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/generator/generator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Mybatis/generator/tips.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idea.txt" afterPath="$PROJECT_DIR$/idea.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_frame/Mybatis/test.java" afterPath="$PROJECT_DIR$/learn_frame/Mybatis/test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_Mybatis/SqlMapConfig3.xml" afterPath="$PROJECT_DIR$/out/production/test_Mybatis/SqlMapConfig3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_Mybatis/com/gao/mapper/OrderMapper.xml" afterPath="$PROJECT_DIR$/out/production/test_Mybatis/com/gao/mapper/OrderMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test_Mybatis/com/gao/mapper/UserMapper.xml" afterPath="$PROJECT_DIR$/out/production/test_Mybatis/com/gao/mapper/UserMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_Mybatis/src/SqlMapConfig3.xml" afterPath="$PROJECT_DIR$/test_Mybatis/src/SqlMapConfig3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.xml" afterPath="$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_Mybatis/test_Mybatis.iml" afterPath="$PROJECT_DIR$/test_Mybatis/test_Mybatis.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring01/target/" />
@@ -49,55 +40,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ehcache.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/ehcache.xml">
+      <file leaf-file-name="tips.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_frame/SSM/tips.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="202">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.xml">
+      <file leaf-file-name="test_NB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_frame/Mybatis/test_NB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-              <folding>
-                <marker date="1550028575144" expanded="true" signature="522:628" ph="INSERT INTO user... " />
-                <marker date="1550028575144" expanded="true" signature="926:961" ph="SELECT * FRO... user" />
-                <marker date="1550028575144" expanded="true" signature="1092:1138" ph="SELECT u.* F... user" />
-                <marker date="1550028575144" expanded="true" signature="1258:1333" ph="SELECT u.* F... user" />
-                <marker date="1550028575144" expanded="true" signature="1512:1562" ph="SELECT COUNT... user" />
-                <marker date="1550028575144" expanded="true" signature="2098:2259" ph="SELECT id id... user" />
-                <marker date="1550028575144" expanded="true" signature="2493:2508" ph="/*不仅为空还要为空字符... " />
-                <marker date="1550028575144" expanded="true" signature="2971:2989" ph="SELECT * FRO... user" />
-                <marker date="1550028575144" expanded="true" signature="3068:3081" ph="/*也可以直接放在这里*... " />
-                <marker date="1550028575144" expanded="true" signature="5915:6441" ph="SELECT u.id,... user" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_frame/Mybatis/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-219">
-              <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+            <state relative-caret-position="216">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test4.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test4.java">
+      <file leaf-file-name="generator.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/generator/generator.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="95" column="40" lean-forward="false" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,8 +74,30 @@
         <entry file="file://$PROJECT_DIR$/test_Mybatis/src/db.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="4" />
+              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="9" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tips.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/generator/tips.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="95" column="40" lean-forward="false" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,10 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learn_frame/Web_Service_REST/test.java" />
-        <option value="$PROJECT_DIR$/test_cxf_spring_REST/src/com/rest/api/service/IStudentService.java" />
-        <option value="$PROJECT_DIR$/test_cxf_spring_REST/src/Main.java" />
-        <option value="$PROJECT_DIR$/test_cxf_spring_REST/src/Main_test.java" />
         <option value="$PROJECT_DIR$/test_cxf_spring_REST/src/applicationContext.xml" />
         <option value="$PROJECT_DIR$/test_cxf_spring/src/Main_test.java" />
         <option value="$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/rest/api/service/IStudentService.java" />
@@ -202,9 +188,13 @@
         <option value="$PROJECT_DIR$/idea.txt" />
         <option value="$PROJECT_DIR$/test_Mybatis/src/SqlMapConfig3.xml" />
         <option value="$PROJECT_DIR$/test_Mybatis/src/ehcache.xml" />
-        <option value="$PROJECT_DIR$/learn_frame/Mybatis/test.java" />
         <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test4.java" />
+        <option value="$PROJECT_DIR$/learn_frame/Mybatis/test.java" />
+        <option value="$PROJECT_DIR$/learn_frame/SSM/tips.txt" />
+        <option value="$PROJECT_DIR$/learn_frame/Mybatis/test_NB.java" />
+        <option value="$PROJECT_DIR$/test_Mybatis/generator/generator.xml" />
+        <option value="$PROJECT_DIR$/test_Mybatis/generator/tips.txt" />
       </list>
     </option>
   </component>
@@ -397,51 +387,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mapper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learn_frame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learn_frame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mybatis" />
+              <option name="myItemId" value="generator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -469,11 +415,11 @@
       <recent name="Learning_Basic_Knowledge" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\test_java\test_Mybatis\generator" />
       <recent name="D:\JavaProjects\test_java\test_Mybatis\lib" />
       <recent name="D:\JavaProjects\test_java\test_Mybatis\src" />
       <recent name="D:\JavaProjects\test_java\test_Mybatis\src\com\gao\test" />
       <recent name="D:\JavaProjects\test_java\test_Mybatis\src\com\gao\vo" />
-      <recent name="D:\JavaProjects\test_java\test_Mybatis\src\com\gao\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.gao.service.impl" />
@@ -1454,14 +1400,11 @@
       <workItem from="1549890205682" duration="3697000" />
       <workItem from="1549938617994" duration="14418000" />
       <workItem from="1549963019191" duration="11134000" />
-      <workItem from="1550024119014" duration="4482000" />
+      <workItem from="1550024119014" duration="9993000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test4_test2 - 2019.02.13 at 10h 49m 21s.xml">
-      <configuration name="test4.test2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="test4_test2 - 2019.02.13 at 10h 53m 52s.xml">
       <configuration name="test4.test2" configurationId="JUnit" />
     </history-entry>
@@ -1489,9 +1432,12 @@
     <history-entry file="test4_test2 - 2019.02.13 at 11h 29m 37s.xml">
       <configuration name="test4.test2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="test4_test2 - 2019.02.13 at 11h 31m 01s.xml">
+      <configuration name="test4.test2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="366060000" />
+    <option name="totallyTimeSpent" value="371571000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1526,9 +1472,9 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3526245" sideWeight="0.47421202" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5074024" sideWeight="0.47421202" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7321669" sideWeight="0.47579426" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28936744" sideWeight="0.47579426" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24426934" sideWeight="0.8791367" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23710601" sideWeight="0.12086331" order="8" side_tool="true" content_ui="tabs" />
@@ -1587,34 +1533,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/rest/api/service/StudentServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/com/rest/api/service/IStudentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/Main_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-282">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/src/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="30" column="102" lean-forward="true" selection-start-line="30" selection-start-column="102" selection-end-line="30" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_cxf_Spring_Rest/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1933,48 +1851,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_frame/Mybatis/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-219">
-          <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/mapper/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding>
-            <marker date="1550028575144" expanded="true" signature="522:628" ph="INSERT INTO user... " />
-            <marker date="1550028575144" expanded="true" signature="926:961" ph="SELECT * FRO... user" />
-            <marker date="1550028575144" expanded="true" signature="1092:1138" ph="SELECT u.* F... user" />
-            <marker date="1550028575144" expanded="true" signature="1258:1333" ph="SELECT u.* F... user" />
-            <marker date="1550028575144" expanded="true" signature="1512:1562" ph="SELECT COUNT... user" />
-            <marker date="1550028575144" expanded="true" signature="2098:2259" ph="SELECT id id... user" />
-            <marker date="1550028575144" expanded="true" signature="2493:2508" ph="/*不仅为空还要为空字符... " />
-            <marker date="1550028575144" expanded="true" signature="2971:2989" ph="SELECT * FRO... user" />
-            <marker date="1550028575144" expanded="true" signature="3068:3081" ph="/*也可以直接放在这里*... " />
-            <marker date="1550028575144" expanded="true" signature="5915:6441" ph="SELECT u.id,... user" />
+            <marker date="1550028658820" expanded="true" signature="522:628" ph="INSERT INTO user... " />
+            <marker date="1550028658820" expanded="true" signature="926:961" ph="SELECT * FRO... user" />
+            <marker date="1550028658820" expanded="true" signature="1092:1138" ph="SELECT u.* F... user" />
+            <marker date="1550028658820" expanded="true" signature="1258:1333" ph="SELECT u.* F... user" />
+            <marker date="1550028658820" expanded="true" signature="1512:1562" ph="SELECT COUNT... user" />
+            <marker date="1550028658820" expanded="true" signature="2098:2259" ph="SELECT id id... user" />
+            <marker date="1550028658820" expanded="true" signature="2493:2508" ph="/*不仅为空还要为空字符... " />
+            <marker date="1550028658820" expanded="true" signature="2971:2989" ph="SELECT * FRO... user" />
+            <marker date="1550028658820" expanded="true" signature="3068:3081" ph="/*也可以直接放在这里*... " />
+            <marker date="1550028658820" expanded="true" signature="5915:6441" ph="SELECT u.id,... user" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_frame/Mybatis/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="32" column="50" lean-forward="false" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/src/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_frame/Mybatis/test_NB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/generator/generator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_Mybatis/src/com/gao/test/test4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
+        <state relative-caret-position="151">
           <caret line="95" column="40" lean-forward="false" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_frame/SSM/tips.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Mybatis/generator/tips.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,21 @@
+1:SM整合 30-31
+        1：新建工程
+        2：导入mybatis包 lin+core+mysql驱动+dbcp连接池
+        3：导入spring
+        4：导入整合包 mybatis+spring
+        5：配置mybatis的核心配置文件  全局文件.xml dao_mapper.xml
+        6：在spring的数据源里配置mysql的连接
+        7：spring配置sqlSessionFactory会话工厂
+        8：编写UserDaoImpl ，接口省略（先这样，下面再改）
+        9：spring中配置daobean
+        10：换成mapper接口整合dao
+        11：创建mapper映射文件
+        12：核心配置文件加载映射文件
+        13：spring配置MapperFactoryBean
+        14：用MapperScannerConfigurer批量扫描创建代理对象
+
+
+
+2:SSM整合
+        1：
+        2：
