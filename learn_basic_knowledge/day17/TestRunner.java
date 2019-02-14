@@ -21,7 +21,7 @@ public class TestRunner {
         for(Method m : methods){
 
             //只有以test开头的方法才是单元测试方法
-            if(m.getName().startsWith("test")){
+            if(m.getName().startsWith("human")){
 
                 //2.通过反射来获取方法上面的注解
                 MyTestAnnotaion myTest = m.getAnnotation(MyTestAnnotaion.class);

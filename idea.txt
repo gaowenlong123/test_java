@@ -1,5 +1,8 @@
 学习进度：   12    maven
-做项目   ssm_sm  ssm_ss  ssm_maven ssm_ssh
+
+问题   ：SpringMVC配置json失败
+
+做项目
 化妆品：
 衣服：
 

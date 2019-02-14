@@ -22,7 +22,13 @@
     <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping"/>
 
     <!-- 3.配置适配器-->
-    <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter"/>
+    <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">
+        <!--配置json的转化器 ， 告诉spring使用jaskon来转换json-->
+        <!--过时！！！！！！-->
+        <!--<property name="messageConverters">-->
+            <!--<bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter"/>-->
+        <!--</property>-->
+    </bean>
 
     
     <!-- 4.配置资源视图解析器-->
@@ -31,5 +37,42 @@
         <property name="prefix" value="/WEB-INF/views/"></property>
         <!--后缀-->
         <property name="suffix" value=".jsp"></property>
+    </bean>
+
+    <!--5 ： 配置多视图 ，即可以返回json 也可以返回xml-->
+    <bean class="org.springframework.web.servlet.view.ContentNegotiatingViewResolver">
+        <!--配置支持的媒体类型-->
+        <property name="contentNegotiationManager">
+            <bean class="org.springframework.web.accept.ContentNegotiationManagerFactoryBean">
+                <property name="mediaTypes">
+                    <map>
+                        <entry key="json" value="application/json"></entry>
+                        <entry key="xml" value="application/xml"></entry>
+                    </map>
+                </property>
+            </bean>
+        </property>
+
+        <!--指定默认视图-->
+        <property name="defaultViews">
+            <!--支持多个视图-->
+            <list>
+                <!--json支持-->
+                <!--<bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter"/>-->
+                <!--xml支持-->
+                <bean class="org.springframework.web.servlet.view.xml.MarshallingView">
+                    <constructor-arg>
+                        <bean class="org.springframework.oxm.jaxb.Jaxb2Marshaller">
+                            <property name="classesToBeBound">
+                                <list>
+                                    <!--哪些类转xml-->
+                                    <value>com.gao.backoffice.model.Student</value>
+                                </list>
+                            </property>
+                        </bean>
+                    </constructor-arg>
+                </bean>
+            </list>
+        </property>
     </bean>
 </beans>

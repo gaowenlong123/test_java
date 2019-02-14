@@ -7,7 +7,7 @@ import java.util.Date;
 
 
 public class User  {
- //    private Integer id;
+     private Integer id;
 
     private String username;
     private String password;
@@ -16,25 +16,25 @@ public class User  {
     private Date birthday;
     private String[] hobbyIds;
 
-//    public User() {
-//
-//    }
+    public User() {
 
-//    public User(String username, int age, String gender, Date birthday) {
-//        this.username = username;
-//        this.age = age;
-//        this.gender = gender;
-//        this.birthday = birthday;
-//    }
-//
+    }
 
-//    public Integer getId() {
-//        return id;
-//    }
-//
-//    public void setId(Integer id) {
-//        this.id = id;
-//    }
+    public User(String username, int age, String gender, Date birthday) {
+        this.username = username;
+        this.age = age;
+        this.gender = gender;
+        this.birthday = birthday;
+    }
+
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
 
 
     @Override

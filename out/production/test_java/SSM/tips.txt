@@ -1,0 +1,45 @@
+1:SM整合 30-31
+        1：新建工程
+        2：导入mybatis包 lin+core+mysql驱动+dbcp连接池
+        3：导入spring
+        4：导入整合包 mybatis+spring
+        5：配置mybatis的核心配置文件  全局文件.xml dao_mapper.xml
+        6：在spring的数据源里配置mysql的连接
+        7：spring配置sqlSessionFactory会话工厂
+        8：编写UserDaoImpl ，接口省略（先这样，下面再改）
+        9：spring中配置daobean
+        10：换成mapper接口整合dao
+        11：创建mapper映射文件
+        12：核心配置文件加载映射文件
+        13：spring配置MapperFactoryBean
+        14：用MapperScannerConfigurer批量扫描创建代理对象
+
+
+
+2:SSM整合  20-22
+        1：新建java工程
+        2：导入spring + springMVC +mybatis+ mybatis-spring整合包
+            AOP联盟 + 织入 +C3p0 + mysql驱动+ jstl
+        3: 创建一个springMVC的文件
+        4: 在web.xml添加springMVC配置
+        5: 先配置一个Controller跑出一个页面
+        6: 通过Mybatis的逆向工程生成JavaBean
+        7: 修改ItemsMapper.java 和
+        8: 定义Service层接口并实现
+        9: 配置SQlMappingConfig.xml
+        10: 创建spring的applicationContext.xml
+        11: 配置C3P0数据源和mybatis的会话工厂
+        12: Web.xml配置spring容器
+        13: 添加Bean的注解配置
+        14: ItemsService
+        15: ItemsController
+        16: 事务配置
+        17：添加一个保存方法 测试事务
+
+
+功能： 更新数据库信息 ，   文件上传和保存   ， 网页显示图片， OSCasche页面缓存
+            24          25,26 jquery.form.js        27             28，29
+
+
+       freemaker（展示数据的模板引擎类似jsp）        springMVC拦截器(拦截非登录状态回到登录页面）
+                     30                                             31,32

@@ -26,6 +26,9 @@ package Spring_MVC;
  *                  springMVC是基于方法的封装
  *
  *
+ *4 ： springMVC 多视图  : 就是可以返回json 也可以返回xml
+ *      第一步：导包   spring-oxm-4.2.0.RELEASE.jar
+ *      第二步：配置多视图    。 转json用谁 ，转xml用哪个类处理
  *
  *
  *
