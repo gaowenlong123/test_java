@@ -26,7 +26,7 @@
 </form>--%>
 
 
-<br>  <%-- 使用模型注入 --%>
+<%--<br>请输入完整数据  &lt;%&ndash; 使用模型注入 &ndash;%&gt;
 <form action="${pageContext.request.contextPath}/user/register2.do" method="post">
     用户名:<input type="text" name="username"><br>
     密码:<input type="text" name="password"><br>
@@ -37,10 +37,10 @@
     <input type="checkbox" name="hobbyIds" value="2">打人
     <input type="checkbox" name="hobbyIds" value="3">打假<br>
     <input type="submit">
-</form>
+</form>--%>
 
 
-<br>  <%-- 模型里面有模型 --%>
+<%--<br>请输入完整数据  &lt;%&ndash; 模型里面有模型 &ndash;%&gt;
 <form action="${pageContext.request.contextPath}/user/register3.do" method="post">
     用户名:<input type="text" name="user.username"><br>
     密码:<input type="text" name="user.password"><br>
@@ -51,13 +51,13 @@
     <input type="checkbox" name="user.hobbyIds" value="2">打人
     <input type="checkbox" name="user.hobbyIds" value="3">打假<br>
     <input type="submit">
-</form>
+</form>--%>
 
 
 
 <br>
 接收集合类型参数<br>
-<form action="${pageContext.request.contextPath}/user/register3.do" method="post">
+<form action="${pageContext.request.contextPath}/user/register4.do" method="post">
     用户名1:<input type="text" name="users[0].username"><br>
     密码1:<input type="text" name="users[0].password"><br>
     <hr>
@@ -69,7 +69,7 @@
 
 
 <br>表单使用Map来接收<br>
-<form action="${pageContext.request.contextPath}/user/register4.do" method="post">
+<form action="${pageContext.request.contextPath}/user/register5.do" method="post">
     用户名:<input type="text" name="infos['username']"><br>
     密码:<input type="text" name="infos['password']"><br>
     性别:<input type="text" name="infos['gender']"><br>

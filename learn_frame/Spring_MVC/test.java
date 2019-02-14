@@ -18,6 +18,11 @@ package Spring_MVC;
  *      SpringMVC 参数封装 : 基于方法进行封装 ，参数写在方法中
  *
  *
+ * 3： SpringMVC 与 Struts 的区别 ：
+ *
+ *
+ *
+ *
  *
  */
 public class test {

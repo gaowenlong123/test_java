@@ -57,7 +57,7 @@
 
 <br>
 接收集合类型参数<br>
-<form action="${pageContext.request.contextPath}/user/register3.do" method="post">
+<form action="${pageContext.request.contextPath}/user/register4.do" method="post">
     用户名1:<input type="text" name="users[0].username"><br>
     密码1:<input type="text" name="users[0].password"><br>
     <hr>
@@ -69,7 +69,7 @@
 
 
 <br>表单使用Map来接收<br>
-<form action="${pageContext.request.contextPath}/user/register4.do" method="post">
+<form action="${pageContext.request.contextPath}/user/register5.do" method="post">
     用户名:<input type="text" name="infos['username']"><br>
     密码:<input type="text" name="infos['password']"><br>
     性别:<input type="text" name="infos['gender']"><br>

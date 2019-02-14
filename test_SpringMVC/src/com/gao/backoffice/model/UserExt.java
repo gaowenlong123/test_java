@@ -6,10 +6,12 @@ import java.util.*;
 //pojo 类型 包装类
 public class UserExt {
 
-   private User user;
+    private User user;
 
-/*   private List<User> users = new ArrayList<User>();
+   //集合参数
+   private List<User> users = new ArrayList<User>();
 
+    //map参数
    private Map<String,Object> infos = new HashMap<String,Object>();
 
     public Map<String, Object> getInfos() {
@@ -26,20 +28,29 @@ public class UserExt {
 
     public void setUsers(List<User> users) {
         this.users = users;
-    }*/
-
-    @Override
-    public String toString() {
-        return "UserExt{" +
-                "user=" + user +
-                '}';
     }
 
+//    @Override
+//    public String toString() {
+//        return "UserExt{" +
+//                "user=" + user +
+//                '}';
+//    }
+//
     public User getUser() {
         return user;
     }
 
     public void setUser(User user) {
         this.user = user;
+    }
+
+    @Override
+    public String toString() {
+        return "UserExt{" +
+                "user=" + user +
+                ", users=" + users +
+                ", infos=" + infos +
+                '}';
     }
 }
