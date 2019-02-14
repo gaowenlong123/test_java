@@ -19,6 +19,13 @@ package Spring_MVC;
  *
  *
  * 3： SpringMVC 与 Struts 的区别 ：
+ *                  structs是基于过滤器实现的  。 多例的
+ *                  springMVC 是基于 servlet 实现的 ，比过滤器快。 单例的  （快）
+ *
+ *                  structs是基于属性的封装
+ *                  springMVC是基于方法的封装
+ *
+ *
  *
  *
  *
