@@ -15,7 +15,17 @@ package Redis;
  *              集合类型
  *              有序集合类型
  *
- *
+ *     2： redis 安装
+ *                  1：在虚拟机上安装Centos
+ *                  2：安装C语言的环境 ，安装gcc环境  yum install gcc-c++（centOS自带c语言的编译环境，不需要安装）
+ *                  3: 将下载的redis 上传到 服务器
+ *                  4：解压Redis源码 tar -zxf redis-3.0.0.tar.gz
+ *                  5：编译 redis 源码
+ *                                    cd redis-3.0.0
+ *                                    make
+ *                  6: 安装redis
+ *                               make install PREFIX=/user/local/redis
+ *                  7: 启动
  *
  * Created by Administrator on 2019/2/15 0015.
  */
