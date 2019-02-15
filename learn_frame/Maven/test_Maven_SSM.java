@@ -40,7 +40,7 @@ package Maven;
  *
  *          9：manager中先集成SpringMVC
  *                                  在pom.xml 添加spring/springMVC的依赖
- *                                  aop , aspects , beans ,context ,core , expression ,orm ,tx,test,web ,webmvc
+ *                                  aop , aspects , beans ,context ,core , expression ,orm ,tx,test.txt,web ,webmvc
  *                                  但是版本号看成一个变量 ，定义在父工程的pom.xml文件中
  *          10：Tomcat跑工程
  *                                  配置本地tomcat
