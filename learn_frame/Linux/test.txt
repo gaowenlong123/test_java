@@ -1,0 +1,20 @@
+1: VMwave 安装 centos
+4：命令创建文件，文件夹 ，权限
+5：联网
+6：文件的操作
+7：解压
+8：vim
+9：管道，重定向输出，网络命令，系统配置
+10：系统管理命令
+11：用户管理
+12：组管理
+13：文件权限管理
+14：安装JDK    RPM : 先卸载自带的jdk，再安装sun公司的jdk，配置环境变量
+16：安装mysql  RPM : 先卸载自带的mysql，再安装mysql，配置环境变量，设置一系列
+17：tomcat
+18：部署SSM ： 把war包部署到tomcat
+                1：现在linux的mysql创建表，初始化数据 ，导入windowd的mysql数据
+                把ssm web项目打包成war ，进入父工程中 ，mvn 打包到target文件。数据库的ip要不要改
+                上传到liux的tomcat的webapps中 ，会自动解压
+
+21：Linux 下配置 ngix

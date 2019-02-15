@@ -1,4 +1,4 @@
-学习进度：   12    maven
+学习进度：   redis   2
 
 问题   ：SpringMVC配置json失败
 
